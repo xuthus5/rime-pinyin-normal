@@ -37,7 +37,7 @@ func main() {
 		}
 
 		arr := strings.Split(string(body), " ")
-		line := fmt.Sprintf("%s %s %d\n", arr[0], strings.Join(arr[3:], " "), string2Int(arr[1]))
+		line := fmt.Sprintf("%s	%s	%d\n", arr[0], strings.Join(arr[3:], " "), string2Int(arr[1]))
 		buffer = append(buffer, []byte(line)...)
 	}
 
