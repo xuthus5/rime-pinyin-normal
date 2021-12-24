@@ -1,4 +1,4 @@
-module merge_userdb
+module github.com/xuthus5/rime-pinyin-normal/merge_userdb
 
 go 1.17
 
