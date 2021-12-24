@@ -172,14 +172,6 @@ func makeInt64OneSlice(l int) []int64 {
 	return res
 }
 
-func sumWeight(w []int64) int64 {
-	var res int64
-	for _, v := range w {
-		res += v
-	}
-	return res
-}
-
 func string2Float64(s string) float64 {
 	f, err := strconv.ParseFloat(s, 64)
 	if err != nil {
