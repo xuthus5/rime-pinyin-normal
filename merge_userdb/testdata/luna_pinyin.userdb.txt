@@ -1,0 +1,4265 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	76495
+#@/user_id	rime-windows
+a 	啊	c=34 d=0.00152301 t=76495
+a 	嗄	c=0 d=6.81196e-103 t=76495
+a a 	啊啊	c=1 d=1.70154e-18 t=76495
+a bi 	阿比	c=0 d=4.23378e-08 t=76495
+a fu han 	阿富汗	c=3 d=3.76677e-24 t=76495
+a gen ting 	阿根廷	c=1 d=8.37548e-33 t=76495
+a ji 	阿吉	c=1 d=2.23967e-45 t=76495
+a ka 	阿卡	c=1 d=6.77496e-38 t=76495
+a li 	阿里	c=6 d=5.06789e-05 t=76495
+a li yun 	阿里云	c=5 d=2.13962e-12 t=76495
+a san 	阿三	c=1 d=6.59982e-24 t=76495
+a si lan 	阿斯蘭	c=0 d=1.07628e-101 t=76495
+a si lan kou dai mo fang ka la 	阿斯蘭口袋魔方卡拉	c=1 d=1.08167e-100 t=76495
+a song 	啊送	c=1 d=5.39612e-08 t=76495
+a zi 	阿紫	c=0 d=4.03102e-107 t=76495
+ai 	愛	c=1 d=8.1028e-26 t=76495
+ai 	矮	c=1 d=1.31537e-19 t=76495
+ai ca 	挨擦	c=0 d=3.50963e-07 t=76495
+ai ca shou dong 	挨擦手動	c=1 d=3.52722e-06 t=76495
+ai qi yi 	爱奇艺	c=2 d=5.99859e-10 t=76495
+ai ren 	愛人	c=0 d=3.70921e-40 t=76495
+ai te 	爱特	c=5 d=4.21607e-29 t=76495
+ai wen 	愛問	c=1 d=8.44527e-13 t=76495
+ai yi dian 	矮一點	c=1 d=2.45359e-30 t=76495
+ai yo 	哎唷	c=1 d=6.25641e-13 t=76495
+ai zhe li 	愛這裏	c=1 d=3.41439e-94 t=76495
+an 	安	c=1 d=3.92853e-09 t=76495
+an 	按	c=15 d=0.8643 t=76495
+an 	暗	c=0 d=6.81196e-103 t=76495
+an hang 	按行	c=1 d=7.91244e-11 t=76495
+an hui 	安徽	c=2 d=2.4545e-05 t=76495
+an jian 	安檢	c=1 d=8.52641e-96 t=76495
+an jiu 	暗九	c=1 d=2.97418e-29 t=76495
+an li 	按例	c=1 d=9.42085e-05 t=76495
+an li 	案例	c=7 d=4.99669e-15 t=76495
+an mian yao 	安眠藥	c=1 d=3.72971e-45 t=76495
+an niu 	按鈕	c=18 d=0.106237 t=76495
+an pai 	安排	c=12 d=0.0131675 t=76495
+an pai dian 	安排點	c=1 d=5.87647e-70 t=76495
+an pai shang 	安排上	c=1 d=4.59704e-93 t=76495
+an pi 	按批	c=1 d=9.21203e-06 t=76495
+an quan 	安全	c=2 d=9.25148e-75 t=76495
+an shi 	按時	c=1 d=1.92103e-63 t=76495
+an tu cheng 	安土城	c=1 d=8.59572e-103 t=76495
+an xin 	安心	c=1 d=1.1754e-107 t=76495
+an yue 	按月	c=1 d=1.82367e-10 t=76495
+an zhao 	按照	c=98 d=0.819481 t=76495
+an zhuang 	安裝	c=27 d=1.30103 t=76495
+an zhuo 	安卓	c=223 d=2.9807 t=76495
+an zhuo 	案桌	c=1 d=1.5779e-101 t=76495
+an zhuo le 	安卓了	c=1 d=1.72508e-62 t=76495
+an zhuo mei you 	安卓沒有	c=2 d=1.79652e-10 t=76495
+an zu 	按組	c=1 d=2.6247e-29 t=76495
+ang 	昂	c=1 d=3.05925e-96 t=76495
+ang ang 	昂昂	c=0 d=1.66264e-41 t=76495
+ao 	奧	c=1 d=1.04404e-07 t=76495
+ao 	熬	c=0 d=0.0782705 t=76495
+ao ao 	凹凹	c=1 d=9.43981e-58 t=76495
+ao ao 	嗷嗷	c=3 d=2.73629e-18 t=76495
+ao guo le 	熬過了	c=1 d=0.786628 t=76495
+ao li gei 	奧力給	c=1 d=9.6128e-07 t=76495
+ao men 	澳門	c=4 d=0.325841 t=76495
+ao ri 	奥日	c=1 d=5.74035e-59 t=76495
+ao te man 	奧特曼	c=1 d=6.48036e-15 t=76495
+ba 	八	c=2 d=2.37169e-14 t=76495
+ba 	叭	c=3 d=1.49773e-89 t=76495
+ba 	吧	c=256 d=1.7948 t=76495
+ba 	壩	c=1 d=0.540641 t=76495
+ba 	把	c=340 d=2.64927 t=76495
+ba 	霸	c=1 d=4.28813e-10 t=76495
+ba ba 	吧吧	c=1 d=4.71453e-37 t=76495
+ba ba 	爸爸	c=1 d=2.71718e-54 t=76495
+ba ba 	粑粑	c=0 d=0.0798516 t=76495
+ba bai ban 	八佰伴	c=1 d=5.19707e-07 t=76495
+ba gu wen 	八股文	c=6 d=6.97913e-05 t=76495
+ba gua 	八卦	c=2 d=0.204948 t=76495
+ba hao xian 	八號線	c=1 d=5.48665e-86 t=76495
+ba huo guan 	拔火罐	c=1 d=3.51023e-08 t=76495
+ba ji si tan 	巴基斯坦	c=1 d=2.18593e-24 t=76495
+ba jiu dian 	八九點	c=1 d=0.110803 t=76495
+ba kong 	把控	c=4 d=3.23979e-06 t=76495
+ba na 	把那	c=0 d=2.51014e-05 t=76495
+ba na ge 	把那個	c=1 d=8.44328e-69 t=76495
+ba ni 	把你	c=4 d=0.238115 t=76495
+ba ni de 	把你的	c=2 d=2.60805e-13 t=76495
+ba ni men 	把你们	c=1 d=1.00249e-88 t=76495
+ba qu 	八區	c=1 d=6.52394e-35 t=76495
+ba ta 	把她	c=1 d=1.54334e-17 t=76495
+ba ta 	把它	c=10 d=0.13399 t=76495
+ba tian 	八天	c=1 d=3.48667e-17 t=76495
+ba wo 	把我	c=3 d=1.83313e-12 t=76495
+ba wo 	把握	c=1 d=1.74337e-39 t=76495
+ba wo men 	把我们	c=1 d=4.37327e-06 t=76495
+ba xi 	巴西	c=1 d=8.3337e-33 t=76495
+ba yue di 	八月底	c=1 d=1.05921e-59 t=76495
+ba zhe ge 	把这个	c=3 d=0.00123091 t=76495
+ba zhe li 	把这里	c=1 d=8.37717e-06 t=76495
+ba zhe xie 	把這些	c=1 d=7.65331e-32 t=76495
+ba zi 	巴子	c=0 d=1.64184e-40 t=76495
+bai 	白	c=2 d=0.00285814 t=76495
+bai de 	白的	c=0 d=4.81304e-46 t=76495
+bai du 	百度	c=5 d=5.06876e-07 t=76495
+bai du tie ba 	百度貼吧	c=1 d=4.20639e-107 t=76495
+bai fen bi 	白粉筆	c=1 d=2.99784e-34 t=76495
+bai fen bi 	百分比	c=2 d=6.56622e-34 t=76495
+bai jiang le 	白讲了	c=1 d=1.09009e-103 t=76495
+bai lai kuai 	百來塊	c=1 d=0.00019647 t=76495
+bai ling 	白領	c=1 d=3.8352e-79 t=76495
+bai ma 	白馬	c=0 d=0.0390628 t=76495
+bai ma yi cong 	白馬義從	c=1 d=0.392586 t=76495
+bai ming dan 	白名单	c=2 d=4.87235e-42 t=76495
+bai piao 	拜票	c=1 d=4.99621e-102 t=76495
+bai piao 	白嫖	c=10 d=0.160135 t=76495
+bai piao dang 	白嫖党	c=1 d=2.31969e-105 t=76495
+bai piao guai 	白嫖怪	c=3 d=1.80989e-09 t=76495
+bai ren 	白人	c=2 d=7.40416e-24 t=76495
+bai tian 	白天	c=1 d=0.375311 t=76495
+bai tuo 	擺脫	c=2 d=2.62381e-25 t=76495
+bai tuo le 	拜託了	c=1 d=1.53241e-51 t=76495
+bai wan 	百萬	c=3 d=4.84489e-05 t=76495
+bai wu chang 	白無常	c=1 d=5.16203e-45 t=76495
+bai yun dou 	白芸豆	c=1 d=0.0287246 t=76495
+ban 	半	c=4 d=0.00606634 t=76495
+ban 	搬	c=2 d=3.09746e-95 t=76495
+ban 	版	c=5 d=0.946485 t=76495
+ban 	班	c=1 d=0.562705 t=76495
+ban 	辦	c=2 d=4.15621e-50 t=76495
+ban ben 	版本	c=84 d=1.79543 t=76495
+ban ben hao 	版本號	c=2 d=4.06834e-38 t=76495
+ban bu 	搬不	c=1 d=1.21979e-102 t=76495
+ban bu 	頒佈	c=1 d=7.9211e-112 t=76495
+ban bu cheng 	辦不成	c=1 d=0.00267181 t=76495
+ban dao 	搬到	c=3 d=0.50409 t=76495
+ban fa 	辦法	c=5 d=4.17218e-11 t=76495
+ban fen zhong 	半分鐘	c=1 d=1.21024e-39 t=76495
+ban gong 	辦公	c=1 d=2.02378e-29 t=76495
+ban gong shi 	辦公室	c=2 d=1.42861e-20 t=76495
+ban guo lai 	搬过来	c=1 d=8.95043e-20 t=76495
+ban jin ba liang 	半斤八兩	c=1 d=0.0731678 t=76495
+ban ka 	辦卡	c=1 d=1.10495e-27 t=76495
+ban li 	辦理	c=7 d=0.782705 t=76495
+ban mian 	板面	c=1 d=3.80258e-08 t=76495
+ban nian 	半年	c=1 d=4.06972e-42 t=76495
+ban shu 	半數	c=1 d=5.28876e-95 t=76495
+ban si 	半死	c=0 d=3.84015e-07 t=76495
+ban si bu guo 	半死不過	c=1 d=3.8594e-06 t=76495
+ban tian 	半天	c=1 d=0.000432902 t=76495
+ban xia 	半夏	c=0 d=0.0139457 t=76495
+ban xia lian 	半夏戀	c=1 d=0.140156 t=76495
+ban xiao shi 	半小時	c=5 d=1.24675e-06 t=76495
+ban yi xia 	搬一下	c=1 d=1.51629e-103 t=76495
+ban yun 	搬運	c=2 d=3.4681e-13 t=76495
+ban zhuan 	搬砖	c=2 d=0.000147504 t=76495
+ban zhuan 	板磚	c=1 d=7.19168e-05 t=76495
+ban zhuan ba 	板磚把	c=1 d=1.82858e-71 t=76495
+bang 	綁	c=2 d=6.44256e-05 t=76495
+bang 	邦	c=3 d=5.10073e-32 t=76495
+bang ding 	綁定	c=27 d=0.0673772 t=76495
+bang lian 	邦聯	c=1 d=1.50339e-32 t=76495
+bang mang 	幫忙	c=14 d=0.241057 t=76495
+bang ni 	幫你	c=7 d=0.26982 t=76495
+bang ta 	幫他	c=3 d=0.00178203 t=76495
+bang wo 	幫我	c=4 d=0.740818 t=76495
+bang zhi jian 	邦之間	c=1 d=1.62048e-32 t=76495
+bang zhu 	幫助	c=3 d=0.0267827 t=76495
+bao 	包	c=51 d=1.20295 t=76495
+bao 	報	c=14 d=0.546074 t=76495
+bao 	寶	c=0 d=0.00330412 t=76495
+bao 	爆	c=1 d=1.86013e-37 t=76495
+bao 	飽	c=0 d=8.85685e-15 t=76495
+bao an 	保安	c=2 d=4.95809e-12 t=76495
+bao bian liang 	包變量	c=4 d=6.39714e-10 t=76495
+bao bu liao 	報不了	c=1 d=0.000157671 t=76495
+bao bu liao cu o 	包不了粗哦	c=1 d=0.000156885 t=76495
+bao chi 	保持	c=5 d=0.0365162 t=76495
+bao chu 	報出	c=2 d=9.16762e-08 t=76495
+bao chu lai 	報出來	c=1 d=2.82173e-57 t=76495
+bao chu lai 	抱出來	c=8 d=1.1804e-10 t=76495
+bao chu qu 	報出去	c=1 d=9.32968e-67 t=76495
+bao cun 	保存	c=21 d=0.0122773 t=76495
+bao cun 	抱存	c=1 d=2.65893e-05 t=76495
+bao cuo 	報錯	c=44 d=0.062318 t=76495
+bao cuo dian 	報錯點	c=1 d=1.43695e-59 t=76495
+bao cuo la 	报错啦	c=1 d=2.11952e-14 t=76495
+bao de 	報的	c=7 d=7.67867e-11 t=76495
+bao de ba 	報的吧	c=1 d=3.83349e-15 t=76495
+bao de cuo 	报的错	c=2 d=4.27779e-11 t=76495
+bao di 	保底	c=1 d=4.30582e-29 t=76495
+bao di 	寶地	c=1 d=1.42221e-27 t=76495
+bao di zhi 	包地址	c=1 d=0.025223 t=76495
+bao ding 	保定	c=1 d=4.96754e-05 t=76495
+bao fa 	爆發	c=2 d=6.55915e-32 t=76495
+duo da 	多打	c=1 d=7.32479e-103 t=76495
+duo da 	多達	c=1 d=1.24295e-88 t=76495
+duo da dian shi 	多大點事	c=0 d=5.74897e-107 t=76495
+duo da dian shi san dian shui de 	多大點事三点睡的	c=1 d=5.77778e-106 t=76495
+duo duo 	朵朵	c=3 d=0.677424 t=76495
+duo fa 	多發	c=5 d=0.0227088 t=76495
+duo fa sa duo fa sa 	多發颯多發颯	c=1 d=5.87747e-72 t=76495
+duo fa shi de fa sheng fa 	多發是的發聲法	c=1 d=5.84816e-72 t=76495
+duo ge 	多個	c=24 d=1.02548e-09 t=76495
+duo gei 	多給	c=2 d=1.42609e-58 t=76495
+duo hang 	多行	c=6 d=1.87041e-06 t=76495
+duo he dian 	多喝點	c=1 d=8.36266e-15 t=76495
+duo jie dian 	多節點	c=1 d=5.81583e-95 t=76495
+duo jiu 	多久	c=9 d=0.412396 t=76495
+duo kai 	多開	c=3 d=0.759572 t=76495
+duo kan dian 	多看點	c=1 d=1.32575e-82 t=76495
+duo lai 	多來	c=1 d=6.54751e-48 t=76495
+duo le 	多了	c=4 d=3.51087e-20 t=76495
+duo nian 	多年	c=1 d=8.89339e-33 t=76495
+duo nian 	躲年	c=1 d=8.84903e-33 t=76495
+duo qi 	多起	c=1 d=5.99965e-20 t=76495
+duo quan xian 	多權限	c=2 d=5.14523e-93 t=76495
+duo shao 	多少	c=29 d=0.0676444 t=76495
+duo shao 	多燒	c=3 d=7.59407e-13 t=76495
+duo shao ge 	多少個	c=4 d=0.000160053 t=76495
+duo shao miao 	多少秒	c=7 d=3.92787e-07 t=76495
+duo shao miao 	多燒秒	c=1 d=8.14126e-111 t=76495
+duo shao ren 	多少人	c=2 d=1.35317e-28 t=76495
+duo shao tiao 	多少條	c=1 d=2.03836e-84 t=76495
+duo shua 	多刷	c=1 d=1.31063e-06 t=76495
+duo tiao 	多條	c=4 d=5.32286e-53 t=76495
+duo wan 	多萬	c=1 d=3.22803e-22 t=76495
+duo wen jian 	多文件	c=1 d=8.05614e-105 t=76495
+duo xiang 	多香	c=1 d=3.52291e-21 t=76495
+duo xiao shi 	多小時	c=1 d=1.21168e-53 t=76495
+duo xuan 	多選	c=3 d=1.24692e-08 t=76495
+duo ye mian 	多頁面	c=1 d=2.08641e-64 t=76495
+duo yi dian 	多一點	c=2 d=3.89938e-39 t=76495
+duo yin zi 	多音字	c=2 d=8.25807e-14 t=76495
+duo yong 	多用	c=1 d=1.66699e-12 t=76495
+duo yu 	多餘	c=3 d=8.92277e-13 t=76495
+duo yun 	多雲	c=2 d=7.19875e-38 t=76495
+duo zhang 	多張	c=0 d=6.08145e-92 t=76495
+duo zhang hao 	多張好	c=1 d=6.11194e-91 t=76495
+duo zui 	多嘴	c=1 d=1.42954e-57 t=76495
+e 	哦	c=1 d=2.39586e-44 t=76495
+e 	屙	c=3 d=0.798516 t=76495
+e 	額	c=23 d=0.756161 t=76495
+e gao 	惡搞	c=0 d=1.22878e-13 t=76495
+e le 	饿了	c=4 d=1.44125e-06 t=76495
+e lie 	惡劣	c=1 d=5.48478e-82 t=76495
+e meng 	噩夢	c=1 d=2.89483e-05 t=76495
+e ren 	惡人	c=1 d=2.76474e-111 t=76495
+e shi 	俄式	c=1 d=2.79812e-17 t=76495
+e wai 	額外	c=3 d=8.10861e-05 t=76495
+e xin 	噁心	c=28 d=0.582012 t=76495
+e yi 	惡意	c=1 d=1.81236e-25 t=76495
+ei 	誒	c=3 d=5.64238e-33 t=76495
+ei ya 	诶呀	c=4 d=0.00489275 t=76495
+ei yo 	诶哟	c=1 d=1.95351e-25 t=76495
+en 	恩	c=28 d=0.425601 t=76495
+en wu 	恩吳	c=1 d=2.07643e-37 t=76495
+eng hui 	嗯會	c=1 d=5.68342e-30 t=76495
+er 	二	c=5 d=2.931e-05 t=76495
+er 	而	c=18 d=0.744532 t=76495
+er 	耳	c=0 d=1.64184e-40 t=76495
+er ba zi 	耳巴子	c=1 d=1.65007e-39 t=76495
+er bu shi 	而不是	c=15 d=0.439594 t=76495
+er ci 	二次	c=2 d=1.0365e-10 t=76495
+er ci yuan 	二次元	c=1 d=3.72059e-75 t=76495
+er fei 	而非	c=1 d=1.28653e-111 t=76495
+er fen zhi yi 	二分之一	c=1 d=2.07058e-92 t=76495
+er gui zi 	二鬼子	c=2 d=1.71713e-25 t=76495
+er hun 	二婚	c=1 d=1.70356e-32 t=76495
+er ji 	耳機	c=2 d=0.00337959 t=76495
+er ji neng 	二技能	c=1 d=0.190139 t=76495
+er jin zhi 	二進制	c=2 d=2.14491e-07 t=76495
+er lie 	二列	c=1 d=0.198891 t=76495
+er mao zi 	二毛子	c=1 d=2.38148e-32 t=76495
+er mian 	二麪	c=1 d=0.053397 t=76495
+er pang feng 	耳旁風	c=1 d=1.49325e-70 t=76495
+er qie 	而且	c=20 d=0.000147034 t=76495
+er ru 	而入	c=2 d=1.45272e-11 t=76495
+er shi 	二十	c=1 d=2.32434e-11 t=76495
+er shi 	而是	c=6 d=7.23265e-13 t=76495
+er shi fen zhong 	二十分钟	c=1 d=0.0769192 t=76495
+er shi qi 	二十七	c=0 d=3.8074e-112 t=76495
+er shi qi ba 	二十七八	c=1 d=3.82648e-111 t=76495
+er shi yi 	二十一	c=1 d=6.90175e-109 t=76495
+er tai 	二胎	c=1 d=2.13146e-80 t=76495
+er wei ma 	二維碼	c=36 d=1.00068e-08 t=76495
+er wu fa 	而無法	c=1 d=4.29909e-40 t=76495
+er xuan yi 	二選一	c=1 d=0.00211225 t=76495
+er yi 	而以	c=15 d=0.891366 t=76495
+er zhan 	二戰	c=2 d=4.27183e-24 t=76495
+er zhe 	二者	c=1 d=0.000169951 t=76495
+er zhi hua 	二值化	c=1 d=8.32723e-112 t=76495
+er zi 	兒子	c=1 d=0.00124328 t=76495
+fa 	法	c=2 d=0.126187 t=76495
+fa 	發	c=65 d=0.913533 t=76495
+fa ba 	发吧	c=1 d=1.46389e-101 t=76495
+fa ban 	發版	c=50 d=1.027 t=76495
+fa ban le 	發版了	c=3 d=0.70822 t=76495
+fa bi 	法幣	c=1 d=4.00124e-107 t=76495
+fa bu 	發不	c=0 d=3.25184e-80 t=76495
+fa bu 	發佈	c=15 d=1.27871e-10 t=76495
+fa bu chu 	發不出	c=2 d=3.98032e-17 t=76495
+fa bu chu lai 	發不出來	c=1 d=6.30921e-53 t=76495
+fa bu chu qu 	發不出去	c=1 d=4.00027e-16 t=76495
+fa bu hui 	發佈會	c=1 d=0.000105163 t=76495
+fa bu le 	发布了	c=2 d=3.83076e-36 t=76495
+fa bu liao 	發不了	c=4 d=2.54895e-08 t=76495
+fa bu qian 	發佈前	c=1 d=4.16525e-109 t=76495
+fa ce shi 	發測試	c=2 d=0.0131019 t=76495
+fa che 	發車	c=1 d=3.46363e-86 t=76495
+fa chu 	發出	c=1 d=0.000202454 t=76495
+fa chu lai 	發出來	c=4 d=0.060205 t=76495
+fa chu qu 	發出去	c=1 d=2.28492e-45 t=76495
+fa cuo 	發錯	c=4 d=4.71621e-19 t=76495
+fa cuo da kai si fa ju kai sa du nai fen kai sa du nai fen 	發錯打開司法局凱撒毒奶粉凱撒毒奶粉	c=1 d=9.43208e-19 t=76495
+fa cuo le 	发错了	c=1 d=1.80885e-61 t=76495
+fa da 	發達	c=0 d=0.099005 t=76495
+fa dao 	發到	c=6 d=6.20596e-06 t=76495
+fa de 	發的	c=5 d=0.0418952 t=76495
+fa de sha 	發的啥	c=1 d=1.01819e-65 t=76495
+fa duo le 	發多了	c=1 d=7.29369e-53 t=76495
+fa fa 	發發	c=0 d=4.30802e-36 t=76495
+fa fa fa 	發發發	c=1 d=4.32961e-35 t=76495
+fa fa fa fa fa fa fa fa 	发发发发发发发发	c=0 d=0.000323088 t=76495
+fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa 	发发发发发发发发发发发发发发发发	c=1 d=0.00324708 t=76495
+fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa feng fu fang fang fang fa fa fa fa fa fa fa fa 	发发发发发发发发发发发发发发发发豐富方芳芳发发发发发发发发	c=1 d=7.22896e-07 t=76495
+fa fan fan fu fu 	發反反覆覆	c=1 d=6.43405e-107 t=76495
+fa ge 	發個	c=4 d=1.30117e-10 t=76495
+fa ge ban 	發個版	c=1 d=2.0993e-107 t=76495
+fa gei 	發給	c=7 d=0.295292 t=76495
+fa gei ni 	發給你	c=3 d=0.0581343 t=76495
+fa gei shui 	發給誰	c=2 d=2.10931e-16 t=76495
+fa gei wo 	发给我	c=4 d=0.00131358 t=76495
+fa gong gao 	發公告	c=3 d=1.41734e-44 t=76495
+fa guo 	法國	c=2 d=8.25642e-24 t=76495
+fa guo lai 	發過來	c=1 d=5.36538e-30 t=76495
+fa guo qu 	發過去	c=0 d=8.37717e-07 t=76495
+fa guo ren 	法國人	c=2 d=1.111e-23 t=76495
+fa hua 	發話	c=1 d=3.40648e-08 t=76495
+fa hui 	發揮	c=0 d=1.18587e-36 t=76495
+fa huo 	發火	c=1 d=2.32545e-46 t=76495
+fa lan xi 	法蘭西	c=1 d=4.06349e-24 t=76495
+fa le 	發了	c=31 d=1.12168 t=76495
+fa le ma 	發了嗎	c=1 d=9.95488e-36 t=76495
+fa le ya 	發了呀	c=1 d=0.0972957 t=76495
+fa li 	發力	c=1 d=6.99295e-87 t=76495
+fa lv 	法律	c=1 d=1.45762e-80 t=76495
+fa mei wen ti 	發沒問題	c=1 d=2.54965e-70 t=76495
+fa ni 	发你	c=4 d=4.82155e-07 t=76495
+fa ou 	發嘔	c=0 d=0.0196912 t=76495
+fa ou shi na ge 	發嘔是哪个	c=3 d=0.197899 t=76495
+fa qi 	發起	c=32 d=0.366045 t=76495
+fa qi de 	发起的	c=1 d=3.24842e-96 t=76495
+fa qi lai 	發起來	c=1 d=4.976e-25 t=76495
+fa qi le 	發起了	c=1 d=1.35023e-62 t=76495
+fa quan 	髮圈	c=1 d=7.0661e-33 t=76495
+fa shang lai 	發上來	c=1 d=4.02198e-109 t=76495
+fa shang qu 	發上去	c=4 d=2.70565e-05 t=76495
+fa shang qu le 	發上去了	c=1 d=0.000271921 t=76495
+fa shao 	發燒	c=1 d=3.20364e-21 t=76495
+fa sheng 	發生	c=5 d=5.2611e-05 t=76495
+fa sheng de 	發生地	c=0 d=4.0163e-07 t=76495
+fa sheng de fa sheng de 	發生地發生地	c=2 d=3.3552e-06 t=76495
+fa sheng fa 	發聲法	c=0 d=5.81899e-73 t=76495
+fa sheng yi ci 	發生一次	c=1 d=8.48822e-102 t=76495
+fa song 	發送	c=339 d=2.06291 t=76495
+fa song da fa shi da fu 	發送打發士大夫	c=2 d=1.81101e-75 t=76495
+fa song gong gao 	發送公告	c=1 d=7.1444e-45 t=76495
+fa song guo 	發送過	c=2 d=0.00543443 t=76495
+fa song jie guo 	發送結果	c=1 d=3.99525e-60 t=76495
+fa song le 	发送了	c=1 d=6.12939e-07 t=76495
+fa song zhe 	發送者	c=30 d=0.000119165 t=76495
+fa song zhong 	发送中	c=7 d=1.11993e-09 t=76495
+fa tu pian 	發圖片	c=2 d=4.93504e-16 t=76495
+fa wan 	發完	c=9 d=0.941765 t=76495
+fa wan ban 	發完版	c=1 d=2.14112e-45 t=76495
+fa wan le 	发完了	c=11 d=5.87897e-07 t=76495
+fa wo 	发我	c=36 d=0.396131 t=76495
+fa xia 	發下	c=1 d=3.41624e-71 t=76495
+fa xia 	罰下	c=1 d=3.39921e-71 t=76495
+fa xian 	發現	c=24 d=0.554327 t=76495
+fa xian le 	发现了	c=1 d=5.08188e-08 t=76495
+fa xiao xi 	發消息	c=19 d=0.093349 t=76495
+fa xing ban 	发行版	c=1 d=7.56685e-15 t=76495
+fa yan 	發言	c=8 d=8.35555e-05 t=76495
+fa yi bo 	發一撥	c=1 d=1.02511e-27 t=76495
+fa yi ci 	发一次	c=2 d=5.30387e-11 t=76495
+fa yi ge 	发一个	c=3 d=1.57725e-08 t=76495
+fa yi tiao 	發一條	c=4 d=3.49212e-06 t=76495
+fa yi xia 	发一下	c=9 d=0.955997 t=76495
+fa yu 	發育	c=1 d=2.56303e-14 t=76495
+fa zhan 	發展	c=3 d=3.5174e-32 t=76495
+fa zhe ge 	發這個	c=1 d=6.14088e-29 t=76495
+fa zhi qian 	發之前	c=1 d=1.19242e-41 t=76495
+fan 	反	c=3 d=2.47918e-05 t=76495
+fan 	煩	c=2 d=9.04808e-30 t=76495
+fan 	犯	c=1 d=1.44971e-17 t=76495
+fan 	翻	c=2 d=2.12429e-11 t=76495
+fan 	范	c=1 d=7.09622e-83 t=76495
+fan 	飯	c=5 d=9.8263e-14 t=76495
+fan ban 	帆板	c=1 d=9.0131e-102 t=76495
+fan bu fan fa 	犯不犯法	c=1 d=1.45697e-16 t=76495
+fan bu shen fan 	煩不甚煩	c=1 d=4.56338e-36 t=76495
+fan dao 	反倒	c=1 d=6.54104e-07 t=76495
+fan de 	反的	c=1 d=0.0448245 t=76495
+fan de sa 	范德薩	c=1 d=0.099005 t=76495
+fan de sa fa da shi 	范德薩發達是	c=1 d=0.995012 t=76495
+fan de sa fa sheng de 	范德薩發生地	c=3 d=0.000118078 t=76495
+fan de sa fa song 	范德薩發送	c=1 d=3.5449e-06 t=76495
+fan de sa fa song de fang dao sha fa dian 	范德薩發送的放到沙發墊	c=1 d=2.9501e-51 t=76495
+fan de sa fa song dian feng shan 	范德薩發送電風扇	c=1 d=5.80674e-106 t=76495
+fan de sa fan de sa fa sheng de 	范德薩范德薩發生地	c=1 d=3.39769e-07 t=76495
+fan de sa fei 	范德薩非	c=1 d=2.44048e-23 t=76495
+fan de sa fei da su du fa shao deng fei 	范德薩非打速讀法稍等非	c=1 d=2.05332e-23 t=76495
+fan de sa fei su du fa shao deng fei 	范德薩非速讀法稍等非	c=1 d=2.04308e-23 t=76495
+fan de sa kuai ji fa na kuan shi de nuo fu ke shi de ne 	范德薩會計法哪款是的諾福克是的呢	c=1 d=9.38504e-19 t=76495
+fan de sa nan de ke fu na shi de 	范德薩难得克服那时的	c=1 d=3.38074e-07 t=76495
+fan dui 	反對	c=2 d=4.68359e-98 t=76495
+fan dui dang 	反對黨	c=0 d=1.63426e-15 t=76495
+fan dui dang shou fu shi de 	反對黨收復失地	c=1 d=1.64245e-14 t=76495
+fan dui fan dui fa 	反对反对法	c=0 d=3.62588e-08 t=76495
+fan dui fan dui fa de 	反对反对法的	c=2 d=3.64405e-07 t=76495
+fan dui pai 	反對派	c=1 d=2.98238e-32 t=76495
+fan er sai 	凡爾賽	c=1 d=0.000102055 t=76495
+fan fa 	犯法	c=0 d=1.44971e-17 t=76495
+fan fan fu fu 	反反覆覆	c=17 d=0.00194581 t=76495
+fan gan 	反感	c=2 d=2.2106e-09 t=76495
+fan gei 	反給	c=2 d=0.00629818 t=76495
+fan gei ni 	反給你	c=2 d=0.0281559 t=76495
+fan gei wo 	反給我	c=2 d=0.0632918 t=76495
+fan guo lai 	反過來	c=1 d=3.36492e-40 t=76495
+fan hua 	反華	c=1 d=4.98804e-24 t=76495
+fan hui 	返回	c=167 d=0.546844 t=76495
+fan hui kong 	返回空	c=1 d=7.73681e-41 t=76495
+fan hui zhi 	返回值	c=9 d=5.23664e-08 t=76495
+fan jie 	反解	c=1 d=2.03746e-20 t=76495
+fan jie xi 	泛解析	c=1 d=7.75287e-36 t=76495
+fan ju 	飯局	c=1 d=5.52748e-85 t=76495
+fan kui 	反饋	c=4 d=0.0472367 t=76495
+fan kui o 	反饋哦	c=1 d=0.474734 t=76495
+fan lan 	氾濫	c=1 d=2.9342e-105 t=76495
+fan le 	反了	c=2 d=7.90681e-32 t=76495
+fan le 	煩了	c=1 d=6.24643e-53 t=76495
+fan le 	翻了	c=1 d=3.20811e-08 t=76495
+fan mai 	販賣	c=1 d=4.77276e-05 t=76495
+fan nao 	煩惱	c=1 d=2.17052e-29 t=76495
+fan pai 	反派	c=1 d=3.08977e-07 t=76495
+fan qian 	飯前	c=1 d=3.56438e-41 t=76495
+fan qiang 	翻牆	c=1 d=2.8411e-108 t=76495
+fan qie 	番茄	c=1 d=5.88906e-07 t=76495
+fan she 	反射	c=9 d=0.00143728 t=76495
+fan shi 	凡是	c=1 d=7.07331e-45 t=76495
+fan shi 	範式	c=1 d=1.78368e-102 t=76495
+fan shu 	番薯	c=1 d=3.69586e-26 t=76495
+fan suo 	繁瑣	c=1 d=1.95544e-66 t=76495
+fan tan fu 	反貪腐	c=0 d=4.72608e-08 t=76495
+fan ti 	繁體	c=2 d=2.72545e-21 t=76495
+fan ti zi 	繁體字	c=1 d=1.28954e-21 t=76495
+fan wei 	範圍	c=6 d=0.416862 t=76495
+fan wei nei 	範圍內	c=1 d=4.24027e-25 t=76495
+fan wo 	煩我	c=1 d=4.0339e-85 t=76495
+fan xiang 	反向	c=3 d=8.44095e-07 t=76495
+fan xiang 	反相	c=1 d=0.00135358 t=76495
+fan xiang dai li 	反向代理	c=1 d=0.00140882 t=76495
+fan xu lie hua 	反序列化	c=2 d=2.98062e-45 t=76495
+fan yi 	翻譯	c=1 d=0.00374406 t=76495
+fan yi ci 	反義詞	c=2 d=1.05769e-05 t=76495
+fan yi de 	翻譯的	c=1 d=0.0376283 t=76495
+fan ying 	反映	c=1 d=5.33317e-17 t=76495
+fan zheng 	反正	c=8 d=0.506622 t=76495
+fan zhuan 	反轉	c=2 d=3.83139e-39 t=76495
+fan zi 	販子	c=2 d=2.04595e-32 t=76495
+fang 	房	c=0 d=8.0918e-11 t=76495
+fang 	放	c=54 d=0.998346 t=76495
+fang 	方	c=1 d=3.5737e-76 t=76495
+fang 	防	c=1 d=4.30216e-19 t=76495
+fang an 	方案	c=18 d=0.211274 t=76495
+fang bian 	方便	c=11 d=0.0628085 t=76495
+fang cheng 	放成	c=1 d=2.78843e-35 t=76495
+fang chu 	放出	c=1 d=5.57906e-106 t=76495
+fang chu lai 	放出來	c=2 d=7.45292e-13 t=76495
+fang chu qu 	放出去	c=3 d=3.51812e-05 t=76495
+fang da 	放大	c=1 d=1.13724e-13 t=76495
+fang da 	放達	c=2 d=1.13157e-13 t=76495
+fang da shi 	放達是	c=1 d=1.62611e-15 t=76495
+fang dan 	放單	c=1 d=2.09424e-108 t=76495
+fang dao 	放到	c=13 d=0.00247307 t=76495
+fang dao 	防盜	c=1 d=2.23206e-05 t=76495
+fang dao fan dui fan dui fa 	放到反对反对法	c=1 d=5.78621e-35 t=76495
+fang dao sha fa dian 	放到沙發墊	c=1 d=0.000380129 t=76495
+fang dao wei shi 	防盗卫士	c=0 d=3.5898e-08 t=76495
+fang dao wei shi dian feng shan 	防盗卫士電風扇	c=1 d=3.60779e-07 t=76495
+fang fa 	方法	c=45 d=0.626031 t=76495
+fang fa 	訪法	c=1 d=1.07164e-108 t=76495
+fang fa ming 	方法名	c=1 d=1.57388e-71 t=76495
+fang fan 	防範	c=1 d=7.40746e-88 t=76495
+fang fang fang 	方芳芳	c=6 d=0.000279354 t=76495
+fang fei 	放飛	c=0 d=1.4611e-109 t=76495
+fang fei zi wo 	放飛自我	c=1 d=1.46842e-108 t=76495
+fang ge 	放個	c=0 d=0.000245409 t=76495
+fang ge jia 	放個假	c=1 d=0.00246639 t=76495
+fang gui zhen 	方貴震	c=1 d=4.96722e-63 t=76495
+fang huo 	放火	c=1 d=0.414783 t=76495
+fang huo qiang 	防火牆	c=3 d=6.74024e-07 t=76495
+fang jia 	房價	c=3 d=1.77405e-09 t=76495
+fang jia 	放假	c=2 d=7.47984e-26 t=76495
+fang jian 	房間	c=0 d=0.00395575 t=76495
+fang jian de 	房間的	c=1 d=0.0397558 t=76495
+fang kai 	放開	c=4 d=3.44845e-05 t=76495
+fang kuai 	方塊	c=1 d=0.255381 t=76495
+fang kuan 	放寬	c=3 d=2.12916e-44 t=76495
+fang la 	放辣	c=1 d=1.06054e-15 t=76495
+fang le 	放了	c=1 d=3.55313e-92 t=76495
+fang na 	放那	c=1 d=1.45921e-34 t=76495
+fang ni 	放你	c=1 d=2.84797e-107 t=76495
+fang pi 	放屁	c=2 d=8.23255e-07 t=76495
+fang qi 	放棄	c=4 d=3.36388e-07 t=76495
+fang sheng da ku 	放聲大哭	c=0 d=1.06025e-101 t=76495
+fang sheng da ku lu fang ji lu ka si de niu fen lan 	放聲大哭錄放機盧卡斯的紐芬蘭	c=1 d=1.06557e-100 t=76495
+fang shi 	方式	c=47 d=0.229357 t=76495
+fang shi de 	方式的	c=1 d=3.29314e-15 t=76495
+fang shi de fan su du fa shao deng fan 	方式的飯速讀法稍等飯	c=1 d=1.65896e-14 t=76495
+fang shui 	放水	c=2 d=5.6199e-31 t=76495
+fang song 	放鬆	c=2 d=0.00247875 t=76495
+fang wang 	防忘	c=1 d=7.00487e-107 t=76495
+fang wen 	訪問	c=27 d=1.83387 t=76495
+fang wen dao 	訪問到	c=1 d=1.05708e-06 t=76495
+fang wo zhe 	放我這	c=1 d=2.37291e-19 t=76495
+fang xiang 	方向	c=2 d=6.7904e-06 t=76495
+fang xiang 	芳香	c=1 d=6.72284e-06 t=76495
+fang xin 	放心	c=5 d=0.882497 t=76495
+fang xing 	放行	c=1 d=5.19884e-11 t=76495
+fang xing 	方行	c=3 d=7.06876e-08 t=76495
+fang yi kuai 	放一塊	c=1 d=2.47143e-27 t=76495
+fang yi xia 	放一下	c=1 d=1.22286e-14 t=76495
+fang you le 	房有了	c=1 d=8.13236e-10 t=76495
+fang zai 	放在	c=2 d=9.24059e-13 t=76495
+fang zai 	防災	c=1 d=3.49309e-68 t=76495
+fang zhe 	放着	c=3 d=3.11329e-08 t=76495
+fang zhe li 	放这里	c=5 d=0.0593087 t=76495
+fang zhi 	放置	c=5 d=0.263158 t=76495
+fang zhi 	防止	c=13 d=0.261846 t=76495
+fang zong 	放縱	c=1 d=2.84748e-105 t=76495
+fei 	廢	c=2 d=8.3859e-14 t=76495
+fei 	費	c=0 d=3.3583e-106 t=76495
+fei 	非	c=38 d=0.00145911 t=76495
+fei chang 	肥腸	c=1 d=2.25114e-105 t=76495
+fei chang da 	非常大	c=1 d=2.27376e-105 t=76495
+fei chang duo 	非常多	c=1 d=9.56618e-38 t=76495
+fei chi jiu hua 	非持久化	c=1 d=2.15765e-106 t=76495
+fei chu 	廢除	c=1 d=1.10992e-21 t=76495
+fei dao chu 	非導出	c=1 d=1.68111e-23 t=76495
+fei de 	废的	c=1 d=1.0043e-21 t=76495
+fei di nan 	斐迪南	c=0 d=1.81174e-22 t=76495
+fei fa 	非法	c=2 d=8.96138e-05 t=76495
+fei guan li yuan 	非管理員	c=1 d=9.04442e-84 t=76495
+fei hua 	廢話	c=1 d=3.18495e-11 t=76495
+fei kong 	非空	c=2 d=2.58282e-75 t=76495
+fei le 	廢了	c=5 d=1.44523e-09 t=76495
+fei le 	肥了	c=0 d=2.07806e-106 t=76495
+fei li 	費力	c=1 d=0.647265 t=76495
+fei ling 	非零	c=1 d=2.80345e-10 t=76495
+fei lu 	飛盧	c=1 d=0.00031751 t=76495
+fei lv bin 	菲律賓	c=1 d=5.6991e-33 t=76495
+fei qi 	廢棄	c=4 d=1.11166e-10 t=76495
+fei ren 	廢人	c=1 d=7.03707e-14 t=76495
+fei sheng 	飛昇	c=1 d=3.3471e-07 t=76495
+fei shi fan 	非師範	c=0 d=2.78804e-05 t=76495
+fei shi fan shi de fen shu de 	非師範實得分數的	c=1 d=0.000280202 t=76495
+fei shu 	飛書	c=31 d=0.0490458 t=76495
+fei shu qun 	飛書羣	c=2 d=5.41026e-31 t=76495
+fei wu 	廢物	c=4 d=4.30491e-13 t=76495
+fei zhou 	非州	c=3 d=8.22878e-24 t=76495
+fen 	份	c=1 d=0.099005 t=76495
+fen 	分	c=20 d=4.26133e-07 t=76495
+fen 	奋	c=1 d=0.951229 t=76495
+fen bie 	分別	c=4 d=0.0368839 t=76495
+fen bu 	分步	c=1 d=1.9241e-23 t=76495
+fen bu qing 	分不清	c=1 d=2.65659e-24 t=76495
+fen bu shi 	分佈式	c=1 d=1.04852e-28 t=76495
+fen bu zhou 	分步驟	c=2 d=5.88321e-20 t=76495
+fen ceng 	分層	c=3 d=0.733447 t=76495
+fen cha 	分岔	c=0 d=7.87566e-16 t=76495
+fen ci 	分詞	c=1 d=1.16441e-26 t=76495
+fen dou 	奮鬥	c=1 d=2.42448e-66 t=76495
+fen e 	份額	c=0 d=1.55752e-08 t=76495
+fen e dou re ai 	份額都熱愛	c=1 d=1.56533e-07 t=76495
+fen fa 	分發	c=5 d=7.66776e-06 t=76495
+fen fa dao 	分發到	c=0 d=2.00262e-24 t=76495
+fen fa dao shi fou 	分發到是否	c=1 d=2.01266e-23 t=76495
+fen ge fu 	分隔符	c=1 d=0.000281606 t=76495
+fen ge xian 	分割線	c=1 d=5.01901e-38 t=76495
+fen gei ta 	分給他	c=1 d=4.15843e-31 t=76495
+fen hao 	分好	c=1 d=0.116484 t=76495
+fen hao 	分號	c=0 d=1.34194e-20 t=76495
+fen hao zu 	分號組	c=1 d=1.34867e-19 t=76495
+fen jiao 	粉蕉	c=1 d=2.20161e-108 t=76495
+fen jie duan 	分階段	c=1 d=9.05454e-09 t=76495
+fen kai 	分開	c=3 d=2.8595e-37 t=76495
+fen kai lai 	分開來	c=1 d=4.43393e-21 t=76495
+fen kuai 	分塊	c=1 d=2.85935e-46 t=76495
+fen lei 	分類	c=1 d=0.272532 t=76495
+fen li 	分離	c=0 d=1.58505e-67 t=76495
+fen lie 	分裂	c=1 d=0.00121259 t=76495
+fen liu 	分流	c=2 d=7.671e-21 t=76495
+fen mi 	分泌	c=2 d=0.995012 t=76495
+fen mu 	分母	c=1 d=2.93908e-07 t=76495
+fen pai 	分派	c=3 d=1.2625e-07 t=76495
+fen pei 	分配	c=29 d=1.24998 t=76495
+fen pei biao 	分配表	c=1 d=6.69728e-20 t=76495
+fen pian 	分片	c=4 d=0.00286554 t=76495
+fen ping 	分屏	c=1 d=7.33822e-07 t=76495
+fen qu 	分區	c=1 d=6.32533e-83 t=76495
+fen shi an 	分屍案	c=0 d=3.44904e-08 t=76495
+fen shi an da fa shi de 	分屍案大法師的	c=2 d=1.62611e-14 t=76495
+fen wei 	氛圍	c=1 d=2.00958e-05 t=76495
+fen wo 	分我	c=1 d=0.19593 t=76495
+fen xi 	分析	c=12 d=3.2398e-06 t=76495
+fen xiang 	分享	c=2 d=2.47658e-05 t=76495
+fen xiang 	分項	c=1 d=1.18285e-05 t=76495
+fen ye 	分頁	c=8 d=0.0108307 t=76495
+fen zhi 	分之	c=1 d=2.01212e-108 t=76495
+fen zhi 	分支	c=57 d=0.287604 t=76495
+fen zhong 	分鐘	c=48 d=0.702554 t=76495
+fen zi 	份子	c=0 d=3.49629e-21 t=76495
+fen zu 	分組	c=38 d=0.00111172 t=76495
+feng 	封	c=4 d=2.77555e-11 t=76495
+feng 	峯	c=2 d=3.89462e-55 t=76495
+feng fu 	豐富	c=5 d=0.0147521 t=76495
+feng fu fang fang fang 	豐富方芳芳	c=7 d=5.0235e-06 t=76495
+feng ge 	鋒哥	c=1 d=2.34795e-71 t=76495
+feng ge 	風格	c=17 d=0.038969 t=76495
+feng hao 	封號	c=8 d=0.0500366 t=76495
+feng jian shi dai 	封建時代	c=0 d=1.07091e-101 t=76495
+feng jian shi dai fang jian 	封建時代房間	c=1 d=1.07628e-100 t=76495
+feng jin 	封禁	c=5 d=2.66941e-107 t=76495
+feng jing 	風景	c=1 d=4.68368e-48 t=76495
+feng kong 	峯空	c=1 d=1.48631e-74 t=76495
+feng kong 	風控	c=29 d=0.0721285 t=76495
+feng kuang 	瘋狂	c=2 d=7.65616e-06 t=76495
+feng le 	瘋了	c=1 d=1.14209e-63 t=76495
+feng mian 	封面	c=0 d=2.60487e-29 t=76495
+feng mian tu 	封面圖	c=1 d=2.61793e-28 t=76495
+feng su 	風俗	c=1 d=1.47593e-21 t=76495
+feng xian 	風險	c=15 d=0.0175707 t=76495
+feng yan feng yu 	風言風語	c=1 d=5.48794e-30 t=76495
+feng yi ceng 	封一層	c=2 d=3.73821e-13 t=76495
+feng zhi 	峯值	c=1 d=2.84912e-53 t=76495
+feng zhu 	封住	c=1 d=5.94704e-34 t=76495
+feng zhuang 	封裝	c=21 d=0.000239969 t=76495
+fo 	佛	c=3 d=2.36759e-22 t=76495
+fou 	否	c=25 d=0.0382916 t=76495
+fou ze 	否則	c=35 d=0.0319341 t=76495
+fu 	副	c=1 d=0.0882497 t=76495
+fu 	富	c=1 d=2.37533e-31 t=76495
+fu 	服	c=28 d=1.84582e-05 t=76495
+fu 	符	c=2 d=5.48047e-14 t=76495
+fu ben 	複本	c=1 d=0.453845 t=76495
+fu chu 	付出	c=1 d=1.23675e-88 t=76495
+fu dan 	負擔	c=2 d=1.72608e-10 t=76495
+fu dao 	輔導	c=1 d=1.02542e-60 t=76495
+fu dao fei 	輔導費	c=0 d=7.99391e-103 t=76495
+fu dao fu dao 	辅导辅导	c=0 d=6.55664e-36 t=76495
+fu dao fu dao fu dao fei dei 	辅导辅导輔導費得	c=1 d=6.55664e-36 t=76495
+fu dao fu dao fu dao fu dao fu dao fei dei 	辅导辅导辅导辅导輔導費得	c=1 d=6.58951e-35 t=76495
+fu dao ke 	輔導課	c=0 d=9.29166e-20 t=76495
+fu dao ke shao nian fan ni shuo dao 	輔導課少年犯你说到	c=1 d=9.33823e-19 t=76495
+fu dian shu 	浮點數	c=1 d=4.88178e-06 t=76495
+fu du 	幅度	c=2 d=2.02764e-22 t=76495
+fu gai 	覆蓋	c=10 d=0.0871609 t=76495
+fu gai shi 	覆蓋式	c=1 d=9.93458e-12 t=76495
+fu gui 	富貴	c=5 d=0.00675424 t=76495
+fu gui bing 	富貴病	c=1 d=1.6311e-50 t=76495
+fu hao 	符號	c=3 d=1.46124e-21 t=76495
+fu he 	符合	c=4 d=0.00386807 t=76495
+fu he 	複合	c=1 d=5.038e-53 t=76495
+fu he 	附和	c=1 d=1.64699e-17 t=76495
+fu he tiao jian 	符合條件	c=1 d=1.22602e-15 t=76495
+fu hua 	孵化	c=1 d=1.55588e-24 t=76495
+fu huo 	復活	c=1 d=1.54276e-42 t=76495
+fu ji 	父级	c=0 d=7.89125e-98 t=76495
+fu ji e dian 	父级額點	c=1 d=7.9308e-97 t=76495
+fu ji mu lu 	父级目录	c=1 d=4.33316e-74 t=76495
+fu jia 	附加	c=3 d=5.63088e-09 t=76495
+fu jia tiao jian 	附加條件	c=2 d=5.39118e-56 t=76495
+fu jian 	福建	c=1 d=2.46681e-05 t=76495
+fu jin 	附近	c=4 d=0.839457 t=76495
+fu ke 	復刻	c=1 d=0.0617291 t=76495
+fu le 	服了	c=6 d=0.377437 t=76495
+fu le ni men 	服了你們	c=1 d=6.28777e-13 t=76495
+fu li 	福利	c=3 d=0.0584257 t=76495
+fu lu 	附錄	c=3 d=3.41587e-20 t=76495
+fu nv 	婦女	c=0 d=4.55717e-21 t=76495
+fu nv zhi you 	婦女之友	c=1 d=4.58001e-20 t=76495
+fu peng 	付鵬	c=1 d=2.99835e-36 t=76495
+fu po 	富婆	c=1 d=2.16287e-105 t=76495
+fu shu 	負數	c=1 d=1.56911e-06 t=76495
+fu wen ben 	富文本	c=2 d=9.10314e-107 t=76495
+fu wu 	服務	c=121 d=1.95849 t=76495
+fu wu duan 	服務端	c=5 d=1.21007e-08 t=76495
+fu wu ji 	服務級	c=2 d=1.29623e-23 t=76495
+fu wu jian 	服務間	c=1 d=0.00191125 t=76495
+fu wu ming 	服務名	c=2 d=4.02936e-13 t=76495
+fu wu qi 	服務器	c=4 d=0.298659 t=76495
+fu wu shang 	服務商	c=2 d=3.23618e-81 t=76495
+fu xian 	復現	c=31 d=0.0699972 t=76495
+fu xuan kuang 	複選框	c=1 d=5.01832e-07 t=76495
+fu yang fei 	撫養費	c=1 d=1.50201e-80 t=76495
+fu yong 	復用	c=8 d=0.0539337 t=76495
+fu yuan 	復原	c=3 d=0.0100017 t=76495
+fu za 	複雜	c=6 d=5.08361e-12 t=76495
+fu zai 	負載	c=2 d=3.20255e-17 t=76495
+fu ze 	負責	c=11 d=0.0779657 t=76495
+fu ze ren 	負責人	c=2 d=4.53136e-12 t=76495
+fu zhi 	扶植	c=1 d=1.37994e-24 t=76495
+fu zhi 	複製	c=1 d=2.40051e-08 t=76495
+fu zhi 	賦值	c=4 d=1.16009e-34 t=76495
+fu zhi zhan tie 	复制粘贴	c=1 d=4.87498e-19 t=76495
+fu zhu 	輔助	c=3 d=0.0555762 t=76495
+fu zuo yong 	副作用	c=1 d=0.88692 t=76495
+ga 	噶	c=0 d=1.11944e-93 t=76495
+ga beng 	噶嘣	c=0 d=4.82057e-35 t=76495
+ga beng cui 	噶嘣脆	c=2 d=8.82948e-07 t=76495
+ga ga 	噶噶	c=1 d=2.47656e-22 t=76495
+ga ga ga 	嘎嘎嘎	c=10 d=1.22276e-10 t=76495
+ga jiu cai 	噶韭菜	c=1 d=1.12505e-92 t=76495
+ga zhi 	嘎吱	c=0 d=4.86902e-35 t=76495
+ga zhi ga zhi xiang 	嘎吱嘎吱響	c=1 d=4.89343e-34 t=76495
+gai 	改	c=92 d=0.443683 t=76495
+gai 	蓋	c=2 d=1.34711e-34 t=76495
+gai 	該	c=75 d=1.10677 t=76495
+gai ban ben 	改版本	c=1 d=3.03768e-101 t=76495
+gai bei zhu 	改備註	c=2 d=9.76255e-26 t=76495
+gai bian 	改變	c=6 d=1.54809 t=76495
+gai bu 	該部	c=0 d=0.099005 t=76495
+gai bu dong 	改不动	c=2 d=9.59584e-45 t=76495
+gai bu fen 	改部份	c=1 d=4.48474e-08 t=76495
+gai bu fen 	該部份	c=1 d=0.995012 t=76495
+gai bu liao 	改不了	c=2 d=1.1086e-07 t=76495
+gai cao zuo 	該操作	c=1 d=6.69094e-97 t=76495
+gai cheng 	改成	c=11 d=0.000620522 t=76495
+gai cheng 	改稱	c=2 d=0.000413672 t=76495
+gai chi chi 	該喫喫	c=1 d=6.35096e-13 t=76495
+gai chong de 	該衝的	c=1 d=0.000320701 t=76495
+gai dao 	改到	c=1 d=1.09981e-31 t=76495
+gai de 	改的	c=5 d=0.00481167 t=76495
+gai diao 	改掉	c=4 d=0.0181334 t=76495
+gai dong 	改動	c=5 d=0.00109172 t=76495
+gai dong gei 	改動給	c=1 d=2.24082e-51 t=76495
+gai dui xiang 	該對象	c=1 d=1.08414e-68 t=76495
+gai fu wu 	該服務	c=1 d=4.8611e-103 t=76495
+gai gai 	改改	c=1 d=5.18509e-68 t=76495
+gai gan de 	該乾的	c=1 d=0.183599 t=76495
+gai ge 	改個	c=3 d=8.86288e-22 t=76495
+gai ge 	改革	c=2 d=3.21302e-21 t=76495
+gai guo 	改過	c=4 d=1.86983e-10 t=76495
+gai guo lai 	改過來	c=1 d=0.0129068 t=76495
+gai hao le 	改好了	c=3 d=0.148823 t=76495
+gai hao le ma 	該好了嗎	c=1 d=2.1227e-61 t=76495
+gai hui 	改回	c=2 d=0.0874531 t=76495
+gai hui lai 	改回來	c=1 d=5.25092e-40 t=76495
+gai hui lai le 	改回来了	c=1 d=0.57695 t=76495
+gai kai 	該開	c=1 d=5.93895e-18 t=76495
+gai le 	改了	c=30 d=0.556325 t=76495
+gai le 	蓋了	c=1 d=2.32917e-06 t=76495
+gai le ma 	改了吗	c=3 d=1.17327e-28 t=76495
+gai le yi bo 	改了一撥	c=2 d=1.22041e-71 t=76495
+gai lu you 	該路由	c=1 d=1.80075e-67 t=76495
+gai lv 	概率	c=11 d=0.161422 t=76495
+gai nian 	概念	c=6 d=6.97298e-24 t=76495
+gai shan 	改善	c=2 d=2.36469e-37 t=76495
+gai shang qu 	改上去	c=1 d=0.0461896 t=76495
+gai shi jian duan 	該時間段	c=1 d=1.19873e-103 t=76495
+gai wan 	改完	c=7 d=0.357007 t=76495
+gai wan le 	該完了	c=2 d=5.93794e-16 t=76495
+gai wei 	改爲	c=1 d=4.21871e-112 t=76495
+gai xia 	改下	c=10 d=0.148623 t=76495
+gai xia 	該下	c=3 d=0.000287327 t=76495
+gai xin xi 	改信息	c=1 d=0.00400585 t=76495
+gai xuan xiang 	該選項	c=1 d=4.95677e-97 t=76495
+gai yao 	該要	c=1 d=3.57045e-61 t=76495
+gai yi bo 	改一撥	c=4 d=0.0968105 t=76495
+gai yi bo 	該一撥	c=1 d=1.64285e-105 t=76495
+gai yi ge 	改一个	c=2 d=1.04131e-35 t=76495
+gai yi xia 	改一下	c=35 d=0.0995192 t=76495
+gai yong 	改用	c=1 d=1.09757e-07 t=76495
+gai za zheng 	改咋整	c=1 d=4.7684e-53 t=76495
+gai zao 	改造	c=21 d=0.229942 t=76495
+gai zhao 	改朝	c=1 d=4.43681e-58 t=76495
+gai zheng 	改正	c=1 d=6.26493e-29 t=76495
+gai zi liao 	改資料	c=1 d=0.00609675 t=76495
+gai zu xia 	該組下	c=1 d=0.000266536 t=76495
+gan 	咁	c=1 d=6.31975e-102 t=76495
+gan 	幹	c=5 d=0.763379 t=76495
+gan 	敢	c=1 d=1.56501e-34 t=76495
+gan bai xia feng 	甘拜下風	c=1 d=8.11274e-11 t=76495
+gan bei 	乾杯	c=2 d=8.72889e-41 t=76495
+gan bu shang 	趕不上	c=1 d=1.72773e-80 t=76495
+gan chi 	干吃	c=1 d=1.77345e-05 t=76495
+gan cui 	乾脆	c=1 d=1.69541e-05 t=76495
+gan dao 	趕到	c=1 d=5.32937e-38 t=76495
+gan de 	乾的	c=0 d=0.0182684 t=76495
+gan de piao liang 	乾的漂亮	c=1 d=2.22131e-07 t=76495
+gan diao 	幹掉	c=11 d=0.000558643 t=76495
+gan die 	乾爹	c=1 d=0.199888 t=76495
+gan fan 	乾飯	c=2 d=1.41343e-39 t=76495
+gan ga 	尷尬	c=4 d=1.49284e-08 t=76495
+gan huo 	幹活	c=3 d=1.11203e-05 t=76495
+gan jin 	趕緊	c=8 d=1.48514e-06 t=76495
+gan jue 	感覺	c=47 d=1.07573 t=76495
+gan kang 	感康	c=1 d=3.17176e-21 t=76495
+gan kuai 	趕快	c=1 d=3.27427e-101 t=76495
+gan le 	乾了	c=1 d=5.00707e-11 t=76495
+gan le xie sha 	乾了些啥	c=1 d=5.03217e-10 t=76495
+gan ma 	幹嘛	c=8 d=3.36312e-05 t=76495
+gan mao 	感冒	c=3 d=6.32865e-21 t=76495
+gan mao le 	感冒了	c=1 d=1.93335e-50 t=76495
+gan ni 	幹你	c=0 d=0.0771052 t=76495
+gan ni niao shi 	幹你鸟事	c=1 d=0.774916 t=76495
+gan ran 	感染	c=4 d=7.82273e-20 t=76495
+gan ran 	酣然	c=1 d=2.27313e-43 t=76495
+gan rao 	干擾	c=3 d=2.37784e-14 t=76495
+gan sha 	幹啥	c=27 d=0.44468 t=76495
+gan sha sha bu xing 	幹啥啥不行	c=1 d=1.4061e-39 t=76495
+gan shang 	趕上	c=0 d=0.0293758 t=76495
+gan shang le 	趕上了	c=1 d=0.29523 t=76495
+gan shuo 	敢說	c=1 d=2.29449e-06 t=76495
+gan tan hao 	感歎號	c=1 d=2.05109e-69 t=76495
+gan xing qu 	感興趣	c=1 d=9.79667e-24 t=76495
+gan zhe 	乾着	c=1 d=4.22285e-06 t=76495
+gan zhi 	感知	c=9 d=0.000428624 t=76495
+gang 	剛	c=51 d=0.449347 t=76495
+gang 	崗	c=3 d=0.0547488 t=76495
+gang ao tai 	港澳臺	c=1 d=2.72625e-05 t=76495
+gang cai 	剛纔	c=2 d=0.00904991 t=76495
+gang chu 	剛出	c=1 d=6.36787e-103 t=76495
+gang fa 	剛發	c=2 d=5.4615e-32 t=76495
+gang gang 	剛剛	c=13 d=0.386798 t=76495
+gang gang na ge 	剛剛那個	c=1 d=3.699e-36 t=76495
+gang hao 	剛好	c=1 d=2.36148e-21 t=76495
+gang he ta 	剛和他	c=1 d=2.50478e-67 t=76495
+gang kan ta 	剛看他	c=1 d=1.71624e-31 t=76495
+gang rang 	剛讓	c=1 d=3.14779e-20 t=76495
+gang rang ta 	剛讓他	c=1 d=8.43207e-24 t=76495
+gang ru zhi 	剛入職	c=1 d=4.96839e-07 t=76495
+gang shi 	剛試	c=0 d=3.48763e-80 t=76495
+gang shi le 	剛試了	c=1 d=3.50511e-79 t=76495
+gang shuo le 	剛說了	c=1 d=3.61898e-14 t=76495
+gang wei 	崗位	c=1 d=5.34152e-06 t=76495
+gang wen le 	剛問了	c=1 d=0.0958472 t=76495
+gang xiang 	剛想	c=0 d=3.49023e-30 t=76495
+gang zai 	剛在	c=2 d=8.08715e-62 t=76495
+gang zai he 	剛在和	c=1 d=8.64203e-78 t=76495
+gao 	吿	c=1 d=7.23958e-83 t=76495
+gao 	搞	c=18 d=0.249075 t=76495
+gao 	高	c=8 d=0.960789 t=76495
+gao bu 	搞不	c=1 d=0.0584257 t=76495
+gao bu ding 	搞不定	c=1 d=1.58834e-61 t=76495
+gao bu dong 	搞不懂	c=3 d=0.00349997 t=76495
+gao bu ming bai 	搞不明白	c=2 d=0.301194 t=76495
+gao bu qi 	搞不起	c=1 d=2.19555e-105 t=76495
+gao bu qing 	搞不清	c=1 d=7.21275e-10 t=76495
+gao chao 	高潮	c=1 d=6.62839e-16 t=76495
+gao chu le 	搞出了	c=1 d=1.30699e-32 t=76495
+gao ci 	告辭	c=1 d=4.14135e-12 t=76495
+gao cuo le 	搞错了	c=2 d=0.000350903 t=76495
+gao da 	高大	c=1 d=6.82306e-33 t=76495
+gao dao 	搞到	c=2 d=1.96063e-09 t=76495
+gao de 	搞得	c=2 d=0.138069 t=76495
+gao de wo 	搞得我	c=4 d=2.96297e-14 t=76495
+gao dian 	高點	c=1 d=1.19592e-46 t=76495
+gao ding 	搞定	c=5 d=3.31436e-09 t=76495
+gao dong 	搞懂	c=1 d=1.02431e-106 t=76495
+gao du 	高度	c=1 d=1.69756e-108 t=76495
+gao fan 	搞翻	c=1 d=3.58163e-39 t=76495
+gao fen zi 	高分子	c=1 d=6.61422e-79 t=76495
+gao fu za 	搞複雜	c=1 d=2.674e-42 t=76495
+gao gao 	搞搞	c=1 d=1.99386e-89 t=76495
+gao gao 	高高	c=1 d=2.99214e-41 t=76495
+gao ge 	搞个	c=1 d=3.10146e-22 t=76495
+gao guo 	搞過	c=1 d=3.87466e-23 t=76495
+gao ji 	高級	c=4 d=3.07488e-09 t=76495
+gao ji ban 	高级版	c=1 d=4.22388e-97 t=76495
+gao ji shu 	搞技術	c=1 d=5.19249e-26 t=76495
+gao ji shu 	高技術	c=1 d=5.16659e-26 t=76495
+gao jing 	告警	c=33 d=0.000101523 t=76495
+gao kan 	高看	c=1 d=8.83549e-15 t=76495
+gao kao 	高考	c=1 d=1.03306e-59 t=76495
+gao kuai dian 	搞快點	c=3 d=1.13606e-51 t=76495
+gao le 	吿了	c=1 d=7.0189e-13 t=76495
+gao le 	搞了	c=1 d=0.101774 t=76495
+gao le 	高了	c=2 d=4.34082e-36 t=76495
+gao nian ji 	高年級	c=1 d=1.13034e-59 t=76495
+gao piao ling 	高嘌呤	c=1 d=0.290835 t=76495
+gao qing 	高清	c=3 d=1.82398e-12 t=76495
+gao shang 	搞上	c=1 d=2.77113e-50 t=76495
+gao shao 	高燒	c=1 d=3.06267e-21 t=76495
+gao shou 	高手	c=1 d=7.05048e-07 t=76495
+gao su 	告訴	c=5 d=6.05985e-13 t=76495
+gao su ni 	告诉你	c=3 d=0.304221 t=76495
+gao su ta 	告诉她	c=2 d=5.91537e-30 t=76495
+gao su wo 	告诉我	c=6 d=0.00522135 t=76495
+gao tie 	高鐵	c=1 d=8.27442e-96 t=76495
+gao wei 	高危	c=1 d=0.000350903 t=76495
+gao wo 	搞我	c=2 d=9.08511e-78 t=76495
+gao xiao 	搞笑	c=1 d=4.79082e-20 t=76495
+gao xie ya 	高血壓	c=1 d=0.00123091 t=76495
+gao xue ya 	高血壓	c=2 d=1.65552e-19 t=76495
+gao yi bo 	搞一撥	c=1 d=2.3469e-07 t=76495
+gao yi ge 	搞一个	c=1 d=2.03906e-88 t=76495
+gao yi xia 	搞一下	c=1 d=1.51944e-98 t=76495
+gao zhi 	告之	c=1 d=3.38329e-104 t=76495
+gao zhi 	告知	c=19 d=0.0277389 t=76495
+gao zhong 	高中	c=2 d=0.913931 t=76495
+gao zhong xing 	高种姓	c=2 d=7.29393e-24 t=76495
+ge 	個	c=80 d=0.0433959 t=76495
+ge 	各	c=0 d=0.0494109 t=76495
+ge 	哥	c=7 d=0.225445 t=76495
+ge 	嗝	c=1 d=7.02419e-110 t=76495
+ge 	格	c=0 d=2.51297e-77 t=76495
+ge 	歌	c=2 d=6.35415e-80 t=76495
+ge 	革	c=1 d=7.37625e-09 t=76495
+ge bi 	戈壁	c=1 d=4.02211e-80 t=76495
+ge bi 	隔壁	c=1 d=7.24004e-25 t=76495
+ge bu fen 	各部分	c=1 d=5.86948e-56 t=76495
+ge di 	各地	c=0 d=1.81174e-22 t=76495
+ge di na shi kuai fei di nan sa fu 	各地那時快斐迪南颯服	c=1 d=1.82082e-21 t=76495
+ge fan 	个饭	c=0 d=8.91821e-08 t=76495
+ge fang mian 	各方面	c=1 d=6.8166e-110 t=76495
+ge fu 	各付	c=0 d=0.0494109 t=76495
+ge fu ge 	各付各	c=1 d=0.496585 t=76495
+ge ge 	個個	c=1 d=0.118245 t=76495
+ge ge 	割割	c=1 d=3.52411e-26 t=76495
+ge ge 	各個	c=1 d=0.154896 t=76495
+ge ge 	咯咯	c=1 d=6.98916e-110 t=76495
+ge ge 	哥哥	c=2 d=1.23915e-15 t=76495
+ge ge ge ge 	割割割割	c=1 d=3.54177e-25 t=76495
+ge hao 	个号	c=77 d=0.581478 t=76495
+ge hao guan li 	个号管理	c=1 d=6.12919e-36 t=76495
+ge hao lie biao 	个号列表	c=3 d=0.00217658 t=76495
+ge jian 	隔間	c=1 d=1.36357e-60 t=76495
+ge ju 	格局	c=4 d=0.0652193 t=76495
+ge jue 	隔絕	c=1 d=6.09759e-34 t=76495
+ge le 	割了	c=1 d=8.8064e-35 t=76495
+ge li 	個例	c=2 d=2.6537e-70 t=76495
+ge li 	隔離	c=4 d=0.519442 t=76495
+ge li ji bie 	隔離級別	c=1 d=1.47488e-42 t=76495
+ge lie 	割裂	c=2 d=5.83011e-05 t=76495
+ge men 	哥們	c=1 d=8.9334e-27 t=76495
+ge ming 	革命	c=2 d=6.34701e-32 t=76495
+ge qu 	各區	c=1 d=0.26982 t=76495
+ge qu 	歌曲	c=1 d=0.271173 t=76495
+ge ren 	個人	c=6 d=0.000206106 t=76495
+ge shi 	各式	c=1 d=0.121238 t=76495
+ge shi 	格式	c=30 d=1.19154 t=76495
+ge shi hua 	格式化	c=27 d=0.349818 t=76495
+ge shu 	個數	c=3 d=0.00603608 t=76495
+ge tian 	隔天	c=2 d=8.11031e-31 t=76495
+ge wei 	個微	c=4 d=1.17411e-06 t=76495
+ge wei 	各位	c=2 d=3.51598e-86 t=76495
+ge wei 	各爲	c=2 d=5.40917e-07 t=76495
+ge xiang 	各項	c=1 d=6.79249e-39 t=76495
+ge xiang ji zhi 	各項機制	c=1 d=1.67963e-42 t=76495
+ge xing 	個性	c=5 d=0.00527462 t=76495
+ge yi 	個億	c=1 d=5.31742e-41 t=76495
+ge ying 	膈應	c=2 d=0.045275 t=76495
+ge yue 	個月	c=5 d=0.0841815 t=76495
+ge zhe 	擱這	c=2 d=0.831104 t=76495
+ge zhong 	各種	c=11 d=0.0330538 t=76495
+ge zi 	各自	c=2 d=1.01823e-87 t=76495
+ge zi 	鴿子	c=1 d=5.04041e-88 t=76495
+gei 	給	c=133 d=2.24544 t=76495
+gei chu 	給出	c=3 d=1.25681e-42 t=76495
+gei chu lai 	給出來	c=1 d=1.92246e-13 t=76495
+gei chu qu 	給出去	c=1 d=5.33953e-31 t=76495
+gei cuo le 	給錯了	c=1 d=1.37493e-40 t=76495
+gei dao 	給到	c=2 d=0.00103848 t=76495
+gei de 	给的	c=4 d=3.49213e-06 t=76495
+gei ding 	給定	c=3 d=8.74786e-18 t=76495
+gei ding zhi 	給定值	c=1 d=6.11129e-31 t=76495
+gei duo shao 	给多少	c=1 d=1.26987e-46 t=76495
+gei ge 	給個	c=9 d=0.319819 t=76495
+gei guo 	給過	c=1 d=5.19674e-65 t=76495
+gei guo lai 	給過來	c=1 d=2.03234e-108 t=76495
+gei hui 	給回	c=1 d=2.18423e-103 t=76495
+gei le 	給了	c=3 d=1.20113e-09 t=76495
+gei le wo 	給了我	c=1 d=5.22207e-34 t=76495
+gei le ya 	給了呀	c=1 d=4.11902e-66 t=76495
+gei li 	給力	c=1 d=7.05025e-36 t=76495
+gei li xia 	給李霞	c=1 d=2.75347e-63 t=76495
+gei na ge 	給哪個	c=1 d=1.87099e-76 t=76495
+gei ni 	給你	c=74 d=0.82756 t=76495
+gei ni kan 	給你看	c=1 d=7.20615e-58 t=76495
+gei ni le 	给你了	c=1 d=1.20113e-10 t=76495
+gei ni le ma 	给你了嗎	c=1 d=1.9379e-107 t=76495
+gei ni shuo 	给你说	c=1 d=1.80689e-107 t=76495
+gei qian 	給錢	c=2 d=0.00353515 t=76495
+gei ren 	給人	c=2 d=5.61998e-45 t=76495
+gei shi 	給事	c=1 d=1.31877e-20 t=76495
+gei shui 	給誰	c=1 d=1.23877e-19 t=76495
+gei ta 	給他	c=27 d=0.0503643 t=76495
+gei ta 	給她	c=0 d=2.39513e-12 t=76495
+gei ta le 	給他了	c=1 d=9.49258e-06 t=76495
+gei ta men 	给他们	c=1 d=2.91817e-70 t=76495
+gei ta shuo 	給他說	c=1 d=0.00923273 t=76495
+gei ta shuo le 	给他说了	c=1 d=1.31708e-93 t=76495
+gei ta wan 	給他玩	c=1 d=4.23666e-15 t=76495
+gei wai bu 	給外部	c=1 d=1.01139e-45 t=76495
+gei wo 	給我	c=154 d=2.37889 t=76495
+gei wo men 	给我们	c=2 d=0.000405658 t=76495
+gei wo shuo 	给我说	c=2 d=7.67467e-05 t=76495
+gei wo shuo le 	给我说了	c=1 d=1.6129e-65 t=76495
+gei xia 	給下	c=6 d=0.0137311 t=76495
+gei yi fen 	給一份	c=1 d=2.25488e-07 t=76495
+gei yi ge 	给一个	c=10 d=0.603831 t=76495
+gei yi xia 	给一下	c=59 d=0.0744131 t=76495
+gei zi ji 	给自己	c=1 d=9.4713e-09 t=76495
+gen 	根	c=1 d=4.85826e-08 t=76495
+gen 	跟	c=13 d=1.94644e-05 t=76495
+gen bu shang 	跟不上	c=1 d=6.43139e-14 t=76495
+gen ge 	跟个	c=1 d=1.04909e-05 t=76495
+gen jin 	跟進	c=1 d=5.55047e-75 t=76495
+gen ju 	根據	c=4 d=2.36992e-06 t=76495
+gen mu lu 	根目錄	c=1 d=4.53261e-74 t=76495
+gen shang 	跟上	c=1 d=1.19694e-56 t=76495
+gen sui 	跟隨	c=1 d=4.26298e-29 t=76495
+gen wo 	跟我	c=1 d=1.04692e-10 t=76495
+gen xin 	跟新	c=1 d=1.43915e-77 t=76495
+gen zhe 	跟着	c=5 d=7.87295e-11 t=76495
+gen zong 	跟蹤	c=4 d=1.29366e-20 t=76495
+gen zong guo 	跟蹤過	c=1 d=5.22706e-104 t=76495
+geng 	更	c=7 d=0.915303 t=76495
+geng 	梗	c=1 d=1.17208e-15 t=76495
+geng bu 	更不	c=0 d=4.81893e-31 t=76495
+geng bu guo lai 	更不過來	c=1 d=4.84309e-30 t=76495
+geng da de 	更大的	c=0 d=1.82995e-22 t=76495
+geng duo 	更多	c=1 d=9.52433e-104 t=76495
+geng gai 	更改	c=5 d=0.00012341 t=76495
+geng gai 	更該	c=1 d=1.89398e-102 t=76495
+geng hao 	更好	c=1 d=3.96801e-09 t=76495
+geng hao yong 	更好用	c=1 d=1.73456e-97 t=76495
+geng huan 	更換	c=3 d=1.12826e-08 t=76495
+geng jia 	更加	c=8 d=1.28468e-06 t=76495
+geng man 	更慢	c=1 d=8.07339e-42 t=76495
+geng shang qu 	更上去	c=1 d=1.51772e-26 t=76495
+geng xin 	更新	c=221 d=1.33395 t=76495
+geng xin yi xia 	更新一下	c=1 d=5.60702e-106 t=76495
+geng zhi 	耿直	c=1 d=6.88086e-44 t=76495
+gong 	供	c=2 d=0.307279 t=76495
+gong 	共	c=3 d=0.0024913 t=76495
+gong 	拱	c=1 d=1.68839e-15 t=76495
+gong an ju 	公安局	c=1 d=1.47237e-22 t=76495
+gong cheng 	工程	c=1 d=2.93349e-14 t=76495
+gong cun 	共存	c=5 d=0.362402 t=76495
+gong e 	共軛	c=2 d=1.52626e-84 t=76495
+gong fu 	工夫	c=1 d=3.47046e-21 t=76495
+gong gao 	公告	c=39 d=2.8044e-14 t=76495
+gong gong 	公共	c=15 d=0.520325 t=76495
+gong gong chang suo 	公共場所	c=0 d=5.16169e-104 t=76495
+gong gong chang suo da fu du shi 	公共場所大幅度是	c=1 d=5.18757e-103 t=76495
+gong gong gei 	公共給	c=1 d=4.4279e-05 t=76495
+gong ji jin 	公積金	c=4 d=2.01061e-11 t=76495
+gong ju 	工具	c=25 d=0.395777 t=76495
+gong ju bao 	工具包	c=1 d=6.89119e-91 t=76495
+gong ju hu 	工具胡	c=1 d=6.36157e-62 t=76495
+gong ju lian 	工具鏈	c=8 d=0.136188 t=76495
+gong ju xiang 	工具箱	c=1 d=1.99726e-109 t=76495
+gong kai 	公開	c=1 d=1.87921e-10 t=76495
+gong ke 	攻克	c=1 d=1.77086e-76 t=76495
+gong liang 	公糧	c=1 d=6.46143e-10 t=76495
+gong lue 	攻略	c=1 d=0.00238156 t=76495
+gong mian 	共勉	c=1 d=4.26733e-41 t=76495
+gong neng 	功能	c=35 d=0.301221 t=76495
+gong ping 	公平	c=1 d=2.00175e-106 t=76495
+gong si 	公司	c=35 d=0.512715 t=76495
+gong si lai 	公司來	c=1 d=1.374e-32 t=76495
+gong sun zan 	公孫瓚	c=1 d=0.384812 t=76495
+gong tan 	公攤	c=1 d=5.19619e-05 t=76495
+gong wang 	公網	c=1 d=8.35927e-69 t=76495
+gong wei 	工位	c=1 d=2.51177e-41 t=76495
+gong wu yuan 	公務員	c=1 d=6.92994e-10 t=76495
+gong xiang 	共享	c=4 d=8.71905e-06 t=76495
+gong xiang zhe 	共享者	c=1 d=1.35157e-103 t=76495
+gong yao 	公鑰	c=2 d=0.0100017 t=76495
+gong ying shang 	供應商	c=2 d=6.1209e-08 t=76495
+gong yong 	共用	c=4 d=3.0359e-06 t=76495
+gong zhi 	公知	c=1 d=3.44775e-32 t=76495
+gong zhong hao 	公众号	c=35 d=0.0942482 t=76495
+gong zi 	工資	c=5 d=2.09159e-05 t=76495
+gong zi gao 	工資高	c=1 d=3.71766e-07 t=76495
+gong zuo 	工作	c=22 d=0.621885 t=76495
+gong zuo le 	工作了	c=1 d=7.54217e-06 t=76495
+gong zuo liang nian 	工作兩年	c=1 d=1.7201e-28 t=76495
+gong zuo liu 	工作流	c=5 d=1.7207e-91 t=76495
+gong zuo ri 	工作日	c=1 d=3.43593e-21 t=76495
+gou 	夠	c=9 d=0.0581378 t=76495
+gou 	苟	c=0 d=0.0289384 t=76495
+gou bing 	詬病	c=1 d=8.54786e-08 t=76495
+gou cheng 	構成	c=1 d=1.10056e-39 t=76495
+gou gou 	狗狗	c=1 d=2.30913e-22 t=76495
+gou hen 	夠狠	c=1 d=8.88979e-87 t=76495
+gou jian 	構建	c=27 d=0.00680495 t=76495
+gou jian qi 	構建器	c=4 d=0.00821995 t=76495
+gou le 	夠了	c=1 d=3.7835e-37 t=76495
+gou mai 	購買	c=1 d=8.26149e-107 t=76495
+gou qiang 	夠嗆	c=1 d=1.36338e-29 t=76495
+gou ru 	購入	c=1 d=0.000243596 t=76495
+gou si 	構思	c=1 d=2.50231e-26 t=76495
+gou tong 	溝通	c=9 d=0.0299047 t=76495
+gou tong guo 	夠通過	c=2 d=1.47287e-26 t=76495
+gou tong xia 	溝通下	c=1 d=7.82971e-05 t=76495
+gou xiang 	構想	c=1 d=4.64799e-105 t=76495
+gou xuan 	勾選	c=11 d=2.5294e-08 t=76495
+gou yan 	溝沿	c=1 d=7.86201e-24 t=76495
+gou yan 	狗眼	c=1 d=8.02083e-24 t=76495
+gou yi dian 	苟一點	c=1 d=0.290835 t=76495
+gou zao 	構造	c=3 d=0.562705 t=76495
+gou zei 	狗贼	c=1 d=7.43242e-10 t=76495
+gou zi 	鉤子	c=9 d=8.99071e-14 t=76495
+gu 	股	c=3 d=0.00061327 t=76495
+gu 	骨	c=1 d=1.21686e-06 t=76495
+gu dai 	古代	c=2 d=4.65419e-24 t=76495
+gu ding 	固定	c=5 d=0.0242239 t=76495
+gu du 	孤獨	c=1 d=0.144424 t=76495
+gu du gan 	孤獨感	c=1 d=5.38293e-38 t=76495
+gu ge 	谷歌	c=1 d=0.70822 t=76495
+gu guai 	古怪	c=1 d=2.77461e-06 t=76495
+gu ji 	估計	c=46 d=0.599624 t=76495
+gu ji jiu shi 	估计就是	c=1 d=1.53873e-70 t=76495
+gu ji shi 	估計是	c=1 d=1.15675e-66 t=76495
+gu ling ling 	孤零零	c=1 d=5.98887e-87 t=76495
+gu ming si yi 	顧名思義	c=1 d=5.20559e-85 t=76495
+gu mo 	估摸	c=1 d=5.89106e-11 t=76495
+gu niu 	牯牛	c=0 d=4.63156e-35 t=76495
+gu shi 	古詩	c=1 d=7.8559e-103 t=76495
+gu shi 	故事	c=1 d=3.51549e-55 t=76495
+gu tai 	固態	c=1 d=4.4846e-37 t=76495
+gu tou 	骨頭	c=1 d=1.08384e-06 t=76495
+gu yi 	故意	c=1 d=1.7649e-07 t=76495
+gu zhang 	故障	c=4 d=9.74283e-18 t=76495
+gu zhang nan ming 	孤掌難鳴	c=1 d=1.93078e-05 t=76495
+gu zi 	骨子	c=1 d=2.74832e-41 t=76495
+gua 	掛	c=6 d=0.767329 t=76495
+gua 	瓜	c=1 d=7.91783e-19 t=76495
+gua bi 	挂壁	c=1 d=1.46568e-86 t=76495
+gua diao 	掛掉	c=1 d=1.88081e-20 t=76495
+gua guo 	掛過	c=1 d=3.41519e-38 t=76495
+gua hao 	掛號	c=1 d=0.00355287 t=76495
+gua le 	掛了	c=13 d=0.0968812 t=76495
+gua qi 	掛起	c=1 d=8.92096e-40 t=76495
+gua zai 	掛載	c=2 d=0.216572 t=76495
+gua zhe 	掛着	c=1 d=6.14944e-16 t=76495
+guai 	怪	c=9 d=0.104932 t=76495
+guai guai 	乖乖	c=3 d=4.24543e-05 t=76495
+guai guai 	怪怪	c=4 d=3.13593e-05 t=76495
+guai wo 	怪我	c=2 d=0.0403566 t=76495
+guai wu 	怪物	c=1 d=2.84485e-06 t=76495
+guan 	灌	c=1 d=4.7203e-22 t=76495
+guan 	管	c=6 d=2.46128e-08 t=76495
+guan 	關	c=4 d=0.66034 t=76495
+guan 	館	c=2 d=7.5996e-07 t=76495
+guan bi 	關閉	c=39 d=4.0569e-06 t=76495
+guan bu liao 	管不了	c=1 d=3.337e-89 t=76495
+guan ce 	觀測	c=5 d=0.0095159 t=76495
+guan cha 	觀察	c=10 d=5.19618e-06 t=76495
+guan cuo 	關錯	c=1 d=1.40941e-96 t=76495
+guan dao 	管道	c=2 d=3.14212e-78 t=76495
+guan diao 	關掉	c=1 d=0.913931 t=76495
+guan fang 	官方	c=8 d=1.40369e-06 t=76495
+guan fang 	關防	c=1 d=2.47809e-88 t=76495
+guan ji 	關機	c=1 d=6.03897e-38 t=76495
+guan jian 	關鍵	c=8 d=1.33711e-06 t=76495
+guan jian ci 	關鍵詞	c=4 d=0.869358 t=76495
+guan le 	關了	c=3 d=0.00856561 t=76495
+guan li 	慣例	c=1 d=1.04266e-109 t=76495
+guan li 	管理	c=18 d=0.00364281 t=76495
+guan li da shi 	管理大師	c=1 d=1.65035e-41 t=76495
+guan li qi 	管理器	c=1 d=2.03075e-40 t=76495
+guan li shang 	管理上	c=1 d=2.88658e-89 t=76495
+guan li yuan 	管理員	c=16 d=2.43637e-06 t=76495
+guan lian 	關聯	c=6 d=0.0911727 t=76495
+guan lian biao 	關聯表	c=1 d=1.23175e-11 t=76495
+guan ni 	管你	c=1 d=3.78748e-20 t=76495
+guan ta 	管他	c=3 d=0.657047 t=76495
+guan tou 	關頭	c=1 d=1.67239e-50 t=76495
+guan wang 	官網	c=4 d=3.35723e-06 t=76495
+guan wang 	觀望	c=1 d=2.49933e-12 t=76495
+guan wo 	关我	c=1 d=7.36097e-14 t=76495
+guan xi 	關係	c=50 d=0.641138 t=76495
+guan xi biao 	关系表	c=1 d=4.44163e-12 t=76495
+guan xin 	關心	c=5 d=0.115325 t=76495
+guan yi xia 	關一下	c=1 d=2.75411e-07 t=76495
+guan ying 	觀影	c=0 d=1.54575e-07 t=76495
+guan ying tu 	觀影土	c=1 d=1.5535e-06 t=76495
+guan yu 	關於	c=1 d=3.68608e-83 t=76495
+guan zhao 	關照	c=1 d=4.5696e-52 t=76495
+guan zhu 	關注	c=59 d=0.535261 t=76495
+guan zhu guo 	關注過	c=1 d=5.14924e-104 t=76495
+guan zhu qun 	關注羣	c=1 d=2.43821e-103 t=76495
+guang 	廣	c=1 d=3.07436e-07 t=76495
+guang chang 	廣場	c=1 d=2.21023e-07 t=76495
+guang dong 	廣東	c=4 d=2.54193e-05 t=76495
+guang dong sheng 	廣東省	c=1 d=0.000120966 t=76495
+guang gao 	廣告	c=6 d=0.000605563 t=76495
+guang ming zheng da 	光明正大	c=1 d=1.12039e-102 t=76495
+guang tou 	光頭	c=1 d=3.00775e-14 t=76495
+guang xi 	廣西	c=1 d=2.78132e-05 t=76495
+guang xi zhuang zu 	廣西壯族	c=1 d=2.55468e-05 t=76495
+guang zhou 	廣州	c=18 d=1.01495 t=76495
+guang zhou di tie 	廣州地鐵	c=1 d=3.175e-33 t=76495
+guang zhou shi 	廣州市	c=1 d=0.000121572 t=76495
+gui 	歸	c=3 d=9.24846e-23 t=76495
+gui 	規	c=1 d=7.06083e-83 t=76495
+gui 	貴	c=3 d=0.0082276 t=76495
+gui 	鬼	c=3 d=3.57128e-05 t=76495
+gui cai 	鬼才	c=0 d=6.22394e-41 t=76495
+gui dang 	歸檔	c=2 d=6.65007e-25 t=76495
+gui ding 	規定	c=1 d=9.71839e-106 t=76495
+gui fan 	規範	c=11 d=9.74281e-18 t=76495
+gui fan hua 	規範化	c=1 d=3.03872e-105 t=76495
+gui fan xia 	規範下	c=1 d=8.25868e-103 t=76495
+gui gen dao di 	歸根到底	c=1 d=1.28023e-24 t=76495
+gui gen jie di 	歸根結蒂	c=1 d=3.21019e-45 t=76495
+gui huo 	鬼火	c=1 d=5.79804e-59 t=76495
+gui ju 	規矩	c=2 d=1.04667e-66 t=76495
+gui le 	貴了	c=1 d=7.25238e-45 t=76495
+gui ling 	歸零	c=1 d=2.09986e-22 t=76495
+gui pian 	鬼片	c=1 d=3.46574e-05 t=76495
+gui shu 	歸屬	c=2 d=9.06533e-23 t=76495
+gui shu zhe 	歸屬者	c=1 d=1.96551e-97 t=76495
+gui ze 	規則	c=25 d=0.387092 t=76495
+gui zhou 	貴州	c=1 d=2.60628e-05 t=76495
+gun 	滾	c=1 d=4.73478e-58 t=76495
+gun bang 	棍棒	c=0 d=2.54982e-13 t=76495
+gun bang ci hou 	棍棒伺候	c=1 d=2.5626e-12 t=76495
+gun ji 	滾級	c=1 d=0.164474 t=76495
+guo 	蝸	c=1 d=1.11128e-06 t=76495
+guo 	過	c=85 d=1.11362 t=76495
+guo 	鍋	c=7 d=0.0862936 t=76495
+guo bu liao 	過不了	c=2 d=3.98303e-24 t=76495
+guo chang 	過長	c=1 d=9.04933e-61 t=76495
+guo cheng 	過程	c=8 d=2.3002e-06 t=76495
+guo de 	過得	c=1 d=5.47173e-54 t=76495
+guo di 	過低	c=1 d=0.0411719 t=76495
+guo dong 	果凍	c=1 d=2.26866e-108 t=76495
+guo dong 	過冬	c=1 d=7.92726e-33 t=76495
+guo du 	過渡	c=1 d=8.04296e-27 t=76495
+guo duan 	果斷	c=2 d=0.147342 t=76495
+guo duan 	過段	c=1 d=0.14808 t=76495
+guo duan shi jian 	过段时间	c=1 d=0.156453 t=76495
+guo duo 	過多	c=2 d=1.94608e-39 t=76495
+guo fen 	過分	c=2 d=2.93539e-51 t=76495
+guo guan 	過關	c=1 d=5.80477e-102 t=76495
+guo guo zhao 	過過招	c=1 d=8.42633e-16 t=76495
+guo hou 	過後	c=1 d=6.70548e-05 t=76495
+guo ji 	國際	c=1 d=0.0695994 t=76495
+guo ji 	過激	c=1 d=1.53559e-46 t=76495
+guo ji hua 	國際化	c=1 d=1.55145e-108 t=76495
+guo jia 	國家	c=18 d=0.00128019 t=76495
+guo la neng 	過啦能	c=1 d=2.10279e-09 t=76495
+guo lai 	過來	c=60 d=1.56844 t=76495
+guo le 	過了	c=11 d=0.0782885 t=76495
+guo le ma 	过了吗	c=1 d=2.90955e-94 t=76495
+guo lu 	鍋爐	c=0 d=0.0275271 t=76495
+guo lv 	過濾	c=94 d=1.20778 t=76495
+guo lv qi 	過濾器	c=2 d=1.31613e-106 t=76495
+guo lv xiang 	過濾項	c=1 d=2.31629e-29 t=76495
+guo min yuan 	過敏原	c=1 d=1.61482e-79 t=76495
+guo nei 	國內	c=1 d=3.41345e-32 t=76495
+guo nian 	過年	c=1 d=2.9357e-111 t=76495
+guo qi 	國企	c=1 d=1.41768e-106 t=76495
+guo qi 	過期	c=33 d=0.00137404 t=76495
+guo qi le 	过期了	c=1 d=2.91907e-103 t=76495
+guo qing 	國慶	c=1 d=2.06875e-111 t=76495
+guo qu 	過去	c=5 d=5.83046e-07 t=76495
+guo ri zi 	過日子	c=1 d=8.19288e-09 t=76495
+guo ta 	過他	c=1 d=1.18406e-17 t=76495
+guo tiao 	菓條	c=1 d=8.10998e-07 t=76495
+guo wai 	國外	c=1 d=1.51798e-28 t=76495
+guo xie 	裹挾	c=5 d=0.0115624 t=76495
+guo yi 	过一	c=0 d=8.42346e-13 t=76495
+guo yi bian 	过一遍	c=1 d=1.63593e-26 t=76495
+guo yi xia 	过一下	c=1 d=8.46569e-12 t=76495
+guo zhao 	過招	c=0 d=8.3843e-17 t=76495
+guo zhen 	果真	c=2 d=1.69156e-37 t=76495
+ha 	哈	c=12 d=0.0829116 t=76495
+ha bi 	哈比	c=1 d=7.28648e-12 t=76495
+ha fo 	哈佛	c=1 d=2.32031e-20 t=76495
+ha ha 	哈哈	c=50 d=1.23448 t=76495
+ha ha ha 	哈哈哈	c=35 d=0.970446 t=76495
+ha ha ha ha ha 	哈哈哈哈哈	c=1 d=9.60105e-22 t=76495
+ha ha ha ha ha ha 	哈哈哈哈哈哈	c=0 d=2.42448e-67 t=76495
+ha ha ha ha ha ha ha 	哈哈哈哈哈哈哈	c=0 d=2.42448e-67 t=76495
+ha ha ha ha ha ha ha ha ha ha ha ha ha 	哈哈哈哈哈哈哈哈哈哈哈哈哈	c=1 d=2.43663e-66 t=76495
+ha xi 	哈希	c=3 d=7.81217e-08 t=76495
+hai 	害	c=1 d=2.16478e-86 t=76495
+hai 	還	c=65 d=0.333846 t=76495
+hai ba 	還把	c=1 d=2.387e-18 t=76495
+hai ba ta 	還把他	c=1 d=2.39635e-17 t=76495
+hai bao cuo 	還報錯	c=1 d=0.00980366 t=76495
+hai bu 	還不	c=2 d=0.0180866 t=76495
+hai bu hui 	還不會	c=1 d=2.94399e-56 t=76495
+hai bu neng 	還不能	c=1 d=4.53724e-86 t=76495
+hai bu rang shuo 	還不讓說	c=1 d=3.3918e-16 t=76495
+hai bu shu xi 	還不熟悉	c=1 d=0.181772 t=76495
+hai bu xing 	還不行	c=3 d=6.40804e-30 t=76495
+hai bu zhi dao 	還不知道	c=2 d=0.00932553 t=76495
+hai cha 	還差	c=1 d=8.06314e-80 t=76495
+hai cha yi dian 	還差一點	c=1 d=1.27026e-79 t=76495
+hai cun zai 	還存在	c=1 d=0.0132999 t=76495
+hai dei 	還得	c=7 d=0.0001441 t=76495
+hai hao 	還好	c=11 d=0.589441 t=76495
+hai hao ba 	还好吧	c=1 d=1.67911e-09 t=76495
+hai hao ya 	還好呀	c=1 d=7.29842e-90 t=76495
+hai ke yi 	還可以	c=5 d=0.621885 t=76495
+hai mei 	還沒	c=31 d=0.778349 t=76495
+hai mei ce 	還沒測	c=1 d=2.42036e-46 t=76495
+hai mei chu 	還沒出	c=1 d=2.84089e-19 t=76495
+hai mei gai 	還沒改	c=1 d=1.50903e-76 t=76495
+hai mei hao 	還沒好	c=1 d=2.8853e-25 t=76495
+hai mei he 	還沒合	c=1 d=1.00604e-12 t=76495
+hai mei he 	還沒和	c=1 d=1.1518e-45 t=76495
+hai mei kan 	还没看	c=1 d=7.27362e-50 t=76495
+hai mei ne 	還沒呢	c=1 d=1.24965e-63 t=76495
+hai mei shi xian 	還沒實現	c=1 d=2.29403e-33 t=76495
+hai mei you 	還沒有	c=7 d=1.60605e-15 t=76495
+hai mei zuo 	還沒做	c=2 d=1.75062e-29 t=76495
+hai nan sheng 	海南省	c=1 d=2.58035e-05 t=76495
+hai neng 	還能	c=3 d=0.0865022 t=76495
+hai ni 	海尼	c=1 d=1.84739e-15 t=76495
+hai pa 	害怕	c=1 d=4.20321e-10 t=76495
+hai pa 	還怕	c=1 d=6.71397e-108 t=76495
+hai shi 	還是	c=174 d=1.33414 t=76495
+hai shi shuo 	还是说	c=1 d=3.04004e-22 t=76495
+hai shuo 	還說	c=2 d=0.718924 t=76495
+hai suan hao 	还算好	c=1 d=1.51273e-47 t=76495
+hai tong 	孩童	c=2 d=9.57832e-15 t=76495
+hai tong 	還痛	c=1 d=3.80453e-14 t=76495
+hai wei 	還未	c=1 d=3.20081e-40 t=76495
+hai xian 	海鮮	c=1 d=9.63737e-37 t=76495
+hai xiang zhe 	还想着	c=2 d=5.39796e-12 t=76495
+hai xing 	還行	c=4 d=0.000370744 t=76495
+hai xing ba 	还行吧	c=2 d=4.12603e-19 t=76495
+hai xu yao 	还需要	c=1 d=2.17526e-84 t=76495
+hai yao 	還要	c=9 d=0.231078 t=76495
+hai yi wei 	还以为	c=1 d=1.41402e-105 t=76495
+hai you 	還有	c=56 d=0.578329 t=76495
+hai you dian 	還有點	c=1 d=5.4984e-23 t=76495
+hai you mei you 	還有沒有	c=1 d=3.5449e-06 t=76495
+hai you yi ge 	还有一个	c=1 d=9.04654e-28 t=76495
+hai zai 	還在	c=22 d=0.0841767 t=76495
+hai zai ma 	还在吗	c=1 d=2.28414e-41 t=76495
+hai zi 	孩子	c=1 d=1.12631e-17 t=76495
+han 	喊	c=1 d=3.1041e-32 t=76495
+han 	憨	c=0 d=1.7221e-72 t=76495
+han guo 	韓國	c=3 d=1.25924e-06 t=76495
+han hua 	漢化	c=1 d=3.04202e-59 t=76495
+han jun 	韓軍	c=2 d=1.51542e-29 t=76495
+han liang 	含量	c=1 d=2.77697e-16 t=76495
+han shi 	憾事	c=1 d=0.0015415 t=76495
+han shi 	韓式	c=1 d=1.33711e-06 t=76495
+han shu 	函數	c=42 d=0.474734 t=76495
+han shu ming 	函數名	c=1 d=3.23308e-11 t=76495
+han zi 	漢字	c=5 d=0.548812 t=76495
+hang 	行	c=4 d=0.305746 t=76495
+hang gao 	行高	c=2 d=4.98778e-103 t=76495
+hang hang 	行行	c=0 d=3.08977e-08 t=76495
+hang hang hang hang hao 	行行行行好	c=1 d=3.10525e-07 t=76495
+hang hang hao 	行行好	c=0 d=3.08977e-08 t=76495
+hang nei 	行內	c=1 d=1.6674e-103 t=76495
+hang qing 	行情	c=1 d=9.00938e-09 t=76495
+hang shu 	行數	c=7 d=1.34624e-08 t=76495
+hang ye 	行業	c=3 d=0.0360595 t=76495
+hang ye ming deng 	行業冥燈	c=1 d=0.362402 t=76495
+hang zhou 	杭州	c=6 d=1.62177e-15 t=76495
+hao 	好	c=180 d=1.00536 t=76495
+hao 	薅	c=2 d=1.78265e-08 t=76495
+hao 	號	c=96 d=0.601788 t=76495
+hao ba 	好吧	c=13 d=6.49162e-06 t=76495
+hao ba 	好把	c=1 d=3.95187e-108 t=76495
+hao bang 	好棒	c=1 d=8.61734e-15 t=76495
+hao bu 	毫不	c=1 d=2.25735e-108 t=76495
+hao bu zai xian 	號不在線	c=1 d=3.87796e-33 t=76495
+hao cheng 	號稱	c=3 d=0.360599 t=76495
+hao chi 	好喫	c=3 d=0.0306556 t=76495
+hao chou 	好醜	c=1 d=4.93336e-12 t=76495
+hao chu 	好處	c=1 d=3.98167e-20 t=76495
+hao dai 	好歹	c=4 d=0.147342 t=76495
+hao de 	好得	c=8 d=4.84798e-10 t=76495
+hao de 	好的	c=236 d=2.09809 t=76495
+hao de duo 	好得多	c=1 d=5.78387e-89 t=76495
+hao de hao de 	好的好的	c=1 d=1.00024e-91 t=76495
+hao di fang 	好地方	c=1 d=1.45573e-06 t=76495
+hao dian 	好點	c=4 d=6.29975e-06 t=76495
+hao duo 	好多	c=2 d=0.0202419 t=76495
+hao e xin 	好恶心	c=1 d=7.1988e-46 t=76495
+hao fan 	好煩	c=1 d=6.98701e-77 t=76495
+hao gai 	好改	c=2 d=0.0159229 t=76495
+hao guo 	好過	c=1 d=0.67368 t=76495
+hao hao 	好好	c=3 d=3.93149e-17 t=76495
+hao hao hao 	好好好	c=3 d=2.69398e-12 t=76495
+hao ji ge 	好幾個	c=6 d=0.0617291 t=76495
+hao ji li 	好幾例	c=1 d=2.10888e-43 t=76495
+hao ji zhong 	好幾種	c=1 d=1.45946e-36 t=76495
+hao jia huo 	好傢伙	c=33 d=2.31641 t=76495
+hao jian nan 	好艱難	c=1 d=2.43448e-85 t=76495
+hao jiu jie 	好纠结	c=1 d=0.00597602 t=76495
+hao kan 	好看	c=2 d=0.408608 t=76495
+hao la 	好啦	c=1 d=5.75736e-35 t=76495
+hao le 	好了	c=46 d=0.159617 t=76495
+hao le 	薅了	c=2 d=1.71274e-07 t=76495
+hao le ma 	好了嗎	c=2 d=2.74654e-05 t=76495
+hao le mei 	好了沒	c=6 d=0.036334 t=76495
+hao lei 	好嘞	c=3 d=3.42031e-69 t=76495
+hao lo 	好咯	c=2 d=6.28991e-17 t=76495
+hao lu 	好路	c=1 d=1.12742e-58 t=76495
+hao ma 	號碼	c=4 d=1.57913e-22 t=76495
+hao miao 	毫秒	c=15 d=0.664686 t=76495
+hao miao 	浩淼	c=1 d=5.00914e-103 t=76495
+hao miao shu 	毫秒數	c=2 d=1.27606e-15 t=76495
+hao mo hu 	好模糊	c=1 d=6.35941e-58 t=76495
+hao nan 	好難	c=0 d=2.20161e-109 t=76495
+hao nan chi 	好難喫	c=1 d=2.21265e-108 t=76495
+hao nan shou 	好難受	c=1 d=2.07932e-24 t=76495
+hao nong 	好弄	c=1 d=6.56201e-74 t=76495
+hao qi 	好奇	c=3 d=0.12938 t=76495
+hao qi 	好氣	c=1 d=1.24884e-26 t=76495
+hao qi lai 	好起來	c=1 d=7.59548e-30 t=76495
+hao ren 	好人	c=1 d=2.70999e-111 t=76495
+hao shi 	耗時	c=3 d=5.27349e-28 t=76495
+hao shou 	好手	c=0 d=2.28003e-109 t=76495
+hao shou yi 	好手藝	c=1 d=2.29146e-108 t=76495
+hao shu xi 	好熟悉	c=1 d=0.00383884 t=76495
+hao shu xi de 	好熟悉的	c=1 d=0.0385808 t=76495
+hao shuo 	好說	c=1 d=1.19653e-52 t=76495
+hao tu 	好圖	c=1 d=0.0739031 t=76495
+hao wei kou 	好胃口	c=1 d=1.11453e-11 t=76495
+hao wu 	毫無	c=4 d=0.0702988 t=76495
+hao wu wei ju 	毫無畏懼	c=1 d=3.39711e-05 t=76495
+hao xian 	號線	c=2 d=0.618783 t=76495
+hao xiang 	好像	c=25 d=0.841804 t=76495
+hao xiang 	好向	c=1 d=9.8307e-06 t=76495
+hao xiang you wen ti 	好像有问题	c=1 d=0.0372538 t=76495
+hao xiao zi 	好小子	c=1 d=2.02516e-37 t=76495
+hao ya 	好呀	c=2 d=0.0932394 t=76495
+hao yang de 	好樣的	c=1 d=1.5534e-64 t=76495
+hao yang mao 	薅羊毛	c=3 d=1.79157e-07 t=76495
+hao ye 	好耶	c=1 d=1.22857e-10 t=76495
+hao yi dian 	好一点	c=5 d=0.238137 t=76495
+hao yong 	好用	c=2 d=0.509156 t=76495
+hao you 	好友	c=185 d=3.07144 t=76495
+hao you guan xi 	好友關係	c=1 d=1.22116e-27 t=76495
+hao you hua 	好優化	c=1 d=8.24911e-60 t=76495
+hao you ming pian 	好友名片	c=1 d=9.85447e-05 t=76495
+hao you ming zi 	好友名字	c=1 d=0.000152248 t=76495
+hao yu 	浩宇	c=2 d=2.28422e-12 t=76495
+hao yuan 	好遠	c=1 d=1.1756e-109 t=76495
+hao zhu 	號主	c=1 d=1.80332e-25 t=76495
+hao zi 	耗子	c=0 d=0.0111917 t=76495
+hao zi wei zhi 	耗子尾汁	c=1 d=0.112478 t=76495
+hao zou 	好走	c=2 d=2.5181e-58 t=76495
+he 	何	c=4 d=3.74768e-98 t=76495
+he 	合	c=22 d=8.63266e-06 t=76495
+he 	和	c=310 d=1.6184 t=76495
+he 	喝	c=4 d=0.0923116 t=76495
+he ba 	河壩	c=1 d=6.08515e-10 t=76495
+he bei 	河北	c=3 d=0.00263203 t=76495
+he bei da xue 	河北大学	c=1 d=5.74701e-102 t=76495
+he bi 	何必	c=2 d=5.16257e-105 t=76495
+he bing 	合併	c=41 d=1.26719e-10 t=76495
+he ce shi 	和測試	c=2 d=2.16381e-22 t=76495
+he cha 	喝茶	c=1 d=6.45092e-79 t=76495
+he dao 	合到	c=2 d=8.12959e-06 t=76495
+he de 	喝的	c=1 d=5.04331e-36 t=76495
+he dian 	喝點	c=0 d=8.32095e-16 t=76495
+he fa 	合法	c=1 d=3.62884e-46 t=76495
+he fa 	核發	c=3 d=1.41194e-29 t=76495
+he fen 	河粉	c=1 d=6.44365e-07 t=76495
+he gang 	鶴崗	c=1 d=2.70116e-102 t=76495
+he ge 	和各	c=1 d=1.12826e-08 t=76495
+he ge de 	合格的	c=1 d=2.38336e-100 t=76495
+he he 	喝喝	c=3 d=0.000784864 t=76495
+he le 	合了	c=3 d=9.85583e-36 t=76495
+he le 	和了	c=1 d=4.44966e-92 t=76495
+he li 	合理	c=6 d=7.84551e-05 t=76495
+he li 	河裏	c=2 d=1.2987e-17 t=76495
+he nan 	河南	c=1 d=2.50409e-05 t=76495
+he ni 	和你	c=7 d=0.631284 t=76495
+he ni 	和泥	c=1 d=1.32368e-93 t=76495
+he ping yan bian 	和平演變	c=1 d=3.39642e-32 t=76495
+he qun cao zuo 	和羣操作	c=1 d=9.61382e-67 t=76495
+he ru 	合入	c=1 d=5.33646e-83 t=76495
+he shang 	和尚	c=3 d=2.96596e-20 t=76495
+he shang qu 	合上去	c=4 d=0.00782838 t=76495
+he shi 	何時	c=2 d=4.11859e-06 t=76495
+he shi 	合適	c=4 d=8.14925e-05 t=76495
+he shou ji 	和手機	c=1 d=2.51983e-108 t=76495
+he shui 	喝水	c=1 d=8.19707e-15 t=76495
+he suan 	核酸	c=1 d=2.20595e-43 t=76495
+he ta 	合沓	c=1 d=7.7518e-05 t=76495
+he ta 	和他	c=12 d=0.172907 t=76495
+he ta men 	和他们	c=1 d=1.68009e-104 t=76495
+he ta shuo 	和他说	c=1 d=1.46368e-70 t=76495
+he tang 	喝湯	c=1 d=6.77403e-07 t=76495
+he tong 	合同	c=1 d=3.18681e-106 t=76495
+he wan le 	合完了	c=1 d=1.06825e-12 t=76495
+he wo 	和我	c=5 d=0.759572 t=76495
+he wo shuo 	和我说	c=2 d=2.64657e-09 t=76495
+he xiao 	覈銷	c=1 d=3.9571e-06 t=76495
+he xin 	核心	c=1 d=0.00733572 t=76495
+he yi 	合一	c=0 d=1.39642e-47 t=76495
+he yi he 	喝一喝	c=1 d=0.927743 t=76495
+he yi qi 	合一起	c=1 d=1.90224e-65 t=76495
+he yi qian 	和以前	c=1 d=2.14039e-41 t=76495
+he yi xia 	合一下	c=4 d=2.27004e-27 t=76495
+he yong 	何用	c=1 d=0.65377 t=76495
+he zhe 	合着	c=1 d=3.41149e-84 t=76495
+he zhe 	和着	c=1 d=1.79127e-05 t=76495
+he zhe li 	和這裏	c=1 d=0.028297 t=76495
+he zhi 	何止	c=1 d=1.01826e-07 t=76495
+he zi 	盒子	c=2 d=3.30531e-42 t=76495
+he zuo 	合作	c=1 d=0.353455 t=76495
+he zuo 	合做	c=1 d=2.17769e-09 t=76495
+he zuo wan 	和昨晚	c=1 d=1.85685e-75 t=76495
+hei 	黑	c=5 d=6.72284e-07 t=76495
+hei bai 	黑白	c=1 d=4.82386e-42 t=76495
+hei gui 	黑鬼	c=1 d=5.78523e-33 t=76495
+hei hao 	黑號	c=1 d=2.70861e-105 t=76495
+hei he 	黑盒	c=1 d=1.65091e-45 t=76495
+hei hei 	黑黑	c=1 d=1.24324e-32 t=76495
+hei long jiang 	黑龍江	c=1 d=2.35826e-05 t=76495
+hei ming dan 	黑名單	c=3 d=4.38445e-36 t=76495
+hei nu 	黑奴	c=2 d=1.76133e-32 t=76495
+hei ping 	黑屏	c=1 d=3.52711e-35 t=76495
+hei quan 	黑犬	c=1 d=1.18386e-15 t=76495
+hei ren 	黑人	c=5 d=1.27726e-23 t=76495
+hei su 	黑素	c=0 d=4.67079e-46 t=76495
+hei wo 	黑窩	c=0 d=6.95312e-109 t=76495
+hen 	很	c=20 d=0.595368 t=76495
+hen 	狠	c=1 d=3.07593e-13 t=76495
+hen bao 	很飽	c=1 d=1.62314e-110 t=76495
+hen cai 	很菜	c=3 d=4.68643e-17 t=76495
+hen chou 	很臭	c=1 d=0.028297 t=76495
+hen chou 	很醜	c=1 d=8.44239e-09 t=76495
+hen da 	很大	c=4 d=0.891366 t=76495
+hen di 	很低	c=2 d=3.17727e-12 t=76495
+hen dong 	很懂	c=0 d=3.23198e-08 t=76495
+hen duo 	很多	c=10 d=4.34022e-05 t=76495
+hen e xin 	很噁心	c=1 d=1.68341e-39 t=76495
+hen fan 	很煩	c=1 d=5.58625e-33 t=76495
+hen guai 	很怪	c=1 d=1.34785e-100 t=76495
+hen gui 	很貴	c=1 d=1.09473e-06 t=76495
+hen guo fen 	很過分	c=1 d=1.29703e-89 t=76495
+hen hao 	很好	c=3 d=0.0294521 t=76495
+hen hua 	很滑	c=1 d=1.14252e-38 t=76495
+hen ji 	很擠	c=1 d=1.22971e-109 t=76495
+hen jian dan 	很簡單	c=1 d=3.70984e-41 t=76495
+hen jiu 	很久	c=5 d=0.529935 t=76495
+hen jiu 	很舊	c=1 d=1.2995e-82 t=76495
+hen juan 	很卷	c=1 d=1.12157e-85 t=76495
+hen kuai 	很快	c=2 d=0.0122161 t=76495
+hen man 	很慢	c=2 d=0.139457 t=76495
+hen mei 	很沒	c=0 d=0.00162445 t=76495
+hen mei li mao 	很沒禮貌	c=1 d=0.0163259 t=76495
+hen nan 	很難	c=3 d=1.78016e-20 t=76495
+hen nan kan 	很難看	c=1 d=6.75703e-95 t=76495
+hen nan shou 	很难受	c=1 d=2.67036e-26 t=76495
+hen pang 	很胖	c=1 d=3.04376e-07 t=76495
+hen qi guai 	很奇怪	c=1 d=1.20732e-40 t=76495
+hen qi miao 	很奇妙	c=1 d=6.38326e-102 t=76495
+hen qiang 	很強	c=1 d=1.38795e-92 t=76495
+hen re 	很熱	c=1 d=2.70234e-19 t=76495
+hen rong yi 	很容易	c=1 d=1.68983e-25 t=76495
+hen shao 	很少	c=3 d=3.51472e-05 t=76495
+hen shao jian 	很少見	c=1 d=3.78414e-39 t=76495
+hen shen 	很深	c=1 d=4.16454e-107 t=76495
+hen shi he 	很适合	c=1 d=7.71027e-30 t=76495
+hen shu fu 	很舒服	c=1 d=2.50036e-105 t=76495
+hen si 	恨死	c=1 d=0.0382893 t=76495
+hen si fou 	恨死否	c=1 d=0.384812 t=76495
+hen suan 	很酸	c=1 d=4.89359e-05 t=76495
+hen suan tong 	很痠痛	c=1 d=2.85911e-06 t=76495
+hen wan 	很晚	c=0 d=2.41436e-106 t=76495
+hen xi huan 	很喜歡	c=1 d=6.53394e-53 t=76495
+hen xiang 	很香	c=2 d=0.181772 t=76495
+hen xiao 	很小	c=4 d=1.82808e-09 t=76495
+hen zao 	很早	c=1 d=4.24605e-41 t=76495
+hen zhong yao 	很重要	c=1 d=3.79277e-07 t=76495
+heng 	佷	c=1 d=6.28823e-102 t=76495
+heng 	恆	c=2 d=1.19556e-40 t=76495
+heng shu 	橫豎	c=1 d=7.79066e-05 t=76495
+heng xian 	橫線	c=2 d=3.1256e-25 t=76495
+heng xin 	恆心	c=1 d=4.64528e-10 t=76495
+heng yang 	衡陽	c=1 d=1.08927e-06 t=76495
+hong 	宏	c=1 d=8.02793e-05 t=76495
+hong 	紅	c=1 d=7.71708e-11 t=76495
+hong bao 	紅包	c=1 d=3.47012e-108 t=76495
+hong dian 	紅點	c=10 d=2.56348e-16 t=76495
+hong ji 	宏基	c=5 d=0.190641 t=76495
+hong le 	紅了	c=1 d=4.95894e-14 t=76495
+hong se 	紅色	c=1 d=2.94559e-33 t=76495
+hong shu 	紅薯	c=1 d=5.5461e-07 t=76495
+hong tou 	紅透	c=0 d=2.3975e-53 t=76495
+hong tou le 	紅透了	c=1 d=2.40951e-52 t=76495
+hong xian 	紅線	c=1 d=2.4451e-48 t=76495
+hou 	候	c=1 d=1 t=76495
+hou 	吼	c=1 d=1.27566e-106 t=76495
+hou 	後	c=150 d=2.06867 t=76495
+hou ai 	厚愛	c=1 d=9.01398e-15 t=76495
+hou de 	后的	c=3 d=2.65614e-22 t=76495
+hou du 	後讀	c=0 d=2.03047e-10 t=76495
+hou du a 	後讀啊	c=1 d=2.04064e-09 t=76495
+hou duan 	後端	c=146 d=1.98618 t=76495
+hou duan de 	后端的	c=1 d=4.9804e-06 t=76495
+hou guo 	後果	c=3 d=2.15706e-44 t=76495
+hou hua yuan 	後花園	c=1 d=1.17671e-32 t=76495
+hou hui 	後悔	c=2 d=1.12298e-41 t=76495
+hou jin men 	後進門	c=1 d=1.32606e-26 t=76495
+hou lai 	後來	c=19 d=4.71388e-06 t=76495
+hou mian 	後面	c=21 d=0.00261895 t=76495
+hou mian de 	后面的	c=0 d=2.23967e-46 t=76495
+hou mian de ren 	后面的人	c=1 d=2.2509e-45 t=76495
+hou qi 	後期	c=1 d=5.06876e-07 t=76495
+hou quan 	猴拳	c=0 d=1.25011e-39 t=76495
+hou tai 	後臺	c=11 d=5.31668e-10 t=76495
+hou xu 	後續	c=15 d=0.00170364 t=76495
+hou yan 	後延	c=1 d=2.91153e-102 t=76495
+hou yi xia 	吼一下	c=1 d=1.20515e-107 t=76495
+hou zhui 	後綴	c=8 d=8.05531e-08 t=76495
+hou zi 	猴子	c=2 d=9.68235e-24 t=76495
+hu 	胡	c=0 d=6.32985e-63 t=76495
+hu bei 	湖北	c=1 d=2.51664e-05 t=76495
+hu bu 	互不	c=1 d=1.35538e-48 t=76495
+hu dong 	互動	c=1 d=9.13591e-26 t=76495
+hu er 	忽而	c=0 d=1.29152e-40 t=76495
+hu he hao te 	呼和浩特	c=1 d=0.355226 t=76495
+hu hui 	互惠	c=1 d=1.12317e-43 t=76495
+hu kan 	互砍	c=1 d=1.44523e-09 t=76495
+hu lian wang 	互聯網	c=2 d=1.80989e-09 t=76495
+hu lue 	忽略	c=34 d=0.020141 t=76495
+hu luo bo 	胡蘿蔔	c=2 d=4.87997e-31 t=76495
+hu nan 	湖南	c=2 d=0.00165327 t=76495
+hu ti 	互踢	c=1 d=3.88998e-40 t=76495
+hu tong 	互通	c=1 d=2.61392e-10 t=76495
+hu wei 	互爲	c=1 d=3.54358e-31 t=76495
+hu wei 	護衛	c=1 d=3.52591e-31 t=76495
+hu xiang 	互向	c=5 d=7.12618e-15 t=76495
+hu xiang 	互相	c=1 d=6.19566e-104 t=76495
+hu xiang shang hai 	互相伤害	c=1 d=1.91483e-25 t=76495
+hu xiang xue xi 	互向學習	c=1 d=1.80412e-89 t=76495
+hu you 	忽悠	c=1 d=2.6584e-32 t=76495
+hu zhao 	護照	c=1 d=0.786628 t=76495
+hua 	化	c=6 d=0.207008 t=76495
+hua 	畫	c=2 d=8.96063e-39 t=76495
+hua 	花	c=1 d=9.09683e-05 t=76495
+hua 	話	c=11 d=0.0325493 t=76495
+hua bo 	劃撥	c=2 d=0.00495277 t=76495
+hua dao 	滑倒	c=1 d=3.637e-43 t=76495
+hua dian qian 	花點錢	c=1 d=9.89849e-28 t=76495
+hua diao 	劃掉	c=1 d=1.73502e-12 t=76495
+hua dong 	滑動	c=1 d=6.61647e-83 t=76495
+hua fei 	話費	c=1 d=7.43597e-45 t=76495
+hua fen 	劃分	c=2 d=0.115325 t=76495
+hua guo qu 	滑過去	c=0 d=3.45962e-44 t=76495
+hua hao 	畫號	c=1 d=8.25359e-37 t=76495
+hua kuo hao 	花括號	c=1 d=4.47849e-21 t=76495
+hua nan 	華南	c=1 d=4.52321e-79 t=76495
+hua qian 	花錢	c=2 d=2.29012e-13 t=76495
+hua ren 	華人	c=1 d=5.21762e-24 t=76495
+hua shu 	話術	c=34 d=1.12572e-16 t=76495
+hua shu ku 	話術庫	c=14 d=5.23136e-21 t=76495
+hua shu zu 	話術組	c=3 d=1.37354e-21 t=76495
+hua shuo 	話說	c=2 d=0.546075 t=76495
+hua ti 	話題	c=1 d=0.249075 t=76495
+hua tuo 	華佗	c=0 d=8.0679e-35 t=76495
+hua tuo san lian 	華佗三連	c=1 d=8.10834e-34 t=76495
+hua wei 	華爲	c=2 d=0.136695 t=76495
+hua xue 	化學	c=1 d=3.90283e-20 t=76495
+hua zhuan 	劃轉	c=1 d=4.74058e-43 t=76495
+hua zou 	划走	c=1 d=1.43543e-76 t=76495
+huai 	壞	c=4 d=0.0325493 t=76495
+huai hua 	壞話	c=1 d=1.72221e-13 t=76495
+huai le 	壞了	c=2 d=0.506617 t=76495
+huai nian 	懷念	c=1 d=3.74597e-08 t=76495
+huai yi 	懷疑	c=9 d=0.00386807 t=76495
+huai yi dian 	懷疑點	c=1 d=2.32632e-21 t=76495
+huai yun 	懷孕	c=1 d=2.05828e-22 t=76495
+huan 	換	c=21 d=0.604889 t=76495
+huan 	還	c=1 d=0.0882497 t=76495
+huan bang 	换绑	c=1 d=0.0845849 t=76495
+huan cheng 	換成	c=9 d=0.000187825 t=76495
+huan chong 	緩衝	c=1 d=4.27096e-51 t=76495
+huan cun 	緩存	c=50 d=6.54258e-15 t=76495
+huan dao 	換到	c=1 d=2.2525e-24 t=76495
+huan ge 	換個	c=1 d=9.77605e-58 t=76495
+huan gei 	還給	c=0 d=3.19614e-112 t=76495
+huan gei wo 	還給我	c=1 d=3.21217e-111 t=76495
+huan hang 	換行	c=16 d=1.09077 t=76495
+huan hang fu 	換行符	c=1 d=1.9323e-73 t=76495
+huan hui 	換回	c=1 d=3.89436e-112 t=76495
+huan hui lai 	換回來	c=1 d=0.0880368 t=76495
+huan hui qu 	還會去	c=1 d=7.62761e-109 t=76495
+huan jie 	環節	c=2 d=7.877e-17 t=76495
+huan jing 	環境	c=52 d=1.22684 t=76495
+huan jing bian liang 	環境變量	c=1 d=8.45911e-91 t=76495
+huan lai 	換來	c=2 d=9.25056e-75 t=76495
+huan le 	換了	c=11 d=0.128093 t=76495
+huan le ma 	換了嗎	c=1 d=2.79574e-07 t=76495
+huan le yi ge 	换了一个	c=1 d=2.62088e-100 t=76495
+huan qiu 	環球	c=0 d=1.89468e-78 t=76495
+huan qiu mao yi zhong xin 	環球貿易中心	c=1 d=1.90418e-77 t=76495
+huan she bei 	換設備	c=1 d=2.14593e-42 t=76495
+huan suan 	換算	c=2 d=2.11419e-06 t=76495
+huan wan 	换完	c=1 d=4.46118e-93 t=76495
+huan yi 	換衣	c=0 d=3.19146e-36 t=76495
+huan yi ge 	换一个	c=2 d=1.84199e-10 t=76495
+huan yi xia 	换一下	c=1 d=6.75955e-70 t=76495
+huan ying 	歡迎	c=3 d=0.000238772 t=76495
+huan ying yu 	歡迎語	c=9 d=1.72043 t=76495
+huan yuan 	還原	c=1 d=1.53883e-12 t=76495
+huang 	荒	c=0 d=1.03703e-17 t=76495
+huang 	黃	c=8 d=5.86068e-09 t=76495
+huang di 	皇帝	c=1 d=1.31309e-28 t=76495
+huang gai 	黃蓋	c=1 d=6.61352e-19 t=76495
+huang men 	黃燜	c=1 d=7.43748e-18 t=76495
+huang se 	黃色	c=1 d=3.00509e-33 t=76495
+huang tian di 	荒天帝	c=1 d=1.04223e-16 t=76495
+huang you 	黃油	c=1 d=5.63321e-102 t=76495
+huang zhi hao 	黃志浩	c=2 d=5.80237e-09 t=76495
+hui 	回	c=3 d=6.63876e-05 t=76495
+hui 	會	c=166 d=1.51144 t=76495
+hui a 	会啊	c=1 d=8.12518e-29 t=76495
+hui ba 	會把	c=1 d=0.0397558 t=76495
+hui ba ta 	會把它	c=1 d=2.19883e-05 t=76495
+hui bao 	回包	c=6 d=1.13468e-20 t=76495
+hui bei 	會被	c=8 d=0.0207008 t=76495
+hui ben 	回本	c=2 d=4.38218e-22 t=76495
+hui bian 	彙編	c=2 d=2.33233e-13 t=76495
+hui bian 	會變	c=3 d=0.0184074 t=76495
+hui bu hui 	會不會	c=4 d=2.85036e-11 t=76495
+hui bu hui fu 	回不回复	c=1 d=4.96485e-28 t=76495
+hui che 	回撤	c=1 d=1.35134e-101 t=76495
+hui che 	回車	c=4 d=6.67317e-07 t=76495
+hui che huan hang 	回車換行	c=1 d=1.15876e-57 t=76495
+hui chuan 	回傳	c=1 d=1.55964e-23 t=76495
+hui da 	回答	c=1 d=1.45683e-103 t=76495
+hui dao 	回到	c=3 d=8.32517e-21 t=76495
+hui diao 	回調	c=175 d=1.71599 t=76495
+hui diao o 	回調哦	c=1 d=1.04674e-08 t=76495
+hui dong 	會動	c=1 d=0.07502 t=76495
+hui er 	會兒	c=0 d=1.33711e-07 t=76495
+hui fu 	回覆	c=89 d=0.000289183 t=76495
+hui fu 	恢復	c=16 d=0.102353 t=76495
+hui gai 	悔改	c=1 d=1.69767e-50 t=76495
+hui gui 	回歸	c=5 d=0.0617926 t=76495
+hui gun 	回滾	c=12 d=1.94845e-39 t=76495
+hui hua 	會話	c=130 d=0.616575 t=76495
+hui hua 	繪畫	c=1 d=1.03764e-111 t=76495
+hui hua shu 	會話數	c=1 d=2.5493e-39 t=76495
+hui jia 	回家	c=5 d=0.909373 t=76495
+hui jia de 	回家的	c=1 d=2.03795e-111 t=76495
+hui jia ma 	回家嗎	c=1 d=8.65464e-07 t=76495
+hui jiang qi 	會將其	c=1 d=2.534e-27 t=76495
+hui lai 	回來	c=22 d=0.0111668 t=76495
+hui lai le 	回来了	c=1 d=5.70261e-99 t=76495
+hui lao jia 	回老家	c=1 d=1.61812e-103 t=76495
+hui lv 	匯率	c=2 d=2.10364e-06 t=76495
+hui meng 	會盟	c=1 d=0.351692 t=76495
+hui min 	回民	c=1 d=1.67706e-24 t=76495
+hui pao 	會跑	c=1 d=3.33779e-33 t=76495
+hui qu 	回去	c=8 d=0.00177315 t=76495
+hui qu 	會去	c=1 d=1.35124e-12 t=76495
+hui rang 	會讓	c=2 d=1.95019e-05 t=76495
+hui shang 	會上	c=1 d=1.11681e-35 t=76495
+hui shi 	回事	c=6 d=2.28304e-06 t=76495
+hui shou 	回收	c=2 d=2.76069e-35 t=76495
+hui shou zhan 	回收站	c=1 d=0.995012 t=76495
+hui tui 	回退	c=4 d=4.17712e-83 t=76495
+hui wan 	會玩	c=1 d=8.73483e-86 t=76495
+hui wo 	回我	c=1 d=1.11586e-25 t=76495
+hui xian 	回显	c=2 d=3.53203e-22 t=76495
+hui xie 	回寫	c=2 d=1.81299e-18 t=76495
+hui ying 	回應	c=2 d=4.47226e-34 t=76495
+hui you 	會有	c=4 d=2.83496e-10 t=76495
+hui you yi ge 	会有一个	c=1 d=6.27047e-10 t=76495
+hui yuan 	會員	c=1 d=1.19885e-16 t=76495
+hui zai 	會在	c=2 d=0.179964 t=76495
+hui zhao 	會找	c=1 d=1.47433e-67 t=76495
+hui zhe yang 	會這樣	c=1 d=3.21401e-59 t=76495
+hui zu 	回族	c=1 d=1.70241e-24 t=76495
+hui zuo 	會做	c=1 d=6.08061e-60 t=76495
+hun 	婚	c=1 d=2.98007e-111 t=76495
+hun luan 	混亂	c=2 d=4.34022e-05 t=76495
+hun ru 	混入	c=1 d=5.56993e-28 t=76495
+hun xie 	混写	c=2 d=8.92884e-21 t=76495
+hun zi 	混子	c=1 d=1.86299e-55 t=76495
+huo 	或	c=22 d=0.000728153 t=76495
+huo 	活	c=17 d=0.194001 t=76495
+huo bei 	或被	c=1 d=4.72642e-96 t=76495
+huo bi 	貨幣	c=1 d=8.96444e-09 t=76495
+huo bing 	火併	c=3 d=5.17456e-32 t=76495
+huo chu 	活出	c=1 d=7.60736e-19 t=76495
+huo de 	活得	c=1 d=8.52434e-05 t=76495
+huo de 	獲得	c=9 d=2.20606e-13 t=76495
+lao shi 	老實	c=3 d=0.00184675 t=76495
+lao shi 	老師	c=3 d=0.00279566 t=76495
+lao shi ba jiao 	老實巴交	c=1 d=7.94508e-30 t=76495
+lao shi ren 	老實人	c=1 d=7.90545e-30 t=76495
+lao shu 	老鼠	c=1 d=1.10038e-20 t=76495
+lao shu jin 	老鼠縉	c=1 d=9.91736e-21 t=76495
+lao si ji 	老司机	c=1 d=5.28606e-89 t=76495
+lao tie 	烙鐵	c=1 d=3.66832e-85 t=76495
+lao tie 	老铁	c=2 d=1.86819e-29 t=76495
+lao tong zhi 	老同志	c=1 d=1.02867e-09 t=76495
+lao tou 	老頭	c=1 d=2.31385e-46 t=76495
+lao wen ti 	老問題	c=3 d=0.718924 t=76495
+lao wo 	老窩	c=1 d=5.7337e-16 t=76495
+lao xue shuan 	老血栓	c=1 d=0.0152222 t=76495
+lao yao 	老腰	c=1 d=9.81367e-15 t=76495
+lao ye 	老爺	c=1 d=9.19764e-17 t=76495
+lao yi yang 	老一樣	c=1 d=8.04107e-83 t=76495
+lao you tiao 	老油條	c=3 d=2.98451e-11 t=76495
+lao zha nan 	老渣男	c=1 d=2.76745e-05 t=76495
+lao zhen 	落枕	c=1 d=3.74788e-14 t=76495
+le 	了	c=1619 d=8.80413 t=76495
+le 	仂	c=1 d=4.85464e-58 t=76495
+le 	勒	c=1 d=2.33194e-20 t=76495
+le 	叻	c=1 d=4.0321e-21 t=76495
+le 	嘞	c=2 d=3.00305e-25 t=76495
+le 	埒	c=2 d=6.9467e-09 t=76495
+le 	楽	c=2 d=2.9533e-05 t=76495
+le 	樂	c=2 d=0.130029 t=76495
+le 	肋	c=2 d=3.24255e-16 t=76495
+le ba 	了吧	c=22 d=0.153886 t=76495
+le de 	了的	c=1 d=3.31888e-25 t=76495
+le de 	樂得	c=3 d=4.94428e-38 t=76495
+le dian 	了点	c=0 d=5.54687e-39 t=76495
+le he 	乐呵	c=2 d=8.79834e-83 t=76495
+le ma 	了嗎	c=81 d=0.827894 t=76495
+le mei 	了没	c=5 d=0.0129715 t=76495
+le na ge 	了那个	c=0 d=2.97266e-24 t=76495
+le o 	了哦	c=1 d=6.01787e-85 t=76495
+le sha 	勒殺	c=0 d=1.86241e-23 t=76495
+le shi ma 	了是嗎	c=1 d=2.40362e-82 t=76495
+le ta 	了他	c=1 d=5.40623e-30 t=76495
+le ya 	了呀	c=9 d=4.15277e-15 t=76495
+le yi dian 	了一点	c=0 d=7.01151e-31 t=76495
+le yi ge 	了一个	c=3 d=2.3252e-27 t=76495
+le yi tiao 	了一條	c=1 d=5.63513e-106 t=76495
+le zi 	樂子	c=1 d=5.75796e-95 t=76495
+lei 	累	c=0 d=2.30812e-106 t=76495
+lei 	雷	c=1 d=3.43231e-38 t=76495
+lei 	類	c=9 d=0.316637 t=76495
+lei bie 	類別	c=3 d=2.69753e-10 t=76495
+lei jia 	累加	c=11 d=4.61129e-07 t=76495
+lei niao 	雷鳥	c=1 d=3.18627e-104 t=76495
+lei si 	累死	c=1 d=0.00752142 t=76495
+lei si 	類似	c=16 d=0.00843806 t=76495
+lei xing 	類型	c=104 d=0.89254 t=76495
+lei yu 	雷雨	c=1 d=3.69963e-38 t=76495
+leng mian 	冷麪	c=0 d=5.71501e-08 t=76495
+leng qing 	冷清	c=2 d=0.0127147 t=76495
+leng re 	冷熱	c=1 d=5.73761e-24 t=76495
+leng shui 	冷水	c=1 d=1.92371e-50 t=76495
+li 	李	c=5 d=2.11333e-10 t=76495
+li 	梨	c=1 d=5.35535e-07 t=76495
+li 	理	c=3 d=3.71249e-20 t=76495
+li 	立	c=2 d=3.46632e-07 t=76495
+li 	裏	c=9 d=0.00701293 t=76495
+li 	離	c=3 d=1.9263e-77 t=76495
+li 	黎	c=0 d=5.77109e-64 t=76495
+li chang gui 	李長貴	c=1 d=1.72714e-76 t=76495
+li cheng bei 	里程碑	c=1 d=1.1949e-36 t=76495
+li chun 	立純	c=5 d=7.367e-32 t=76495
+li dang 	理當	c=1 d=0.0234005 t=76495
+li du 	粒度	c=2 d=3.29492e-28 t=76495
+li ge 	立個	c=1 d=4.73912e-10 t=76495
+li gong 	理工	c=1 d=0.00166156 t=76495
+li hai 	厲害	c=2 d=4.66777e-08 t=76495
+li hao 	利好	c=0 d=6.16686e-109 t=76495
+li hui 	理會	c=2 d=3.20244e-46 t=76495
+li ji 	立即	c=7 d=0.1764 t=76495
+li jie 	歷屆	c=1 d=2.09388e-106 t=76495
+li jie 	理解	c=10 d=0.000390114 t=76495
+li jie li jie 	理解理解	c=1 d=7.03467e-10 t=76495
+li jie qi lai 	理解起來	c=1 d=1.70449e-09 t=76495
+li kai 	離開	c=10 d=0.355226 t=76495
+li ke 	立刻	c=2 d=1.66235e-38 t=76495
+li lao shi 	李老師	c=1 d=5.77109e-63 t=76495
+li lao shi 	黎老師	c=1 d=5.80002e-63 t=76495
+li le 	立了	c=1 d=6.86332e-14 t=76495
+li li yuan 	李利源	c=1 d=2.12393e-09 t=76495
+li li zai mu 	歷歷在目	c=1 d=2.35987e-13 t=76495
+li lian 	歷練	c=1 d=6.8764e-07 t=76495
+li lun 	理論	c=7 d=5.04777e-17 t=76495
+li ma 	立馬	c=13 d=0.111359 t=76495
+li mao 	禮貌	c=0 d=0.00162445 t=76495
+li mian 	裏面	c=125 d=1.86943 t=76495
+li mian de 	里面的	c=3 d=3.09935e-14 t=76495
+li mian lai 	裏面來	c=1 d=1.28289e-19 t=76495
+li mian le 	里面了	c=1 d=1.03144e-70 t=76495
+li mian qu 	裏面去	c=2 d=2.26804e-46 t=76495
+li na 	李娜	c=5 d=0.814647 t=76495
+li na 	麗娜	c=1 d=1.74823e-13 t=76495
+li nian 	李念	c=1 d=0.759572 t=76495
+li pu 	離譜	c=5 d=1.53029e-05 t=76495
+li qi 	力氣	c=1 d=4.47545e-13 t=76495
+li qiu 	立秋	c=1 d=7.29765e-30 t=76495
+li shan shan 	李珊珊	c=5 d=9.88334e-10 t=76495
+li shi 	歷史	c=40 d=0.0971823 t=76495
+li shi yuan yin 	歷史原因	c=1 d=1.22665e-21 t=76495
+li si 	李四	c=1 d=7.80526e-27 t=76495
+li wai 	例外	c=1 d=6.25854e-17 t=76495
+li xia 	李霞	c=11 d=0.0298969 t=76495
+li xian 	離線	c=13 d=0.000608314 t=76495
+li xing jiao 	李兴椒	c=5 d=4.19964e-16 t=76495
+li ying 	理應	c=1 d=1.38399e-29 t=76495
+li yong 	利用	c=2 d=2.02489e-06 t=76495
+li yong 	李詠	c=1 d=1.13404e-68 t=76495
+li yuan 	利源	c=1 d=0.00670434 t=76495
+li yuan 	立源	c=11 d=0.567381 t=76495
+li zhi 	理智	c=1 d=1.80351e-85 t=76495
+li zhi 	離職	c=10 d=0.247914 t=76495
+li zhi le 	離職了	c=1 d=0.263158 t=76495
+li zhi lv 	離職率	c=1 d=2.58827e-41 t=76495
+li zi 	例子	c=4 d=2.75274e-21 t=76495
+li zi 	梨子	c=0 d=3.37019e-30 t=76495
+li zi ya 	梨子鴨	c=1 d=3.38708e-29 t=76495
+lian 	戀	c=0 d=0.0139457 t=76495
+lian 	臉	c=1 d=6.15907e-06 t=76495
+lian 	連	c=13 d=0.0448245 t=76495
+lian 	鍊	c=3 d=3.44454e-13 t=76495
+lian 	鏈	c=2 d=0.000377257 t=76495
+lian ai 	戀愛	c=1 d=3.63986e-111 t=76495
+lian biao 	連表	c=3 d=3.57972e-87 t=76495
+lian biao 	鏈表	c=1 d=7.35173e-58 t=76495
+lian bu qi lai 	連不起來	c=1 d=5.06946e-38 t=76495
+lian bu shang 	連不上	c=3 d=2.79574e-07 t=76495
+lian chu 	練出	c=1 d=8.2651e-24 t=76495
+lian dai 	聯帶	c=1 d=1.51902e-36 t=76495
+lian dai 	連帶	c=1 d=9.26865e-78 t=76495
+lian dou 	臉都	c=1 d=4.9342e-14 t=76495
+lian he 	聯合	c=3 d=1.20486e-16 t=76495
+lian ji 	聯機	c=1 d=4.77636e-102 t=76495
+lian jie 	連接	c=47 d=2.12888 t=76495
+lian jie 	鏈接	c=66 d=1.30024 t=76495
+lian jie chi 	連接池	c=1 d=5.1629e-47 t=76495
+lian jie qi 	連接器	c=2 d=1.06387e-103 t=76495
+lian jie shu 	連接數	c=1 d=6.22818e-48 t=76495
+lian le 	練了	c=1 d=7.81722e-45 t=76495
+lian lian 	練練	c=1 d=9.66756e-15 t=76495
+lian lian kan 	連連看	c=1 d=5.74701e-102 t=76495
+lian lu 	鏈路	c=38 d=0.000162473 t=76495
+lian mei zi 	鍊妹子	c=1 d=4.03004e-15 t=76495
+lian meng 	聯盟	c=1 d=0.657047 t=76495
+lian po 	廉頗	c=2 d=2.19084e-21 t=76495
+lian qi lai 	連起來	c=2 d=2.88932e-12 t=76495
+lian qing 	戀情	c=1 d=1.43577e-20 t=76495
+lian quan 	链圈	c=1 d=1.87238e-26 t=76495
+lian shang 	臉上	c=5 d=0.307279 t=76495
+lian shi 	鏈式	c=7 d=1.11799e-18 t=76495
+lian shi cao zuo 	鏈式操作	c=1 d=1.47257e-53 t=76495
+lian tiao 	聯調	c=1 d=1.89971e-20 t=76495
+lian tong 	聯通	c=1 d=1.71065e-22 t=76495
+lian tong xing 	连通性	c=1 d=0.00941925 t=76495
+lian xi 	聯繫	c=3 d=9.81171e-42 t=76495
+lian xi ren 	聯繫人	c=7 d=1.84865e-23 t=76495
+lian xi wo 	联系我	c=1 d=1.29512e-13 t=76495
+lian xu 	連續	c=1 d=1.10683e-47 t=76495
+lian yi xia 	連一下	c=1 d=7.05002e-65 t=76495
+liang 	兩	c=0 d=0.0680451 t=76495
+liang 	樑	c=3 d=3.11796e-55 t=76495
+liang 	量	c=6 d=0.000367055 t=76495
+liang 	靚	c=1 d=2.42538e-41 t=76495
+liang bai ge 	兩百個	c=1 d=5.29343e-76 t=76495
+liang bian 	兩邊	c=2 d=1.72966e-05 t=76495
+liang che 	輛車	c=0 d=2.08251e-43 t=76495
+liang ci 	兩次	c=7 d=0.284721 t=76495
+liang da 	量大	c=0 d=0.000900478 t=76495
+liang da le 	量大了	c=1 d=0.00904991 t=76495
+liang dian 	兩點	c=2 d=1.00256e-30 t=76495
+liang dian duo 	兩點多	c=1 d=0.847894 t=76495
+liang fen zhong 	兩分鐘	c=1 d=9.52037e-11 t=76495
+liang fen zhong le 	兩分鐘了	c=1 d=2.87677e-49 t=76495
+liang ge 	兩個	c=55 d=0.481539 t=76495
+liang ge hao 	兩個好	c=1 d=3.51142e-12 t=76495
+liang ge hao 	兩個號	c=2 d=6.59473e-07 t=76495
+liang ge yue 	兩個月	c=3 d=6.17922e-14 t=76495
+liang hang 	兩行	c=1 d=1.21755e-51 t=76495
+liang hao 	良好	c=2 d=3.64083e-26 t=76495
+liang ji 	量級	c=2 d=9.94271e-51 t=76495
+liang jian 	兩件	c=1 d=1.44218e-43 t=76495
+liang ju 	兩句	c=1 d=2.12754e-29 t=76495
+liang ju hua 	兩句話	c=1 d=9.29007e-17 t=76495
+liang kuai 	涼快	c=1 d=1.12551e-38 t=76495
+liang miao 	兩秒	c=1 d=6.06388e-57 t=76495
+liang nian 	兩年	c=0 d=1.71152e-29 t=76495
+liang nian qian 	兩年前	c=1 d=2.67564e-108 t=76495
+liang qian 	兩千	c=1 d=7.44381e-28 t=76495
+liang qian duo 	兩千多	c=1 d=1.16243e-06 t=76495
+liang quan 	兩圈	c=1 d=3.36789e-21 t=76495
+liang san bai kuai 	兩三百塊	c=1 d=1.89823e-99 t=76495
+liang san dian 	兩三點	c=1 d=0.683861 t=76495
+liang san qian 	兩三千	c=1 d=9.51553e-05 t=76495
+liang san tian 	兩三天	c=1 d=0.0271874 t=76495
+liang tai 	兩臺	c=1 d=0.159288 t=76495
+liang tai ji qi 	兩臺機器	c=1 d=0.127454 t=76495
+liang tao 	兩套	c=1 d=2.01334e-27 t=76495
+liang tian 	兩天	c=3 d=4.6325e-07 t=76495
+liang tiao 	兩條	c=2 d=1.95643e-63 t=76495
+liang tou 	兩頭	c=1 d=1.02159e-16 t=76495
+liang wan 	兩萬	c=1 d=1.94813e-22 t=76495
+liang wan fan 	兩碗飯	c=1 d=1.81112e-17 t=76495
+liang wei 	兩位	c=3 d=1.70595e-19 t=76495
+liang xia 	兩下	c=1 d=3.10558e-67 t=76495
+liang xiao shi 	兩小時	c=4 d=0.00588705 t=76495
+liang yun 	樑運	c=4 d=7.98788e-05 t=76495
+liang zai 	靚仔	c=1 d=4.08442e-55 t=76495
+liang zhang 	兩張	c=3 d=2.95982e-07 t=76495
+liang zhe 	晾着	c=1 d=1.46652e-34 t=76495
+liang zhen 	兩針	c=1 d=1.35986e-28 t=76495
+liang zhong 	兩種	c=1 d=0.00184551 t=76495
+liang zhou 	兩週	c=2 d=3.12943e-10 t=76495
+liang zu 	兩組	c=1 d=0.000312783 t=76495
+liao 	了	c=0 d=0.0451581 t=76495
+liao 	料	c=1 d=4.02935e-13 t=76495
+liao 	聊	c=16 d=0.0245367 t=76495
+liao bu wan 	聊不完	c=1 d=0.246597 t=76495
+liao cao 	潦草	c=1 d=2.07961e-55 t=76495
+liao dao 	聊到	c=1 d=6.0746e-19 t=76495
+liao dong 	遼東	c=1 d=0.38868 t=76495
+liao jie 	瞭解	c=9 d=0.00071734 t=76495
+liao jie guo 	瞭解過	c=1 d=9.4942e-08 t=76495
+liao jie le 	了解了	c=1 d=2.80175e-91 t=76495
+liao li 	料理	c=1 d=1.15663e-06 t=76495
+liao liao 	聊聊	c=1 d=1.08636e-92 t=76495
+liao ning 	遼寧	c=1 d=2.32315e-05 t=76495
+liao qi lai 	聊起來	c=0 d=0.0268474 t=76495
+liao qi lai le 	聊起來了	c=1 d=0.26982 t=76495
+liao tian 	聊天	c=38 d=0.260371 t=76495
+liao zhai 	聊齋	c=1 d=3.49796e-55 t=76495
+lie 	列	c=0 d=0.0198891 t=76495
+lie 	裂	c=1 d=1.39239e-12 t=76495
+lie biao 	列表	c=319 d=1.98084 t=76495
+lie kai 	裂開	c=2 d=0.226502 t=76495
+lie tou 	獵頭	c=3 d=7.01607e-86 t=76495
+lie zhi 	劣質	c=1 d=1.96972e-34 t=76495
+lin 	林	c=1 d=5.97907e-09 t=76495
+lin 	琳	c=1 d=2.60673e-07 t=76495
+lin ba 	淋巴	c=1 d=1.56826e-29 t=76495
+lin bao 	拎包	c=0 d=2.7283e-103 t=76495
+lin bao ru zhu 	拎包入駐	c=1 d=2.74198e-102 t=76495
+lin shi 	臨時	c=7 d=0.00392653 t=76495
+lin shi fa hui 	臨時發揮	c=1 d=1.19182e-35 t=76495
+lin yi 	林逸	c=4 d=1.44947e-06 t=76495
+ling 	拎	c=1 d=1.36892e-106 t=76495
+ling 	玲	c=1 d=9.60237e-53 t=76495
+ling 	零	c=5 d=3.35977e-22 t=76495
+ling 	靈	c=1 d=1.44067e-60 t=76495
+ling chen 	凌晨	c=1 d=0.08291 t=76495
+ling dao 	領導	c=1 d=1.52156e-85 t=76495
+ling dian 	零點	c=6 d=1.75305e-07 t=76495
+ling dian wu 	零點五	c=1 d=2.06025e-92 t=76495
+ling gan 	靈感	c=1 d=1.66926e-28 t=76495
+ling guo 	领国	c=1 d=1.19368e-24 t=76495
+ling pai 	令牌	c=0 d=5.90272e-94 t=76495
+ling pai tong 	令牌桶	c=1 d=5.93231e-93 t=76495
+ling ren 	令人	c=0 d=3.3429e-52 t=76495
+ling ren hai pa 	令人害怕	c=1 d=3.35966e-51 t=76495
+ling shi 	零食	c=1 d=3.42414e-10 t=76495
+ling wai 	另外	c=11 d=0.771052 t=76495
+ling wai yi ge 	另外一个	c=1 d=3.36366e-65 t=76495
+ling yi ge 	另一個	c=2 d=1.52746e-13 t=76495
+ling yu 	領域	c=0 d=1.50784e-09 t=76495
+ling yu qu dong 	領域驅動	c=1 d=1.5154e-08 t=76495
+ling zhi 	零值	c=6 d=1.11213e-05 t=76495
+liu 	劉	c=1 d=1.98168e-17 t=76495
+liu 	流	c=1 d=1.94609e-40 t=76495
+liu 	溜	c=2 d=1.01709e-44 t=76495
+liu 	留	c=5 d=0.0264477 t=76495
+liu biao 	劉表	c=1 d=0.250324 t=76495
+liu bo wen 	劉伯溫	c=2 d=0.00385128 t=76495
+liu bu liu zhuan 	流不流轉	c=1 d=1.95584e-39 t=76495
+liu bu zhu 	留不住	c=1 d=8.1443e-86 t=76495
+liu chan 	流產	c=1 d=1.89842e-12 t=76495
+liu chang 	流暢	c=0 d=2.64379e-27 t=76495
+liu che 	劉徹	c=1 d=4.41228e-81 t=76495
+liu cheng 	流程	c=28 d=1.07622 t=76495
+liu dan 	劉丹	c=1 d=1.00395e-17 t=76495
+liu dian 	留點	c=1 d=1.38677e-82 t=76495
+liu dian ban 	六點半	c=1 d=1.22653e-108 t=76495
+liu gei ni 	留给你	c=1 d=6.13859e-54 t=76495
+liu he 	六和	c=1 d=0.00194013 t=76495
+liu lan 	瀏覽	c=3 d=0.394554 t=76495
+liu lan qi 	瀏覽器	c=4 d=0.00394244 t=76495
+liu le 	溜了	c=1 d=0.00250972 t=76495
+liu le ma 	溜了嗎	c=1 d=0.025223 t=76495
+liu liang 	流量	c=17 d=0.0692522 t=76495
+liu liang fei 	流量費	c=1 d=3.37513e-105 t=76495
+liu qi dian 	六七點	c=1 d=8.31077e-30 t=76495
+liu sheng 	刘胜	c=1 d=0.759572 t=76495
+liu shi 	流食	c=1 d=4.74396e-22 t=76495
+liu shui 	流水	c=2 d=2.93289e-41 t=76495
+liu tong 	流通	c=1 d=3.49142e-33 t=76495
+liu wei ba 	留尾巴	c=1 d=3.30053e-48 t=76495
+liu xia 	流下	c=2 d=3.6718e-08 t=76495
+liu yan 	流言	c=1 d=5.18349e-35 t=76495
+liu yi 	六一	c=1 d=1.23175e-11 t=76495
+liu yi 	留意	c=1 d=1.23792e-11 t=76495
+liu yi dian 	留一點	c=1 d=4.10699e-61 t=76495
+liu yi ge 	留一个	c=1 d=2.66029e-11 t=76495
+liu yi xian 	留一線	c=1 d=0.265803 t=76495
+liu yi yi xia 	留意一下	c=1 d=2.64784e-44 t=76495
+liu yue 	六月	c=2 d=2.6338e-29 t=76495
+liu yue fen 	六月份	c=2 d=2.79929e-29 t=76495
+liu zai 	留在	c=1 d=1.4549e-58 t=76495
+liu zhe 	留着	c=2 d=0.0584257 t=76495
+liu zhu 	留住	c=0 d=2.0693e-27 t=76495
+liu zhuan 	流轉	c=6 d=0.995522 t=76495
+lo 	咯	c=18 d=0.130707 t=76495
+long jiang 	龍江	c=1 d=6.23687e-35 t=76495
+long shao 	龙少	c=1 d=0.0898153 t=76495
+long xin 	龍芯	c=1 d=1.04018e-26 t=76495
+long xin bei 	龍芯盃	c=1 d=9.20547e-27 t=76495
+long zu 	龙组	c=1 d=0.066205 t=76495
+lou 	樓	c=0 d=7.46132e-86 t=76495
+lou 	漏	c=1 d=1.25702e-44 t=76495
+lou diao le 	漏掉了	c=1 d=1.58079e-05 t=76495
+lou dong 	漏洞	c=3 d=3.15218e-07 t=76495
+lou dou 	漏斗	c=1 d=4.69676e-22 t=76495
+lou fa 	漏發	c=1 d=0.0295994 t=76495
+lou le 	漏了	c=3 d=0.0247235 t=76495
+lou le lou le 	漏了漏了	c=1 d=1.15899e-30 t=76495
+lou wang 	漏網	c=1 d=7.47809e-82 t=76495
+lou xia 	樓下	c=1 d=0.501576 t=76495
+lu 	路	c=3 d=3.45776e-58 t=76495
+lu 	陸	c=1 d=1.11583e-54 t=76495
+lu cai 	滷菜	c=1 d=0.0305009 t=76495
+lu fang ji 	錄放機	c=0 d=1.06025e-101 t=76495
+lu jing 	路徑	c=25 d=0.00282397 t=76495
+lu ka si 	盧卡斯	c=0 d=1.06025e-101 t=76495
+lu ping 	录屏	c=1 d=1.92181e-09 t=76495
+lu ren 	路人	c=1 d=6.41567e-44 t=76495
+lu xian 	路線	c=1 d=4.7375e-06 t=76495
+lu you 	路由	c=83 d=0.885524 t=76495
+lu you biao 	路由表	c=2 d=4.54773e-25 t=76495
+lu you mo ban 	路由模板	c=1 d=6.38238e-71 t=76495
+lu you zhu ce 	路由註冊	c=1 d=0.00257991 t=76495
+lu you zhu ce qi 	路由註冊器	c=1 d=0.0340475 t=76495
+lu you zu 	路由組	c=30 d=0.939521 t=76495
+luan 	亂	c=7 d=0.0411719 t=76495
+luan 	卵	c=1 d=2.49975e-14 t=76495
+luan bu luan xu 	亂不亂序	c=1 d=5.5042e-06 t=76495
+luan fei 	亂飛	c=1 d=4.91979e-09 t=76495
+luan le 	亂了	c=1 d=0.00494193 t=76495
+luan ma 	亂碼	c=4 d=0.000459671 t=76495
+luan qi ba zao 	亂七八糟	c=2 d=1.7579e-19 t=76495
+luan shuo 	亂說	c=1 d=1.6998e-06 t=76495
+luan xi bao 	卵細胞	c=1 d=2.53753e-14 t=76495
+luan xu 	亂序	c=1 d=5.47674e-07 t=76495
+lun 	輪	c=1 d=3.61651e-06 t=76495
+lun dao 	輪到	c=1 d=4.69756e-24 t=76495
+lun jin 	綸衿	c=1 d=1.08138e-38 t=76495
+lun wen 	論文	c=1 d=4.66731e-95 t=76495
+lun xun 	輪詢	c=4 d=2.26965e-25 t=76495
+lun zi 	輪子	c=4 d=1.35698e-73 t=76495
+luo 	羅	c=0 d=0.0355226 t=76495
+luo 	蘿	c=1 d=2.9507e-24 t=76495
+luo 	駱	c=1 d=0.000112788 t=76495
+luo ci 	裸辞	c=2 d=8.68585e-12 t=76495
+luo ji 	邏輯	c=59 d=0.542987 t=76495
+luo ji pan duan 	邏輯判斷	c=1 d=9.31163e-103 t=76495
+luo ma 	羅馬	c=1 d=2.98035e-24 t=76495
+luo ma di guo 	羅馬帝國	c=1 d=3.16465e-24 t=76495
+luo pan 	落盤	c=1 d=0.0236356 t=76495
+luo si 	螺絲	c=1 d=0.0569831 t=76495
+luo suo 	羅嗦	c=1 d=5.36447e-27 t=76495
+luo tai jun 	羅太君	c=1 d=0.357007 t=76495
+luo ti 	裸體	c=1 d=5.98155e-102 t=76495
+luo tuo 	駱駝	c=1 d=2.36623e-74 t=76495
+luo zhi xiang 	羅志祥	c=1 d=6.22838e-19 t=76495
+lv 	捋	c=0 d=9.72429e-26 t=76495
+lv 	率	c=1 d=8.65464e-08 t=76495
+lv 	綠	c=3 d=5.656e-24 t=76495
+lv bu 	呂布	c=2 d=0.396531 t=76495
+lv hua 	綠化	c=1 d=1.60327e-24 t=76495
+lv liang 	呂亮	c=1 d=3.64579e-42 t=76495
+lv luo 	綠蘿	c=2 d=5.61927e-24 t=76495
+lv rou 	驴肉	c=1 d=4.91812e-05 t=76495
+lv rou huo shao 	驴肉火烧	c=1 d=4.99244e-05 t=76495
+lv se 	綠色	c=1 d=1.41363e-43 t=76495
+lv yi xia 	捋一下	c=1 d=9.77304e-25 t=76495
+lve duo 	掠奪	c=2 d=3.85115e-32 t=76495
+ma 	嗎	c=531 d=2.93125 t=76495
+ma 	碼	c=23 d=0.394865 t=76495
+ma 	馬	c=1 d=1.39865e-06 t=76495
+ma 	麻	c=1 d=1.58236e-46 t=76495
+ma de 	媽的	c=5 d=1.45373e-06 t=76495
+ma diao 	馬吊	c=3 d=1.43602e-22 t=76495
+ma fan 	麻煩	c=10 d=0.737131 t=76495
+ma fan le 	麻烦了	c=1 d=1.33013e-62 t=76495
+ma hao 	馬號	c=0 d=3.19211e-09 t=76495
+ma hou pao 	馬後炮	c=2 d=8.78993e-13 t=76495
+ma jiang 	麻將	c=1 d=6.71554e-52 t=76495
+ma ke si 	馬克思	c=1 d=3.35224e-25 t=76495
+ma lai xi ya 	馬來西亞	c=2 d=1.20742e-21 t=76495
+ma le 	罵了	c=0 d=6.07525e-80 t=76495
+ma le 	麻了	c=6 d=0.00918672 t=76495
+ma lu 	馬路	c=2 d=3.74396e-19 t=76495
+ma lv 	碼率	c=0 d=2.14032e-71 t=76495
+ma ma 	媽媽	c=2 d=0.962198 t=76495
+ma niang 	罵娘	c=1 d=5.47674e-06 t=76495
+ma rou 	馬肉	c=1 d=4.84489e-05 t=76495
+ma shang 	馬上	c=9 d=0.485385 t=76495
+ma teng 	馬騰	c=1 d=0.251579 t=76495
+ma tong 	馬桶	c=1 d=3.58979e-07 t=76495
+ma tong shuan 	馬桶拴	c=1 d=5.98416e-19 t=76495
+ma tou 	碼頭	c=1 d=2.70786e-43 t=76495
+ma ye 	妈耶	c=1 d=4.15264e-44 t=76495
+mai 	買	c=12 d=0.155444 t=76495
+mai bu dao 	買不到	c=1 d=3.16111e-99 t=76495
+mai che 	買車	c=2 d=0.729789 t=76495
+mai dan 	買單	c=1 d=7.32526e-45 t=76495
+mai de 	買的	c=2 d=2.35578e-22 t=76495
+mai dian 	埋點	c=1 d=1.09522e-70 t=76495
+mai fang 	買房	c=1 d=0.726149 t=76495
+mai gei 	賣給	c=1 d=1.11374e-32 t=76495
+mai lai 	買來	c=3 d=2.51858e-34 t=76495
+mai le 	買了	c=6 d=0.0201468 t=76495
+mai liang 	買輛	c=1 d=0.00252883 t=76495
+mai liang che 	買輛車	c=1 d=2.09295e-42 t=76495
+mai yi 	買一	c=0 d=6.83308e-110 t=76495
+mai yi dian 	買一點	c=1 d=6.86733e-109 t=76495
+mai yi ge 	买一个	c=1 d=6.52415e-06 t=76495
+man 	慢	c=2 d=6.46695e-61 t=76495
+man 	滿	c=3 d=0.767206 t=76495
+man cha xun 	慢查詢	c=1 d=6.12691e-61 t=76495
+man hao de 	蠻好的	c=1 d=8.97608e-83 t=76495
+man le 	慢了	c=1 d=7.91648e-17 t=76495
+man le 	滿了	c=1 d=4.01745e-37 t=76495
+man man 	慢慢	c=8 d=7.08428e-07 t=76495
+man man lai 	慢慢來	c=2 d=2.83666e-82 t=76495
+man ping 	满屏	c=1 d=0.860708 t=76495
+man xue 	满血	c=1 d=1.53507e-42 t=76495
+man yi 	滿意	c=1 d=4.2038e-41 t=76495
+man zu 	滿足	c=3 d=0.386741 t=76495
+man zu ni 	满足你	c=1 d=0.00030659 t=76495
+mang 	忙	c=4 d=0.00324708 t=76495
+mang da 	盲打	c=1 d=3.16401e-51 t=76495
+mang gai 	盲改	c=1 d=1.41555e-59 t=76495
+mang ma 	忙嗎	c=1 d=9.88671e-14 t=76495
+mang ren 	盲人	c=1 d=1.62578e-41 t=76495
+mang si 	忙死	c=2 d=0.00794669 t=76495
+mang xie 	盲寫	c=1 d=0.0142642 t=76495
+mang ze deng dai 	忙則等待	c=1 d=6.19606e-46 t=76495
+mang zhe 	忙着	c=1 d=9.96368e-17 t=76495
+mao 	毛	c=1 d=5.59196e-45 t=76495
+mao bing 	毛病	c=7 d=6.7081e-09 t=76495
+mao chu lai 	冒出來	c=1 d=5.14432e-34 t=76495
+mao ding 	錨定	c=1 d=3.43944e-33 t=76495
+mao dun 	矛盾	c=2 d=4.89775e-15 t=76495
+mao feng xian 	冒風險	c=1 d=3.77449e-09 t=76495
+mao guo pao 	冒過泡	c=1 d=0.10383 t=76495
+mao hao 	冒號	c=1 d=5.86966e-27 t=76495
+mao ni 	貓膩	c=1 d=4.59749e-06 t=76495
+mao pao 	冒泡	c=1 d=1.6853e-111 t=76495
+mao xian 	冒險	c=1 d=4.27883e-102 t=76495
+mao yi 	貿易	c=3 d=2.75796e-32 t=76495
+mao yi zhong xin 	貿易中心	c=0 d=1.89468e-78 t=76495
+mao zi 	帽子	c=1 d=1.57205e-28 t=76495
+mao zi 	毛子	c=1 d=2.50513e-98 t=76495
+me gao 	麼搞	c=1 d=1.37891e-74 t=76495
+me you 	么有	c=2 d=6.35112e-45 t=76495
+mei 	妹	c=1 d=3.32397e-43 t=76495
+mei 	枚	c=1 d=3.50176e-09 t=76495
+mei 	每	c=5 d=0.321422 t=76495
+mei 	沒	c=244 d=2.02177 t=76495
+mei 	美	c=1 d=2.87981e-32 t=76495
+mei bai tuo 	沒擺脫	c=1 d=1.36334e-58 t=76495
+mei ban fa 	沒辦法	c=3 d=0.697676 t=76495
+mei bei 	沒被	c=1 d=1.26354e-46 t=76495
+mei bi yao 	沒必要	c=17 d=0.165312 t=76495
+mei bian 	沒變	c=3 d=4.08747e-05 t=76495
+mei bie 	沒別	c=1 d=0.04573 t=76495
+mei can 	每餐	c=1 d=1.7931e-17 t=76495
+mei can shu 	沒參數	c=1 d=2.40787e-44 t=76495
+mei cao zuo 	没操作	c=1 d=2.65984e-09 t=76495
+mei ce 	沒測	c=1 d=1.57317e-07 t=76495
+mei cheng gong 	沒成功	c=1 d=1.88799e-06 t=76495
+mei chi hao 	沒喫好	c=1 d=8.0222e-26 t=76495
+mei chong tu 	沒衝突	c=1 d=6.8975e-43 t=76495
+mei chu fa 	没触发	c=1 d=2.69912e-05 t=76495
+mei chu li 	沒處理	c=1 d=9.2086e-31 t=76495
+mei ci 	每次	c=11 d=0.75539 t=76495
+mei cun 	没存	c=1 d=3.67719e-84 t=76495
+mei cuo 	沒錯	c=1 d=5.89187e-42 t=76495
+mei da 	沒打	c=1 d=5.99742e-45 t=76495
+mei da dao 	没达到	c=1 d=9.55936e-59 t=76495
+mei dao dian 	没到点	c=1 d=1.52585e-30 t=76495
+mei de 	沒得	c=1 d=3.50903e-05 t=76495
+mei de hei 	沒得黑	c=1 d=6.75654e-06 t=76495
+mei de yong 	沒得用	c=1 d=0.000352662 t=76495
+mei deng dao 	沒等到	c=1 d=1.26092e-51 t=76495
+mei di 	沒底	c=2 d=1.55808e-11 t=76495
+mei dian 	沒電	c=0 d=8.17703e-46 t=76495
+mei dian 	沒點	c=2 d=1.13877e-58 t=76495
+mei dian le 	沒電了	c=1 d=8.21802e-45 t=76495
+mei ding 	沒定	c=1 d=6.77705e-71 t=76495
+mei dong 	沒動	c=1 d=2.86224e-107 t=76495
+mei dong 	沒懂	c=2 d=7.63769e-07 t=76495
+mei dong guo 	没动过	c=1 d=3.91189e-106 t=76495
+mei dong jing 	没动静	c=1 d=1.46518e-82 t=76495
+mei duo da 	没多大	c=2 d=0.0402524 t=76495
+mei duo shao 	沒多少	c=1 d=1.57778e-12 t=76495
+mei fa 	沒法	c=52 d=0.610947 t=76495
+mei fa 	没发	c=2 d=0.0156076 t=76495
+mei fa ban 	沒發版	c=2 d=2.64604e-36 t=76495
+mei fa bi mian 	沒法避免	c=1 d=1.13192e-46 t=76495
+mei fa gai 	沒法改	c=1 d=4.56775e-106 t=76495
+mei fa huo 	沒法活	c=1 d=6.77749e-13 t=76495
+mei fa xian 	沒發現	c=2 d=0.0692522 t=76495
+mei fa zuo 	沒法做	c=1 d=1.02609e-97 t=76495
+mei fan hui 	沒返回	c=1 d=2.26018e-64 t=76495
+mei fen zhong 	每分鐘	c=1 d=1.31443e-40 t=76495
+mei gai 	没改	c=7 d=0.264379 t=76495
+mei gan 	沒幹	c=1 d=7.33423e-30 t=76495
+mei gan jue 	沒感覺	c=2 d=1.21593e-06 t=76495
+mei ge 	每個	c=4 d=7.34821e-23 t=76495
+mei ge 	没个	c=1 d=4.41722e-06 t=76495
+mei gei 	沒給	c=8 d=0.100259 t=76495
+mei gei hao 	沒給號	c=1 d=1.96993e-94 t=76495
+mei gei ni 	没给你	c=1 d=2.40575e-63 t=76495
+mei gei wo 	没给我	c=4 d=0.0505395 t=76495
+mei geng xin 	沒更新	c=1 d=2.31945e-45 t=76495
+mei gong fu 	沒工夫	c=1 d=9.98915e-47 t=76495
+mei gu 	美股	c=2 d=0.0526021 t=76495
+mei gua 	没挂	c=0 d=6.21719e-87 t=76495
+mei guan 	沒關	c=1 d=0.0403566 t=76495
+mei guan 	美觀	c=2 d=2.7219e-45 t=76495
+mei guan lian 	没关联	c=1 d=3.47378e-91 t=76495
+mei guan xi 	沒關係	c=6 d=0.000850235 t=76495
+mei guo 	沒過	c=3 d=8.20963e-33 t=76495
+mei guo 	美國	c=10 d=8.01188e-24 t=76495
+mei guo lv 	沒過濾	c=1 d=0.0098528 t=76495
+mei he 	沒和	c=3 d=0.000923275 t=76495
+mei he 	沒喝	c=1 d=9.98097e-08 t=76495
+mei hua 	沒話	c=1 d=3.03675e-68 t=76495
+mei hua 	美化	c=1 d=2.45168e-109 t=76495
+mei huai chu 	没坏处	c=0 d=1.32575e-83 t=76495
+mei hui 	沒回	c=6 d=1.04422e-09 t=76495
+mei hui diao 	沒回調	c=1 d=3.792e-34 t=76495
+mei hui fu 	沒回覆	c=1 d=8.58458e-29 t=76495
+mei ji hui 	没机会	c=1 d=0.0963276 t=76495
+mei ji tian 	沒幾天	c=1 d=1.41391e-16 t=76495
+mei jia 	没加	c=1 d=0.0160829 t=76495
+mei jia ru 	没加入	c=1 d=1.01657e-105 t=76495
+mei jian 	沒見	c=0 d=0.0185397 t=76495
+mei jian duo da 	沒見多大	c=1 d=0.182684 t=76495
+mei jian ta 	沒見他	c=1 d=0.102797 t=76495
+mei jie 	沒接	c=3 d=7.32877e-81 t=76495
+mei jie zhong 	沒接中	c=1 d=7.3655e-80 t=76495
+mei jing li 	没经历	c=1 d=5.96142e-33 t=76495
+mei jiu 	沒救	c=1 d=3.32634e-22 t=76495
+mei ju 	枚舉	c=16 d=4.73817e-05 t=76495
+mei ju 	沒局	c=1 d=6.2692e-37 t=76495
+mei ju zhi 	枚舉值	c=1 d=1.69785e-110 t=76495
+mei kai 	沒開	c=5 d=0.839457 t=76495
+mei kan 	沒看	c=4 d=1.44473e-05 t=76495
+mei kan jian 	没看见	c=2 d=7.21275e-10 t=76495
+mei kao lv 	没考虑	c=1 d=1.56039e-58 t=76495
+mei ke neng 	没可能	c=2 d=2.77122e-21 t=76495
+mei kong 	沒空	c=7 d=0.449329 t=76495
+mei la 	沒拉	c=1 d=2.5175e-09 t=76495
+mei lai 	沒來	c=0 d=4.40403e-60 t=76495
+mei le 	沒了	c=23 d=0.088246 t=76495
+mei liao tian 	沒聊天	c=1 d=0.00562801 t=76495
+mei liu zhu 	沒留住	c=1 d=2.07968e-26 t=76495
+mei mai 	沒買	c=1 d=5.54291e-59 t=76495
+mei mao bing 	没毛病	c=4 d=0.474734 t=76495
+mei mei 	妹妹	c=2 d=0.102797 t=76495
+mei mei 	美眉	c=1 d=5.96465e-10 t=76495
+mei na dao 	沒拿到	c=1 d=3.60069e-72 t=76495
+mei nao zi 	没脑子	c=2 d=1.18854e-32 t=76495
+mei ne 	没呢	c=3 d=0.00031751 t=76495
+mei ni 	没你	c=1 d=1.89442e-46 t=76495
+mei nv 	美女	c=1 d=4.07886e-39 t=76495
+mei pao 	沒跑	c=2 d=6.66972e-33 t=76495
+mei peng you 	沒朋友	c=1 d=1.49173e-58 t=76495
+mei qi dong 	没启动	c=1 d=3.44002e-35 t=76495
+mei qian 	沒牽	c=1 d=2.21129e-42 t=76495
+mei qian mei gua 	沒牽没挂	c=1 d=6.24835e-86 t=76495
+mei qing qiu 	沒請求	c=1 d=1.9119e-07 t=76495
+mei qu 	沒去	c=3 d=3.58981e-07 t=76495
+mei qu guo 	没去过	c=1 d=1.15919e-32 t=76495
+mei quan xian 	沒權限	c=3 d=0.00127096 t=76495
+mei rang ni 	没让你	c=1 d=3.47885e-20 t=76495
+mei rang wo 	没让我	c=1 d=4.79296e-84 t=76495
+mei ren 	每人	c=1 d=4.94445e-09 t=76495
+mei ren 	沒人	c=6 d=0.0520787 t=76495
+mei ren yong 	没人用	c=1 d=1.25749e-19 t=76495
+mei ri 	每日	c=3 d=1.28976e-23 t=76495
+mei ri 	美日	c=1 d=6.82422e-35 t=76495
+mei ri yi ti 	每日一题	c=1 d=1.81674e-24 t=76495
+mei ri zhi 	沒日誌	c=1 d=1.45139e-59 t=76495
+mei ru 	沒入	c=1 d=3.43184e-07 t=76495
+mei ru 	沒如	c=1 d=2.30906e-51 t=76495
+mei sha 	沒啥	c=11 d=0.191092 t=76495
+mei sha shi 	没啥事	c=1 d=6.84982e-79 t=76495
+mei sha yong 	没啥用	c=1 d=2.21701e-43 t=76495
+mei shan 	沒刪	c=1 d=1.24367e-36 t=76495
+mei shang 	沒上	c=5 d=1.50759e-06 t=76495
+mei shen me 	沒什麼	c=1 d=2.00733e-80 t=76495
+mei shi 	沒事	c=31 d=0.824129 t=76495
+mei shi guo 	没试过	c=1 d=7.72972e-89 t=76495
+mei shi jian 	没时间	c=11 d=1.01169 t=76495
+mei shi mei shi 	没事没事	c=1 d=0.00923273 t=76495
+mei shi xian 	沒實現	c=2 d=4.24474e-08 t=76495
+mei shi zuo 	没事做	c=1 d=1.62767e-84 t=76495
+mei shou dao 	没收到	c=18 d=0.244487 t=76495
+mei shu ju 	没数据	c=1 d=1.07342e-10 t=76495
+mei shua 	没刷	c=1 d=1.5816e-11 t=76495
+mei shua xin 	沒刷新	c=2 d=1.01543e-33 t=76495
+mei shui 	沒睡	c=1 d=9.2133e-37 t=76495
+mei shui le 	沒誰了	c=1 d=1.20736e-11 t=76495
+mei shuo 	沒說	c=3 d=2.69214e-05 t=76495
+mei suan 	沒算	c=1 d=5.57088e-30 t=76495
+mei ti 	媒體	c=3 d=1.71448e-05 t=76495
+mei ti gong 	沒提供	c=1 d=9.5496e-47 t=76495
+mei tian 	每天	c=3 d=0.0258615 t=76495
+mei tiao zhan xing 	沒挑戰性	c=1 d=3.41763e-17 t=76495
+mei ting 	沒聽	c=0 d=1.19877e-75 t=76495
+mei ting shuo guo 	沒聽說過	c=1 d=1.20478e-74 t=76495
+mei tong bu 	没同步	c=1 d=1.8981e-10 t=76495
+mei tou xiang 	沒頭像	c=1 d=7.23488e-46 t=76495
+mei tuan 	美团	c=4 d=9.20122e-41 t=76495
+mei tui 	沒推	c=1 d=2.79898e-50 t=76495
+mei wan 	沒玩	c=1 d=8.87287e-94 t=76495
+mei wan mei liao 	沒完沒了	c=1 d=1.95278e-50 t=76495
+mei wei hu 	沒維護	c=1 d=3.46835e-102 t=76495
+mei wen 	没问	c=2 d=1.67455e-35 t=76495
+mei wen dang 	沒文檔	c=1 d=7.77823e-45 t=76495
+mei wen ta 	没问他	c=1 d=2.00986e-36 t=76495
+mei wen ti 	沒問題	c=58 d=0.187325 t=76495
+mei wo 	没我	c=1 d=3.36699e-106 t=76495
+mei wo ne ti 	沒我呢提	c=1 d=1.02773e-57 t=76495
+mei xia fa 	沒下發	c=2 d=0.12493 t=76495
+mei xian shi 	没显示	c=2 d=8.8232e-28 t=76495
+mei xiang dao 	沒想到	c=3 d=0.0450492 t=76495
+mei xiao shi 	每小時	c=2 d=5.25109e-11 t=76495
+mei xie 	没写	c=3 d=4.90792e-10 t=76495
+mei xie chu lai 	沒寫出來	c=1 d=1.50784e-08 t=76495
+mei xie si 	沒写死	c=1 d=0.0117371 t=76495
+mei xie wan 	没写完	c=1 d=7.5916e-24 t=76495
+mei ya 	沒呀	c=1 d=0.0338776 t=76495
+mei yan kan 	沒眼看	c=1 d=9.98171e-97 t=76495
+mei yao 	沒要	c=1 d=4.07401e-25 t=76495
+mei yao qiu 	沒要求	c=1 d=1.18096e-45 t=76495
+mei ye 	每頁	c=6 d=7.19168e-05 t=76495
+mei yi 	每一	c=0 d=1.20044e-62 t=76495
+mei yi ci 	每一次	c=4 d=1.7042e-07 t=76495
+mei yi di 	每一滴	c=1 d=0.143704 t=76495
+mei yi dian 	没一点	c=7 d=0.000352662 t=76495
+mei yi ge 	每一個	c=7 d=0.640824 t=76495
+mei yi ge 	没一个	c=2 d=1.6275e-24 t=76495
+mei yi hang 	每一行	c=1 d=1.20646e-61 t=76495
+mei yi jian 	没意见	c=1 d=1.33498e-46 t=76495
+mei yi zhong 	每一種	c=2 d=2.73267e-45 t=76495
+mei ying xiang 	没影响	c=3 d=0.392586 t=76495
+mei yong 	沒用	c=14 d=0.807364 t=76495
+mei yong cuo 	沒用錯	c=1 d=3.137e-09 t=76495
+mei yong guo 	没用过	c=2 d=0.71177 t=76495
+mei yong le 	沒用了	c=1 d=1.34725e-36 t=76495
+mei you 	沒有	c=282 d=1.18729 t=76495
+mei you 	沒油	c=1 d=5.1197e-07 t=76495
+mei you a 	没有啊	c=2 d=1.38009e-84 t=76495
+mei you ba 	没有吧	c=1 d=0.00067217 t=76495
+mei you bao 	沒有包	c=1 d=8.25473e-68 t=76495
+mei you hua 	沒優化	c=1 d=9.09933e-67 t=76495
+mei you ma 	没有吗	c=1 d=5.05604e-95 t=76495
+mei you suo 	沒有鎖	c=1 d=4.62668e-51 t=76495
+mei you tou xiang 	沒有頭像	c=1 d=6.34063e-82 t=76495
+mei you ya 	沒有呀	c=2 d=2.22782e-12 t=76495
+mei you zuo 	没有做	c=1 d=7.14151e-99 t=76495
+mei yu dao 	没遇到	c=1 d=1.71391e-15 t=76495
+mei yu dao guo 	没遇到过	c=1 d=0.00145901 t=76495
+mei yue 	每月	c=2 d=9.37386e-05 t=76495
+mei yun dong 	沒運動	c=1 d=3.26836e-21 t=76495
+mei zai 	沒在	c=2 d=1.15659e-35 t=76495
+mei zai xian 	没在线	c=1 d=4.39056e-23 t=76495
+mei zai yong 	沒在用	c=1 d=3.06039e-71 t=76495
+mei zen me 	沒怎麼	c=1 d=5.31579e-08 t=76495
+mei zen me wan 	沒怎麼玩	c=1 d=6.13297e-102 t=76495
+mei zhang hao 	沒帳號	c=1 d=2.11729e-31 t=76495
+mei zhao 	沒招	c=6 d=7.56553e-13 t=76495
+mei zhao dao 	沒找到	c=8 d=0.0753961 t=76495
+mei zhe ge 	没这个	c=2 d=4.38445e-36 t=76495
+mei zhe me 	没这么	c=3 d=2.4515e-20 t=76495
+mei zhe me kuai 	没这么快	c=2 d=1.76214e-18 t=76495
+mei zheng 	沒整	c=1 d=2.62132e-102 t=76495
+mei zhou 	梅州	c=2 d=3.71275e-42 t=76495
+mei zhou 	美洲	c=1 d=8.00694e-33 t=76495
+mei zhu yi guo 	沒注意過	c=1 d=0.67368 t=76495
+mei zi 	妹子	c=3 d=4.00994e-16 t=76495
+mei zou 	沒走	c=1 d=0.0550232 t=76495
+mei zuo 	沒做	c=5 d=0.00376283 t=76495
+men 	們	c=7 d=2.84533e-08 t=76495
+men kan 	門檻	c=1 d=0.000169103 t=76495
+meng 	夢	c=2 d=6.57863e-05 t=76495
+meng xiang 	夢想	c=1 d=5.99659e-14 t=76495
+mi 	米	c=2 d=5.86268e-14 t=76495
+mi bu 	彌補	c=1 d=1.2029e-85 t=76495
+mi feng 	密封	c=1 d=6.77851e-34 t=76495
+mi feng dai 	密封袋	c=1 d=5.91738e-34 t=76495
+mi ji 	密集	c=2 d=5.87191e-12 t=76495
+mi li mian 	米裏面	c=1 d=6.8066e-34 t=76495
+mi lu 	秘鲁	c=1 d=8.41746e-33 t=76495
+mi luo 	汨羅	c=1 d=2.64544e-09 t=76495
+mi luo ba 	汨羅把	c=1 d=2.15602e-09 t=76495
+mi ma 	密碼	c=10 d=0.00256704 t=76495
+mi ma xue 	密碼學	c=2 d=1.79641e-107 t=76495
+mi na shi 	米那是	c=1 d=5.89206e-13 t=76495
+mi tuan 	謎團	c=0 d=1.76334e-27 t=76495
+mi wen 	密文	c=4 d=1.86295e-16 t=76495
+mi yao 	密鑰	c=1 d=8.34594e-109 t=76495
+mian 	免	c=0 d=1.00577e-98 t=76495
+mian 	棉	c=2 d=2.03223e-38 t=76495
+mian 	麪	c=6 d=6.94433e-05 t=76495
+mian ban 	面板	c=1 d=2.25473e-65 t=76495
+mian ban 	面版	c=1 d=2.24349e-65 t=76495
+mian da rao 	免打擾	c=1 d=1.01081e-97 t=76495
+mian dui 	面對	c=3 d=0.0614212 t=76495
+mian dui mian 	面對面	c=1 d=2.79764e-15 t=76495
+mian fei 	免費	c=5 d=0.000325549 t=76495
+mian fei you xiang 	免費郵箱	c=1 d=1.53366e-90 t=76495
+mian guo 	麪過	c=1 d=0.0531307 t=76495
+mian jing 	麪經	c=1 d=0.0497871 t=76495
+mian qian 	面前	c=4 d=0.0347353 t=76495
+mian shi 	面試	c=5 d=0.114183 t=76495
+mian shi guan 	面試官	c=2 d=2.75645e-08 t=76495
+mian shi ti 	面試題	c=1 d=8.63937e-45 t=76495
+mian shi ti 	面试题	c=1 d=4.63328e-09 t=76495
+mian xiang 	面向	c=1 d=1.6196e-55 t=76495
+mian yi 	免疫	c=0 d=1.52559e-29 t=76495
+mian yi xia 	麪一下	c=1 d=1.20191e-46 t=76495
+mian zi 	面子	c=4 d=0.00162053 t=76495
+miao 	秒	c=36 d=0.960531 t=76495
+miao 	苗	c=1 d=4.25849e-46 t=76495
+miao er 	苗兒	c=1 d=4.23725e-46 t=76495
+miao ji 	秒級	c=2 d=1.12785e-33 t=76495
+miao le 	瞄了	c=1 d=7.78643e-28 t=76495
+miao shu 	描述	c=22 d=0.084163 t=76495
+miao shu 	秒數	c=3 d=5.1781e-07 t=76495
+mie 	咩	c=2 d=8.91926e-13 t=76495
+mie 	滅	c=1 d=1.99715e-20 t=76495
+mie you 	咩有	c=1 d=2.62007e-31 t=76495
+min 	敏	c=3 d=8.95595e-86 t=76495
+min gan 	敏感	c=2 d=5.13208e-06 t=76495
+min gan ci 	敏感詞	c=36 d=0.00235786 t=76495
+min qi 	敏琪	c=3 d=8.20684e-29 t=76495
+min zhu 	民主	c=1 d=2.78076e-32 t=76495
+min zhu zi you 	民主自由	c=1 d=2.72569e-32 t=76495
+min zu 	民族	c=5 d=1.16389e-21 t=76495
+ming 	名	c=52 d=0.764338 t=76495
+ming 	命	c=2 d=7.48773e-09 t=76495
+ming 	明	c=1 d=0.802519 t=76495
+ming bai 	明擺	c=1 d=7.9362e-105 t=76495
+ming bai 	明白	c=23 d=0.460608 t=76495
+ming bai le 	明白了	c=2 d=0.028458 t=76495
+ming bu fu shi 	名不副實	c=1 d=4.94277e-05 t=76495
+ming cheng 	名稱	c=108 d=0.52743 t=76495
+ming dan 	名單	c=1 d=4.84804e-42 t=76495
+ming deng 	冥燈	c=1 d=0.0360595 t=76495
+ming fa 	明發	c=1 d=2.27461e-80 t=76495
+ming gan 	銘感	c=1 d=1.28591e-76 t=76495
+ming huang huang 	明晃晃	c=1 d=0.0695994 t=76495
+ming ji 	銘記	c=1 d=0.079659 t=76495
+ming liao 	明瞭	c=1 d=1.18362e-42 t=76495
+ming ling 	命令	c=47 d=0.185444 t=76495
+ming ling hang 	命令行	c=3 d=0.0590129 t=76495
+ming ming 	命名	c=11 d=0.0210697 t=76495
+ming ming 	明明	c=2 d=0.440432 t=76495
+ming mu zhang dan 	明目張膽	c=1 d=7.90411e-28 t=76495
+ming pian 	名片	c=27 d=2.564 t=76495
+ming que 	明確	c=4 d=0.00162053 t=76495
+ming tian 	明天	c=28 d=1.63066 t=76495
+ming ting 	名停	c=1 d=0.458406 t=76495
+ming wan 	明晚	c=1 d=6.44454e-38 t=76495
+ming wei 	名爲	c=1 d=0.0368832 t=76495
+ming wen 	明文	c=6 d=9.24848e-17 t=76495
+ming xi 	明晰	c=2 d=4.5864e-07 t=76495
+ming xi na 	明晰那	c=1 d=2.2846e-14 t=76495
+ming xian 	明顯	c=10 d=4.90793e-10 t=76495
+ming xing 	明星	c=1 d=7.9974e-19 t=76495
+ming yan 	明眼	c=1 d=3.50083e-94 t=76495
+ming yuan 	名媛	c=1 d=4.39056e-23 t=76495
+ming zao 	名噪	c=1 d=8.33965e-12 t=76495
+ming zao 	明早	c=1 d=8.38145e-12 t=76495
+ming zi 	名字	c=14 d=0.242984 t=76495
+ming zong 	明總	c=2 d=4.10865e-07 t=76495
+mo 	莫	c=1 d=1.4602e-42 t=76495
+mo 	默	c=1 d=1.13744e-15 t=76495
+mo ban 	模板	c=14 d=4.59836e-08 t=76495
+mo chu 	磨出	c=0 d=5.75852e-09 t=76495
+mo chu lai 	磨出來	c=1 d=5.78739e-08 t=76495
+mo die sha 	磨碟沙	c=3 d=9.18981e-07 t=76495
+mo gai 	魔改	c=5 d=1.04927e-07 t=76495
+mo gu 	蘑菇	c=1 d=5.17115e-07 t=76495
+mo hu 	糢糊	c=9 d=0.0109246 t=76495
+mo hu de 	模糊的	c=1 d=9.50459e-109 t=76495
+mo huan 	魔幻	c=1 d=7.109e-16 t=76495
+mo kuai 	模塊	c=11 d=0.114755 t=76495
+mo li 	茉莉	c=1 d=7.81298e-68 t=76495
+mo mo 	墨墨	c=0 d=6.58257e-53 t=76495
+mo mo 	默默	c=1 d=3.92761e-65 t=76495
+mo mo ji ji 	墨墨唧唧	c=1 d=6.61556e-52 t=76495
+mo na ge 	摩納哥	c=0 d=4.52475e-84 t=76495
+mo na ge cheng 	摩納哥成	c=1 d=4.54743e-83 t=76495
+mo ni 	模擬	c=7 d=1.11573 t=76495
+mo ni qi 	模擬器	c=2 d=1.71893e-20 t=76495
+mo ren 	默認	c=127 d=0.439644 t=76495
+mo ren zhi 	默認值	c=2 d=6.02256e-06 t=76495
+mo shi 	模式	c=4 d=1.96012e-06 t=76495
+mo shi 	漠視	c=1 d=8.22308e-111 t=76495
+mo wei 	末位	c=5 d=1.92654 t=76495
+mo wei 	末尾	c=2 d=0.980199 t=76495
+mo xi ge 	墨西哥	c=1 d=8.25078e-33 t=76495
+mo xing 	模型	c=11 d=6.90359e-24 t=76495
+mo xing ceng 	模型層	c=1 d=1.46718e-98 t=76495
+mo yu 	摸魚	c=7 d=5.09416e-07 t=76495
+mo yu le 	摸魚了	c=1 d=7.98355e-28 t=76495
+mo zheng 	魔怔	c=2 d=6.81146e-13 t=76495
+mou 	某	c=5 d=0.132669 t=76495
+mou cai hai ming 	謀財害命	c=1 d=1.20732e-40 t=76495
+mou ci 	某次	c=1 d=1.93341e-21 t=76495
+mou ci 	謀刺	c=2 d=3.83794e-21 t=76495
+mou ge 	某個	c=13 d=0.182684 t=76495
+mou jie kou 	某接口	c=1 d=9.02012e-23 t=76495
+mou qun 	某羣	c=1 d=8.32298e-106 t=76495
+mou ren 	某人	c=2 d=2.72274e-78 t=76495
+mou xiang 	某項	c=2 d=3.89056e-36 t=76495
+mou xie 	某些	c=3 d=5.8164e-08 t=76495
+mou yi ge 	某一个	c=4 d=1.21152e-22 t=76495
+mou zhong 	某種	c=1 d=2.01609e-43 t=76495
+mu biao 	目標	c=2 d=0.24432 t=76495
+mu ce 	目測	c=1 d=4.50094e-21 t=76495
+mu ci zi xiao 	母慈子孝	c=1 d=1.11856e-24 t=76495
+mu di 	目的	c=6 d=2.34243e-14 t=76495
+mu di xing 	目的性	c=1 d=1.32061e-07 t=76495
+mu lu 	目錄	c=30 d=0.0363711 t=76495
+mu lu xia 	目錄下	c=1 d=2.74954e-105 t=76495
+mu qian 	幕前	c=1 d=4.02661e-05 t=76495
+mu qian 	目前	c=58 d=0.537451 t=76495
+mu qin 	母親	c=1 d=2.7765e-14 t=76495
+n chang ao 	嗯長奧	c=1 d=0.0365162 t=76495
+na 	吶	c=1 d=4.43983e-66 t=76495
+na 	哪	c=4 d=5.12057e-09 t=76495
+na 	娜	c=5 d=4.32667e-27 t=76495
+na 	拿	c=16 d=0.079659 t=76495
+na 	那	c=78 d=0.743669 t=76495
+na ba 	那把	c=1 d=1.26152e-86 t=76495
+na bang wo 	那帮我	c=1 d=2.53098e-13 t=76495
+na bei 	那被	c=1 d=4.16069e-08 t=76495
+na ben shu 	那本書	c=1 d=1.62777e-26 t=76495
+na bian 	哪邊	c=5 d=7.05122e-29 t=76495
+na bian 	那邊	c=28 d=0.562733 t=76495
+na bu chu 	拿不出	c=0 d=5.38293e-39 t=76495
+na bu chu lai 	拿不出來	c=1 d=5.40992e-38 t=76495
+na bu dao 	拿不到	c=14 d=0.0642483 t=76495
+na bu dei 	那不得	c=1 d=5.58815e-37 t=76495
+na bu shi 	那不是	c=2 d=3.00091e-46 t=76495
+na bu shu fu 	哪不舒服	c=1 d=2.3383e-52 t=76495
+na bu xing 	那不行	c=1 d=2.92781e-50 t=76495
+na chu lai 	拿出來	c=4 d=2.29449e-06 t=76495
+na ci 	那次	c=1 d=1.5696e-39 t=76495
+na dao 	拿到	c=21 d=0.475605 t=76495
+na dao 	那倒	c=1 d=4.64641e-101 t=76495
+na dao le 	拿到了	c=1 d=1.16782e-31 t=76495
+na de 	拿的	c=2 d=5.68554e-05 t=76495
+na dei 	那得	c=3 d=4.05728e-06 t=76495
+na deng ni 	那等你	c=1 d=7.73311e-06 t=76495
+na dui 	那對	c=1 d=5.11779e-32 t=76495
+na dun 	那頓	c=1 d=7.94238e-26 t=76495
+na er 	那兒	c=1 d=5.36778e-93 t=76495
+na fang mian 	哪方面	c=1 d=1.4472e-25 t=76495
+na ge 	哪個	c=83 d=1.44686 t=76495
+na ge 	拿個	c=3 d=2.34199e-10 t=76495
+na ge 	那個	c=151 d=0.723486 t=76495
+na ge ban 	哪個版	c=1 d=1.30725e-05 t=76495
+na ge duo 	哪個多	c=1 d=0.000297529 t=76495
+na ge hao 	哪個號	c=1 d=0.307279 t=76495
+na ge hao 	那个号	c=1 d=3.2757e-18 t=76495
+na ge qun 	哪个群	c=1 d=2.78227e-09 t=76495
+na ge shi hou 	那個時候	c=2 d=7.39535e-10 t=76495
+na gu ji 	那估計	c=1 d=1.49259e-06 t=76495
+na hai 	那還	c=1 d=2.47783e-28 t=76495
+na hao 	那好	c=1 d=7.81348e-10 t=76495
+na ji 	哪幾	c=0 d=2.02854e-87 t=76495
+na ji 	那幾	c=0 d=3.00509e-34 t=76495
+na ji ge 	哪幾個	c=2 d=2.55286e-26 t=76495
+na ji ge 	那幾個	c=1 d=2.56565e-26 t=76495
+na ji jia 	哪幾家	c=1 d=2.03871e-86 t=76495
+na ji tai 	那幾臺	c=1 d=3.02015e-33 t=76495
+na jie 	娜姐	c=41 d=0.18045 t=76495
+na jiu 	那就	c=13 d=0.151829 t=76495
+na jiu shi 	那就是	c=15 d=0.438235 t=76495
+na ke bu 	那可不	c=1 d=1.53037e-06 t=76495
+na kuai 	哪塊	c=1 d=3.91255e-108 t=76495
+na kuan 	哪款	c=1 d=9.33823e-20 t=76495
+na kuan 	那款	c=1 d=3.33836e-35 t=76495
+na lai 	哪來	c=1 d=6.57718e-13 t=76495
+na lai 	拿來	c=3 d=1.07712e-21 t=76495
+na lai de 	哪来的	c=1 d=5.95229e-15 t=76495
+na li 	哪裏	c=29 d=0.720067 t=76495
+na li 	那裏	c=76 d=0.427869 t=76495
+na li lai 	哪里来	c=1 d=1.81662e-82 t=76495
+na liang ge 	哪两个	c=1 d=7.05528e-15 t=76495
+na me duo 	那麼多	c=1 d=6.61015e-13 t=76495
+na mei wen ti 	那没问题	c=1 d=5.50607e-10 t=76495
+na miao 	納秒	c=1 d=0.0483156 t=76495
+na ni 	那你	c=34 d=0.985112 t=76495
+na ni shi 	那你是	c=1 d=7.06993e-10 t=76495
+na nie 	拿捏	c=1 d=3.25598e-21 t=76495
+na nie zhu le 	拿捏住了	c=1 d=2.7028e-21 t=76495
+na qian duan 	那前端	c=1 d=5.652e-53 t=76495
+na rang ta 	那讓他	c=1 d=2.53289e-110 t=76495
+na sha 	那啥	c=1 d=1.91711e-39 t=76495
+na shen fen 	拿身份	c=0 d=6.80892e-39 t=76495
+na shi 	那是	c=10 d=0.565548 t=76495
+na shi bu shi 	那是不是	c=1 d=5.52843e-87 t=76495
+na shi de 	那时的	c=0 d=3.36388e-08 t=76495
+na shi hou 	那時候	c=5 d=3.61651e-06 t=76495
+na shi kuai 	那時快	c=0 d=1.81174e-22 t=76495
+na shi wo 	那是我	c=1 d=8.51826e-26 t=76495
+na shuo ming 	那說明	c=1 d=8.85685e-14 t=76495
+na ta 	拿它	c=2 d=4.22429e-10 t=76495
+na tai 	那臺	c=0 d=1.59007e-16 t=76495
+na tai ji 	那臺機	c=1 d=5.40917e-08 t=76495
+na tai ji qi 	那臺機其	c=1 d=5.43628e-07 t=76495
+na tao 	那套	c=1 d=2.89729e-15 t=76495
+na tian 	那天	c=2 d=1.18793e-26 t=76495
+na tiao 	那條	c=10 d=0.045275 t=76495
+na tie 	拿鐵	c=1 d=2.08258e-13 t=76495
+na wan yi er 	那玩意儿	c=1 d=3.71426e-55 t=76495
+na wei 	那位	c=9 d=0.263903 t=76495
+na wo 	那我	c=28 d=1.82542 t=76495
+na wo ba 	那我把	c=1 d=4.02991e-44 t=76495
+na wo dei 	那我得	c=2 d=0.00758345 t=76495
+na wo men 	那我们	c=2 d=0.481909 t=76495
+na xian 	那先	c=3 d=6.04445e-08 t=76495
+na xiang 	哪像	c=1 d=8.38003e-10 t=76495
+na xie 	哪些	c=17 d=0.00482054 t=76495
+na xing 	那行	c=1 d=3.03943e-49 t=76495
+na yang 	那樣	c=1 d=2.56854e-98 t=76495
+na ye dei 	那也得	c=1 d=1.95804e-111 t=76495
+na yi 	哪一	c=0 d=0.0873716 t=76495
+na yi 	那一	c=1 d=0.000177127 t=76495
+na yi ban 	那一版	c=1 d=4.21195e-05 t=76495
+na yi bian 	那一邊	c=1 d=3.13156e-18 t=76495
+na yi ceng 	那一層	c=1 d=0.00173804 t=76495
+na yi fen 	那一份	c=1 d=1.07785e-29 t=76495
+na yi ge 	哪一個	c=5 d=8.29664e-10 t=76495
+na yi ge 	拿一個	c=1 d=1.45891e-61 t=76495
+na yi ge 	那一个	c=2 d=0.0561348 t=76495
+na yi ke 	那一刻	c=1 d=2.28896e-07 t=76495
+na yi kuai 	哪一块	c=13 d=0.382893 t=76495
+na yi kuai 	那一块	c=10 d=0.0257373 t=76495
+na yi quan 	那一圈	c=1 d=3.70227e-17 t=76495
+na yi tao 	哪一套	c=1 d=0.878095 t=76495
+na yi tao 	那一套	c=4 d=0.137154 t=76495
+na yi tian 	哪一天	c=2 d=0.0216013 t=76495
+na yi tiao 	那一條	c=3 d=1.84419e-24 t=76495
+na yi wei 	哪一位	c=2 d=9.27395e-26 t=76495
+na yi wei 	那一位	c=1 d=1.59511e-111 t=76495
+na yi xia 	拿一下	c=1 d=1.7103e-49 t=76495
+na ying gai 	那应该	c=1 d=7.32853e-109 t=76495
+na you 	哪有	c=6 d=0.113621 t=76495
+na you 	那有	c=0 d=2.31969e-106 t=76495
+na you shi jian 	那有時間	c=1 d=2.33132e-105 t=76495
+na zhang 	那張	c=1 d=1.64553e-36 t=76495
+na zhe ge qun 	那这个群	c=1 d=1.85628e-42 t=76495
+na zhe yang 	那这样	c=1 d=0.0098528 t=76495
+na zhe yi kuai 	那这一块	c=1 d=0.000422213 t=76495
+na zhi neng 	那只能	c=1 d=3.1272e-31 t=76495
+na zhong 	哪種	c=1 d=2.60869e-104 t=76495
+na zhong 	那種	c=20 d=0.729221 t=76495
+na zuo shan 	哪座山	c=1 d=2.58246e-44 t=76495
+nai ba 	奶爸	c=1 d=7.59628e-90 t=76495
+nai cha 	奶茶	c=4 d=4.3663e-09 t=76495
+nai fang 	耐放	c=1 d=5.60184e-07 t=76495
+nai he 	奈何	c=1 d=1.39647e-17 t=76495
+nai nai 	奶奶	c=2 d=1.67662e-06 t=76495
+nan 	南	c=0 d=3.80027e-90 t=76495
+nan 	難	c=1 d=3.72983e-16 t=76495
+nan bu cheng 	難不成	c=1 d=3.88812e-05 t=76495
+nan chi 	難喫	c=1 d=6.34772e-07 t=76495
+nan ci hou 	難伺候	c=1 d=8.4335e-26 t=76495
+nan dao 	難道	c=1 d=3.41694e-44 t=76495
+nan de 	男的	c=2 d=1.05435e-05 t=76495
+nan de ke fu 	难得克服	c=0 d=3.36388e-08 t=76495
+nan ding 	難頂	c=1 d=0.0144076 t=76495
+nan fang 	南方	c=3 d=1.02298e-32 t=76495
+nan fang 	男方	c=1 d=6.29164e-79 t=76495
+nan gai 	难改	c=1 d=0.774916 t=76495
+nan gao 	難搞	c=4 d=9.61444e-09 t=76495
+nan guan 	難關	c=1 d=1.77974e-76 t=76495
+nan mei zhou 	南美洲	c=1 d=8.29214e-33 t=76495
+nan min 	難民	c=1 d=4.16636e-24 t=76495
+nan ning 	南寧	c=1 d=0.353455 t=76495
+nan shan 	南山	c=1 d=4.96823e-36 t=76495
+nan shou 	難受	c=16 d=0.958165 t=76495
+nan ti 	難題	c=0 d=0.000752142 t=76495
+nan tong 	男童	c=2 d=1.32896e-44 t=76495
+nan xing 	男性	c=2 d=7.91646e-17 t=76495
+nan ya 	南亞	c=1 d=6.37282e-24 t=76495
+nan yi 	難以	c=2 d=1.0345e-97 t=76495
+nan yi bi mian 	難以避免	c=1 d=1.28902e-75 t=76495
+nan zhan 	南站	c=2 d=0.83527 t=76495
+nan zhao 	難找	c=2 d=6.62275e-06 t=76495
+nao ke 	腦殼	c=1 d=0.486752 t=76495
+nao ke tong 	腦殼痛	c=1 d=2.47035e-110 t=76495
+nao zi 	腦子	c=4 d=1.92115e-05 t=76495
+ne 	呢	c=76 d=0.929631 t=76495
+ne ge 	呢個	c=0 d=2.10187e-93 t=76495
+ne ri juan 	呢日卷	c=1 d=3.36388e-07 t=76495
+nei 	內	c=26 d=0.503264 t=76495
+nei bu 	內部	c=20 d=0.00414991 t=76495
+nei bu de 	内部的	c=1 d=3.26446e-07 t=76495
+nei ce 	內測	c=1 d=1.74931e-79 t=76495
+nei cun 	內存	c=8 d=1.19474e-05 t=76495
+nei de 	内的	c=1 d=4.85992e-12 t=76495
+nei di zhi 	内地址	c=0 d=6.08515e-11 t=76495
+nei he 	內核	c=0 d=2.93249e-11 t=76495
+nei he tai 	內核態	c=1 d=2.94719e-10 t=76495
+nei juan 	內卷	c=1 d=4.39519e-06 t=76495
+nei meng gu 	內蒙古	c=1 d=2.3939e-05 t=76495
+nei qian 	內嵌	c=2 d=8.85838e-16 t=76495
+nei qun 	內裙	c=1 d=1.60103e-37 t=76495
+nei rong 	內容	c=77 d=0.740826 t=76495
+nei wang 	內網	c=12 d=0.00302755 t=76495
+nei zang 	內臟	c=2 d=1.73925e-36 t=76495
+nei zhi 	內置	c=3 d=0.0389686 t=76495
+nen 	嫩	c=1 d=5.77638e-15 t=76495
+nen mo 	嫩模	c=1 d=3.14672e-16 t=76495
+neng 	能	c=49 d=0.0817426 t=76495
+neng bu 	能不	c=1 d=6.84654e-44 t=76495
+neng bu neng 	能不能	c=35 d=0.596773 t=76495
+neng cha dao 	能查到	c=1 d=1.62153e-69 t=76495
+neng chu lai 	能出來	c=1 d=1.27511e-65 t=76495
+neng fou 	能否	c=6 d=2.85173e-05 t=76495
+neng gou 	能夠	c=2 d=0.000685748 t=76495
+neng guo 	能過	c=1 d=7.88479e-58 t=76495
+neng hao 	能好	c=1 d=3.80222e-95 t=76495
+neng jia 	能加	c=1 d=1.34633e-28 t=76495
+neng kang 	能抗	c=1 d=3.19537e-20 t=76495
+neng li 	能力	c=22 d=0.422385 t=76495
+neng liang 	能量	c=2 d=2.08039e-13 t=76495
+neng liang lai yuan 	能量來源	c=1 d=3.46316e-55 t=76495
+neng na dao 	能拿到	c=2 d=3.8348e-19 t=76495
+neng que ding 	能確定	c=1 d=1.96297e-23 t=76495
+neng shang 	能上	c=1 d=3.32238e-08 t=76495
+neng suan 	能算	c=1 d=7.22504e-30 t=76495
+neng xie 	能寫	c=1 d=0.00612731 t=76495
+neng yong 	能用	c=1 d=1.00652e-47 t=76495
+neng you 	能有	c=1 d=3.13529e-32 t=76495
+neng zhi dao 	能知道	c=1 d=2.18393e-72 t=76495
+neng zuo 	能做	c=1 d=8.74701e-73 t=76495
+ni 	你	c=285 d=3.46863 t=76495
+ni 	尼	c=0 d=6.03178e-25 t=76495
+ni 	膩	c=4 d=1.73945e-05 t=76495
+ni an zhao 	你按照	c=1 d=0.0309618 t=76495
+ni ba 	你把	c=48 d=0.934163 t=76495
+ni ba 	你爸	c=1 d=6.73909e-05 t=76495
+ni ba 	泥巴	c=1 d=6.70527e-34 t=76495
+ni ba ni 	你把你	c=2 d=1.67911e-09 t=76495
+ni ba ni de 	你把你的	c=1 d=4.10503e-26 t=76495
+ni ba ta 	你把它	c=2 d=0.0623495 t=76495
+ni ba wo 	你把我	c=1 d=5.86748e-52 t=76495
+ni bang wo 	你帮我	c=2 d=1.88825e-37 t=76495
+ni bei 	你背	c=1 d=6.29593e-87 t=76495
+ni bi xu 	你必须	c=1 d=1.08513e-20 t=76495
+ni bie 	你别	c=0 d=8.96292e-08 t=76495
+ni bie chi fan 	你别喫飯	c=1 d=9.00784e-07 t=76495
+ni bie gai 	你別改	c=1 d=1.18506e-27 t=76495
+ni bie shuo 	你别说	c=1 d=3.1695e-42 t=76495
+ni bu 	你不	c=0 d=5.39329e-08 t=76495
+ni bu dei 	你不得	c=1 d=0.00195963 t=76495
+ni bu gai 	你不改	c=1 d=8.21889e-105 t=76495
+ni bu hui 	你不回	c=1 d=0.00378169 t=76495
+ni bu hui wo 	你不回我	c=1 d=0.0380064 t=76495
+ni bu pei 	你不配	c=0 d=0.0287941 t=76495
+ni bu pei kan 	你不配看	c=1 d=0.289384 t=76495
+ni bu shi 	你不是	c=7 d=1.37563e-09 t=76495
+ni bu shuo 	你不说	c=1 d=2.03995e-05 t=76495
+ni bu tou lan 	你不偷懶	c=1 d=4.82601e-106 t=76495
+ni bu xiang 	你不像	c=1 d=3.6902e-08 t=76495
+ni bu yao 	你不要	c=3 d=1.69132e-06 t=76495
+ni ce 	你測	c=1 d=1.0736e-12 t=76495
+ni ce shi xia 	你测试下	c=1 d=0.50409 t=76495
+ni cha ru 	你插入	c=1 d=7.16435e-19 t=76495
+ni chan sheng 	你產生	c=1 d=4.42206e-107 t=76495
+ni cheng 	昵稱	c=64 d=0.35818 t=76495
+ni chi bu bao 	你喫不飽	c=1 d=7.19781e-15 t=76495
+ni chong qi 	你重启	c=2 d=1.80086e-09 t=76495
+ni chong shi 	你重试	c=1 d=4.71789e-16 t=76495
+ni chong xin 	你重新	c=1 d=4.17928e-31 t=76495
+ni chuan 	你传	c=1 d=7.42989e-06 t=76495
+ni chuan gei wo 	你傳給我	c=1 d=6.47994e-73 t=76495
+ni cong 	你从	c=1 d=0.364219 t=76495
+ni da guo lai 	你打過來	c=1 d=5.62017e-16 t=76495
+ni dai ma 	你带吗	c=1 d=7.10998e-47 t=76495
+ni dao di 	你到底	c=1 d=2.54385e-102 t=76495
+ni dao shi hou 	你到时候	c=2 d=6.00802e-07 t=76495
+ni de 	你的	c=24 d=1.12814 t=76495
+ni de 	妳的	c=39 d=0.27951 t=76495
+ni de wen ti 	你的问题	c=1 d=2.9137e-52 t=76495
+ni dei 	你得	c=9 d=0.0351092 t=76495
+ni dian ji 	你点击	c=1 d=1.25377e-43 t=76495
+ni ding 	你定	c=1 d=4.45966e-89 t=76495
+ni dou 	你都	c=2 d=6.71097e-44 t=76495
+ni dui 	你對	c=1 d=1.0732e-37 t=76495
+ni fa gei 	你發給	c=1 d=8.21662e-43 t=76495
+ni fa guo lai 	你發過來	c=1 d=5.39228e-29 t=76495
+ni fa guo qu 	你發過去	c=1 d=8.41916e-06 t=76495
+ni fa le 	你发了	c=2 d=5.39704e-11 t=76495
+ni fa le ma 	你发了嗎	c=1 d=5.42409e-10 t=76495
+ni fa song 	你發送	c=1 d=1.99671e-47 t=76495
+ni fa xian 	你發現	c=1 d=6.57697e-42 t=76495
+ni fan hui 	你返回	c=1 d=4.44437e-78 t=76495
+ni fang zhe 	你放着	c=1 d=1.96531e-37 t=76495
+ni fang zhe li 	你放这里	c=1 d=2.63222e-92 t=76495
+ni gai 	你改	c=3 d=7.44911e-08 t=76495
+ni gai le ma 	你改了吗	c=1 d=1.17915e-27 t=76495
+ni gai shuo 	你改說	c=1 d=7.48646e-07 t=76495
+ni gai wan 	你改完	c=1 d=1.07763e-56 t=76495
+ni gai xia 	你改下	c=1 d=1.10611e-10 t=76495
+ni gai yi xia 	你改一下	c=1 d=2.38813e-06 t=76495
+ni gan 	你敢	c=1 d=5.5369e-105 t=76495
+ni gan le 	你干了	c=0 d=3.03261e-53 t=76495
+ni gan le sha 	你干了啥	c=1 d=3.04781e-52 t=76495
+ni gang gang 	你剛剛	c=1 d=5.76342e-18 t=76495
+ni gao 	你搞	c=1 d=5.49185e-09 t=76495
+ni gao su 	你告訴	c=1 d=4.53907e-33 t=76495
+ni gao su wo 	你告訴我	c=1 d=4.56183e-32 t=76495
+ni ge 	你個	c=1 d=1.25723e-46 t=76495
+ni ge 	尼哥	c=7 d=1.46325e-23 t=76495
+ni gei 	你给	c=4 d=0.302985 t=76495
+ni gei de 	你给的	c=1 d=5.73352e-45 t=76495
+ni gei le 	你給了	c=1 d=2.89868e-50 t=76495
+ni gei ta 	你給他	c=2 d=0.0328764 t=76495
+ni gei wo 	你给我	c=14 d=1.32512 t=76495
+ni gei xia 	你給下	c=1 d=3.96695e-94 t=76495
+ni gei yi ge 	你给一个	c=1 d=0.0125881 t=76495
+ni gei yi xia 	你给一下	c=8 d=0.400517 t=76495
+ni guan bi 	你關閉	c=1 d=4.56663e-15 t=76495
+ni hai 	你還	c=2 d=0.65377 t=76495
+ni hai hao ma 	你還好嗎	c=2 d=0.062662 t=76495
+ni hai mei 	你还没	c=0 d=8.85685e-15 t=76495
+ni hai mei bao 	你还没飽	c=1 d=8.90125e-14 t=76495
+ni hai neng 	你還能	c=1 d=2.88088e-07 t=76495
+ni hai xiang 	你还想	c=1 d=3.90761e-05 t=76495
+ni hai you 	你还有	c=1 d=1.99183e-77 t=76495
+ni hai zai 	你還在	c=1 d=0.00368832 t=76495
+ni hai zai ma 	你還在嗎	c=2 d=0.074885 t=76495
+ni hao 	你好	c=12 d=0.806622 t=76495
+ni hao 	妳好	c=18 d=1.05543e-11 t=76495
+ni hao dai 	你好歹	c=1 d=2.51664e-05 t=76495
+ni hao xiang 	你好像	c=1 d=6.50135e-53 t=76495
+ni hao ya 	你好呀	c=7 d=0.937067 t=76495
+ni he 	你合	c=1 d=5.88906e-07 t=76495
+ni hua guo qu 	你滑過去	c=1 d=3.47696e-43 t=76495
+ni huan le 	你換了	c=1 d=3.8686e-34 t=76495
+ni hui 	你會	c=1 d=0.00559994 t=76495
+ni jia yi xia 	你加一下	c=1 d=4.54342e-102 t=76495
+ni jie 	你姐	c=0 d=4.83768e-106 t=76495
+ni jie ge 	你截个	c=1 d=3.50474e-19 t=76495
+ni jie jie 	你姐姐	c=1 d=3.02859e-07 t=76495
+ni jin tian 	你今天	c=1 d=6.85843e-35 t=76495
+ni jiu 	你就	c=8 d=8.96443e-09 t=76495
+ni jiu bu hui 	你就不會	c=1 d=1.53194e-18 t=76495
+ni jiu shi 	你就是	c=1 d=1.78355e-13 t=76495
+ni jiu shuo 	你就说	c=2 d=3.11329e-08 t=76495
+ni jiu zhi dao 	你就知道	c=1 d=9.3148e-107 t=76495
+ni jue de 	你覺得	c=2 d=9.94229e-35 t=76495
+ni kan 	你看	c=18 d=0.218203 t=76495
+ni kan kan 	你看看	c=3 d=9.49905e-14 t=76495
+ni kan kan ni 	你看看你	c=1 d=2.38587e-83 t=76495
+ni kan xia 	你看下	c=40 d=0.375278 t=76495
+ni kan yi xia 	你看一下	c=1 d=2.94941e-107 t=76495
+ni kan zhe 	你看这	c=1 d=0.17552 t=76495
+ni ke 	尼克	c=1 d=8.70395e-15 t=76495
+ni ke neng 	你可能	c=3 d=3.81977e-59 t=76495
+ni ke yi 	你可以	c=24 d=0.0122825 t=76495
+ni ke yi gai 	你可以該	c=1 d=6.54173e-67 t=76495
+ni kuai 	你快	c=1 d=0.479506 t=76495
+ni kuai dian 	你快点	c=1 d=1.05842e-109 t=76495
+ni kun rao 	你困擾	c=1 d=7.58772e-18 t=76495
+ni la 	你拉	c=0 d=6.95312e-109 t=76495
+ni la hei wo 	你拉黑窩	c=1 d=6.98797e-108 t=76495
+ni la xia 	你落下	c=1 d=2.30278e-19 t=76495
+ni la yi xia 	你拉一下	c=2 d=8.44961e-19 t=76495
+ni lai 	你來	c=5 d=0.00271219 t=76495
+ni le 	膩了	c=1 d=1.21589e-35 t=76495
+ni ma 	你媽	c=0 d=1.37783e-07 t=76495
+ni ma 	尼瑪	c=5 d=3.21467e-32 t=76495
+ni man 	你满	c=1 d=4.64528e-10 t=76495
+ni man yi 	你滿意	c=1 d=7.08175e-59 t=76495
+ni mei 	你沒	c=3 d=0.00130365 t=76495
+ni mei chi fan 	你沒喫飯	c=1 d=0.0131019 t=76495
+ni mei gao guo 	你沒搞過	c=1 d=5.8565e-30 t=76495
+ni mei gei ta 	你沒給她	c=1 d=2.40713e-11 t=76495
+ni mei gei wo 	你没给我	c=2 d=0.0520787 t=76495
+ni mei lai 	你沒來	c=1 d=4.42611e-59 t=76495
+ni mei shuo 	你沒說	c=1 d=4.3435e-102 t=76495
+ni mei you 	你没有	c=1 d=6.78144e-108 t=76495
+ni men 	你們	c=16 d=0.0518232 t=76495
+ni ming 	匿名	c=8 d=3.66356e-11 t=76495
+ni ming zhe 	匿名者	c=1 d=3.29808e-98 t=76495
+ni na 	你那	c=2 d=0.104308 t=76495
+ni na ge 	你那个	c=2 d=0.0356146 t=76495
+ni na li 	你那里	c=3 d=0.0208045 t=76495
+ni na li le 	你那里了	c=1 d=0.209088 t=76495
+ni na shi hou 	你那時候	c=1 d=9.18981e-07 t=76495
+ni na tai 	你那臺	c=1 d=0.822835 t=76495
+ni na yi kuai 	你那一块	c=1 d=0.000252273 t=76495
+ni na zhong 	你那種	c=1 d=1.69012e-27 t=76495
+ni ne 	你呢	c=2 d=0.970446 t=76495
+ni ni 	妳妳	c=0 d=1.05497e-101 t=76495
+ni ni ni 	你你你	c=0 d=1.05497e-101 t=76495
+ni ni ni ni ni 	妳妳你你你	c=1 d=1.06025e-100 t=76495
+ni ning lu 	泥泞路	c=2 d=2.1828e-58 t=76495
+ni nong 	你弄	c=1 d=0.0157644 t=76495
+ni pao ce yi xia 	你跑測一下	c=1 d=1.94211e-15 t=76495
+ni pei zhi 	你配置	c=1 d=0.00177315 t=76495
+ni qu 	你去	c=4 d=1.21403e-17 t=76495
+ni qu le 	你去了	c=1 d=2.10631e-58 t=76495
+ni que ding 	你确定	c=8 d=0.000251531 t=76495
+ni rang 	你让	c=2 d=3.44619e-06 t=76495
+ni rang ta 	你让他	c=2 d=6.10505e-19 t=76495
+ni rang wo 	你让我	c=1 d=3.86873e-05 t=76495
+ni ren wei 	你认为	c=3 d=3.14085e-52 t=76495
+ni ruo 	你若	c=1 d=1.47442e-09 t=76495
+ni sha 	你傻	c=1 d=3.70518e-85 t=76495
+ni shan 	你刪	c=1 d=7.61076e-83 t=76495
+ni shang 	你上	c=2 d=1.37545e-15 t=76495
+ni shang bao 	你上報	c=1 d=5.44647e-29 t=76495
+ni shen me 	你什么	c=2 d=3.33846e-06 t=76495
+ni shi 	你是	c=7 d=0.516851 t=76495
+ni shi 	妳是	c=14 d=0.900325 t=76495
+ni shi bu shi 	你是不是	c=4 d=1.46398e-43 t=76495
+ni shi ge 	妳是個	c=1 d=0.429557 t=76495
+ni shi le ma 	你试了嗎	c=1 d=2.0923e-09 t=76495
+ni shi shuo 	你是说	c=4 d=0.19398 t=76495
+ni shi xia 	你试下	c=2 d=0.00135358 t=76495
+ni shou dao 	你收到	c=1 d=2.97763e-72 t=76495
+ni shou dong 	你手動	c=1 d=7.572e-23 t=76495
+ni shou ji 	你手机	c=1 d=9.14213e-34 t=76495
+ni shou shang 	你手上	c=1 d=4.58781e-40 t=76495
+ni shu 	你熟	c=1 d=1.43753e-05 t=76495
+ni shua xin 	你刷新	c=2 d=1.28198e-40 t=76495
+ni shuo 	你說	c=13 d=0.290835 t=76495
+ni shuo dao 	你说到	c=3 d=5.13535e-19 t=76495
+ni ta ma 	你他妈	c=3 d=0.000100535 t=76495
+ni ti 	你提	c=2 d=1.58349e-25 t=76495
+ni ti 	你體	c=1 d=8.46775e-103 t=76495
+ni ti gong 	你提供	c=1 d=0.0471227 t=76495
+ni ti jiao 	你提交	c=1 d=2.49627e-27 t=76495
+ni ting bai de 	你挺白的	c=1 d=4.83717e-45 t=76495
+ni tou lan 	你偷懶	c=1 d=4.73045e-106 t=76495
+ni tou tou 	你偷偷	c=1 d=6.94788e-11 t=76495
+ni wan 	你玩	c=1 d=5.85631e-59 t=76495
+ni wei shen me 	你为什么	c=2 d=5.61921e-14 t=76495
+ni wen 	你問	c=1 d=0.559898 t=76495
+ni wen xia 	你问下	c=4 d=2.97662e-31 t=76495
+ni xi wang 	你希望	c=1 d=2.02049e-98 t=76495
+ni xi ya 	尼西亞	c=1 d=6.06201e-24 t=76495
+ni xian 	你先	c=17 d=0.00292357 t=76495
+ni xian shang 	你先上	c=1 d=0.00755912 t=76495
+ni xian zai 	你现在	c=15 d=1.03201 t=76495
+ni xiang gan sha 	你想干啥	c=1 d=1.27099e-27 t=76495
+ni xie 	你写	c=2 d=5.46243e-34 t=76495
+ni xie wan 	你寫完	c=1 d=1.1308e-05 t=76495
+ni xin bu xin 	你信不信	c=1 d=6.2724e-43 t=76495
+ni xu yao 	你需要	c=6 d=1.82107e-52 t=76495
+ni xuan 	你選	c=1 d=5.56786e-53 t=76495
+ni yan jiao 	你眼角	c=1 d=0.66034 t=76495
+ni yan jiu 	你研究	c=1 d=0.369723 t=76495
+ni yan shou 	你驗收	c=1 d=3.61174e-108 t=76495
+ni yan zheng 	你驗證	c=1 d=7.23688e-108 t=76495
+ni yao 	你要	c=13 d=0.00613719 t=76495
+ni yao ba 	你要把	c=1 d=3.08924e-05 t=76495
+ni yao cao 	你要艹	c=1 d=2.28973e-11 t=76495
+ni yao chi lao fan 	你要喫牢飯	c=1 d=2.6812e-103 t=76495
+ni yao gan ma 	你要干嘛	c=1 d=1.84006e-27 t=76495
+ni yao qu 	你要去	c=1 d=1.98364e-58 t=76495
+ni yao shi 	你要是	c=3 d=3.69814e-28 t=76495
+ni yao shuo 	你要說	c=1 d=0.0327124 t=76495
+ni ye 	你也	c=3 d=1.29781e-08 t=76495
+ni ye shi 	你也是	c=1 d=1.49228e-33 t=76495
+ni ye yao 	你也要	c=0 d=0.0647265 t=76495
+ni ye yao mai 	你也要買	c=1 d=0.650509 t=76495
+ni yi 	你已	c=2 d=6.08062e-23 t=76495
+ni yi bu zai 	你已不在	c=1 d=3.75682e-42 t=76495
+ni yi jing 	你已经	c=3 d=0.0385809 t=76495
+ni yi qian 	你以前	c=1 d=1.05773e-72 t=76495
+ni yi wei 	你以爲	c=2 d=1.69363e-22 t=76495
+ni yi xia 	你一下	c=1 d=5.75834e-37 t=76495
+ni yi zou 	你一走	c=2 d=6.56091e-55 t=76495
+ni yin yong 	你引用	c=1 d=6.74483e-15 t=76495
+ni ying gai 	你应该	c=1 d=0.0488012 t=76495
+ni yong 	你用	c=6 d=0.108609 t=76495
+ni yong ba 	你用把	c=1 d=1.92273e-44 t=76495
+ni yong sha 	你用啥	c=1 d=0.0374406 t=76495
+ni you 	你又	c=2 d=1.07803e-31 t=76495
+ni you 	你有	c=2 d=0.332871 t=76495
+ni you 	妳有	c=4 d=4.11846e-35 t=76495
+ni you dian 	你有点	c=1 d=5.55632e-58 t=76495
+ni you mei you 	你有没有	c=3 d=4.41243e-52 t=76495
+ni you zai 	你又在	c=1 d=4.12196e-45 t=76495
+ni yun dong 	你運動	c=1 d=7.32425e-14 t=76495
+ni za 	你咋	c=1 d=5.00947e-45 t=76495
+ni zai 	你再	c=23 d=0.0706512 t=76495
+ni zai 	你在	c=5 d=0.00503362 t=76495
+ni zai 	妳在	c=2 d=0.0876048 t=76495
+ni zai fa song 	你再發送	c=1 d=1.72661e-43 t=76495
+ni zai lai 	妳在來	c=1 d=4.41754e-95 t=76495
+ni zai shi shi 	你再试试	c=1 d=1.46314e-95 t=76495
+ni zai shi xia 	你再试下	c=6 d=0.644043 t=76495
+ni zai ti zhi nei 	你在體制內	c=1 d=0.000170803 t=76495
+ni zen me 	你怎么	c=7 d=0.000452827 t=76495
+ni zen me di 	你怎麼地	c=1 d=1.21086e-45 t=76495
+ni zhao 	你找	c=3 d=0.0949551 t=76495
+ni zhe 	你这	c=15 d=0.0322254 t=76495
+ni zhe 	逆着	c=1 d=4.05412e-85 t=76495
+ni zhe bian 	你这边	c=2 d=0.116484 t=76495
+ni zhe bu shi 	你这不是	c=1 d=7.91622e-46 t=76495
+ni zhe ge 	你这个	c=11 d=0.0162445 t=76495
+ni zhe ge qun 	你这个群	c=1 d=1.02839e-94 t=76495
+ni zhe ge ren 	你這個人	c=1 d=2.96287e-43 t=76495
+ni zhe hua 	你这话	c=1 d=1.7925e-13 t=76495
+ni zhe li 	你这里	c=15 d=0.00279479 t=76495
+ni zhe me 	你这么	c=1 d=0.66034 t=76495
+ni zhe shi 	你这是	c=5 d=0.549591 t=76495
+ni zhe yang 	你这样	c=3 d=4.77683e-15 t=76495
+ni zhe zhong 	你这种	c=2 d=8.19009e-05 t=76495
+ni zhei 	你這	c=1 d=9.12348e-10 t=76495
+ni zheng cheng 	你整成	c=1 d=1.06072e-17 t=76495
+ni zheng yi xia 	你整一下	c=1 d=0.000290183 t=76495
+ni zhi dao 	你知道	c=1 d=0.000300519 t=76495
+ni zhi dao ma 	你知道吗	c=1 d=0.120633 t=76495
+ni zhi ding 	你指定	c=1 d=3.68005e-05 t=76495
+ni zhi guan 	你只管	c=1 d=0.00348252 t=76495
+ni zhi hui 	你指揮	c=1 d=2.02978e-05 t=76495
+ni zhi jie 	你直接	c=7 d=3.60722e-05 t=76495
+ni zhi neng 	你只能	c=1 d=0.00535353 t=76495
+ni zhi xu yao 	你只需要	c=2 d=0.0578443 t=76495
+ni zhong ji jie 	你重機械	c=1 d=2.5647e-51 t=76495
+ni zhu dong 	你主动	c=2 d=8.36408e-17 t=76495
+ni zhuan fa 	你轉發	c=1 d=2.31945e-45 t=76495
+ni zhui 	你追	c=1 d=3.95024e-15 t=76495
+ni zhun bei 	你准备	c=1 d=3.25095e-17 t=76495
+ni zhuo mian 	你桌面	c=1 d=3.16509e-55 t=76495
+ni zi ji 	你自己	c=8 d=0.0112206 t=76495
+ni zong dei 	你總得	c=1 d=2.41961e-13 t=76495
+ni zou 	你走	c=1 d=0.0359725 t=76495
+ni zou de 	你走得	c=1 d=4.46921e-26 t=76495
+ni zui hao 	你最好	c=1 d=4.7975e-07 t=76495
+ni zuo 	你坐	c=0 d=5.60798e-109 t=76495
+ni zuo hao 	你作好	c=1 d=2.50665e-17 t=76495
+ni zuo le 	你做了	c=1 d=6.76646e-82 t=76495
+ni zuo shi 	你做事	c=1 d=4.67462e-84 t=76495
+ni zuo zai 	你坐在	c=1 d=5.63609e-108 t=76495
+nian 	唸	c=0 d=5.60452e-43 t=76495
+nian 	年	c=8 d=8.69655e-05 t=76495
+nian 	鯰	c=0 d=1.06495e-06 t=76495
+nian chu 	年初	c=0 d=7.69142e-61 t=76495
+nian di 	年底	c=1 d=8.14595e-59 t=76495
+nian jie jie 	唸姐姐	c=2 d=1.14078e-41 t=76495
+nian jie jie 	年姐姐	c=1 d=2.93548e-22 t=76495
+nian jie jie 	鯰姐姐	c=1 d=1.07029e-05 t=76495
+nian ling 	年齡	c=2 d=0.0611592 t=76495
+nian nian 	念念	c=2 d=1.27628e-17 t=76495
+nian qian 	年前	c=1 d=9.7747e-27 t=76495
+nian qing 	年輕	c=0 d=1.0677e-07 t=76495
+nian qing qi sheng 	年輕氣盛	c=1 d=3.63738e-103 t=76495
+nian qing ren 	年輕人	c=1 d=6.17816e-12 t=76495
+nian tou 	念頭	c=1 d=4.13136e-13 t=76495
+nian xin 	年薪	c=2 d=7.98788e-05 t=76495
+nian yue ri 	年月日	c=1 d=1.39571e-40 t=76495
+niang 	娘	c=2 d=1.31148e-35 t=76495
+niao 	尿	c=0 d=7.87566e-16 t=76495
+niao fen cha 	尿分岔	c=1 d=7.91513e-15 t=76495
+niao huang 	尿黄	c=1 d=8.1155e-15 t=76495
+niao shi 	鸟事	c=2 d=0.0771052 t=76495
+niao suan 	尿酸	c=1 d=7.32028e-37 t=76495
+niao xing 	尿性	c=1 d=6.02299e-95 t=76495
+nie 	捏	c=2 d=0.34635 t=76495
+nie fu gui 	捏富貴	c=1 d=0.0678809 t=76495
+ning wan 	擰完	c=1 d=0.0561348 t=76495
+niu 	扭	c=0 d=2.89553e-97 t=76495
+niu 	牛	c=1 d=8.99071e-14 t=76495
+niu a 	牛啊	c=2 d=3.85652e-19 t=76495
+niu bi 	牛比	c=1 d=8.88676e-83 t=76495
+niu bi 	牛逼	c=19 d=0.847894 t=76495
+niu bo 	牛波	c=1 d=0.00106477 t=76495
+niu bu chu lai 	扭不出來	c=1 d=2.91005e-96 t=76495
+niu fen lan 	紐芬蘭	c=0 d=1.06025e-101 t=76495
+niu gui she shen 	牛鬼蛇神	c=1 d=1.87436e-09 t=76495
+niu ke 	牛客	c=1 d=7.92887e-06 t=76495
+niu ke wang 	牛客网	c=1 d=0.000116223 t=76495
+niu pi 	牛批	c=2 d=1.98371e-29 t=76495
+niu shao 	牛少	c=2 d=1.7872 t=76495
+niu yang rou 	牛羊肉	c=1 d=6.8596e-37 t=76495
+nong 	弄	c=49 d=0.225375 t=76495
+nong chang 	農場	c=1 d=6.17481e-35 t=76495
+nong chu lai 	弄出來	c=2 d=1.26401e-21 t=76495
+nong de 	弄得	c=3 d=0.0134335 t=76495
+nong de 	弄的	c=1 d=1.03042e-29 t=76495
+nong dian 	弄點	c=1 d=1.33489e-104 t=76495
+nong ge 	弄個	c=1 d=6.57249e-34 t=76495
+nong hao 	儂好	c=2 d=2.11607e-83 t=76495
+nong hao 	弄好	c=6 d=1.81328e-31 t=76495
+nong hao le 	弄好了	c=10 d=0.0204453 t=76495
+nong hao le ma 	弄好了吗	c=5 d=0.0156858 t=76495
+nong hao ma 	弄好吗	c=1 d=0.00146632 t=76495
+nong le 	弄了	c=5 d=2.78851e-06 t=76495
+nong le ge 	弄了個	c=1 d=0.044601 t=76495
+nong nong 	濃濃	c=1 d=1.56331e-80 t=76495
+nong qi lai 	弄起來	c=1 d=5.2891e-37 t=76495
+nong si 	弄死	c=1 d=3.62526e-05 t=76495
+nong wan 	弄完	c=10 d=5.97706e-06 t=76495
+nong wan le 	弄完了	c=1 d=8.37975e-39 t=76495
+nong ye 	農業	c=1 d=4.54588e-79 t=76495
+nong yi bo 	弄一撥	c=2 d=1.26573e-37 t=76495
+nong yi ge 	弄一个	c=5 d=2.8175e-10 t=76495
+nong yi xia 	弄一下	c=10 d=7.83512e-11 t=76495
+nu fa 	怒發	c=1 d=1.66241e-09 t=76495
+nu li 	努力	c=3 d=8.43638e-30 t=76495
+nu li 	奴隸	c=5 d=4.04159e-32 t=76495
+nu qi 	怒氣	c=1 d=1.12184e-29 t=76495
+nuo 	挪	c=1 d=0.304221 t=76495
+nuo dao 	挪到	c=2 d=0.0629761 t=76495
+nuo fu ke 	諾福克	c=0 d=9.33823e-20 t=76495
+nuo yan 	諾言	c=1 d=4.90192e-25 t=76495
+nuo zou 	挪走	c=2 d=5.41974e-106 t=76495
+nv 	女	c=0 d=3.88431e-112 t=76495
+nv de 	女的	c=9 d=1.51194e-11 t=76495
+nv hai zi 	女孩子	c=1 d=3.56779e-111 t=76495
+nv pao you 	女炮友	c=1 d=3.90378e-111 t=76495
+nv peng you 	女朋友	c=1 d=3.94301e-111 t=76495
+nv quan 	女權	c=2 d=1.17907e-18 t=76495
+nv ren 	女人	c=1 d=4.92214e-44 t=76495
+nv sheng 	女生	c=1 d=3.94205e-20 t=76495
+nv xing 	女性	c=2 d=7.95619e-17 t=76495
+nv you 	女友	c=1 d=2.16448e-55 t=76495
+nv zhu 	女主	c=1 d=3.83088e-07 t=76495
+o 	哦	c=25 d=0.297359 t=76495
+o o 	哦哦	c=26 d=0.472987 t=76495
+o o 	噢噢	c=1 d=1.54176e-05 t=76495
+ou 	偶	c=1 d=8.05666e-47 t=76495
+ou 	歐	c=1 d=2.86544e-32 t=76495
+ou er 	偶爾	c=3 d=0.0300467 t=76495
+ou fa 	偶發	c=1 d=7.46816e-37 t=76495
+ou fa xing 	偶發性	c=1 d=1.68403e-14 t=76495
+ou he 	耦合	c=2 d=2.35803e-92 t=76495
+ou ke 	歐克	c=1 d=1.98958e-05 t=76495
+ou ke de 	歐克的	c=1 d=6.95312e-108 t=76495
+ou niao 	鷗鳥	c=0 d=3.22968e-29 t=76495
+ou ran 	偶然	c=1 d=8.9843e-35 t=76495
+ou shu 	偶數	c=1 d=0.0376283 t=76495
+pa 	怕	c=4 d=0.45612 t=76495
+pa bei 	怕被	c=1 d=3.56377e-39 t=76495
+pa guo 	爬過	c=1 d=1.03664e-41 t=76495
+pa qu 	爬取	c=1 d=0.128093 t=76495
+pa sha 	怕啥	c=1 d=1.86241e-22 t=76495
+pa shan 	爬山	c=2 d=9.35906e-44 t=76495
+pa shi 	怕事	c=1 d=4.22357e-08 t=76495
+pa shi 	怕是	c=1 d=5.39927e-103 t=76495
+pa ta 	怕他	c=1 d=1.30476e-13 t=76495
+pai 	拍	c=1 d=3.7363e-07 t=76495
+pai 	排	c=4 d=0.278037 t=76495
+pai bing 	派兵	c=1 d=1.36621e-24 t=76495
+pai cha 	排查	c=10 d=5.96262e-06 t=76495
+pai chu 	排出	c=1 d=3.30524e-06 t=76495
+pai chu 	排除	c=1 d=6.02255e-06 t=76495
+pai chu suo 	派出所	c=2 d=3.30947e-22 t=76495
+pai de 	拍得	c=1 d=7.62761e-109 t=76495
+pai ge xu 	拍個序	c=1 d=1.17236e-106 t=76495
+pai hang bang 	排行榜	c=1 d=3.5798e-33 t=76495
+pai lie 	排列	c=4 d=0.00394889 t=76495
+pai qi 	排期	c=8 d=6.76229e-16 t=76495
+pai ren 	派人	c=1 d=0.279431 t=76495
+pai sheng 	派生	c=1 d=1.16945e-18 t=76495
+pai shi jian 	排時間	c=2 d=7.67598e-07 t=76495
+pai shui 	排水	c=1 d=1.64431e-86 t=76495
+pai si 	拍死	c=1 d=4.94245e-63 t=76495
+pai ta 	拍他	c=1 d=8.72916e-49 t=76495
+pai xia 	排下	c=0 d=2.20213e-53 t=76495
+pai xia qi 	排下期	c=1 d=2.21317e-52 t=76495
+pai xie 	排泄	c=1 d=0.0269169 t=76495
+pai xu 	排序	c=51 d=0.809174 t=76495
+pai yi xia 	排一下	c=1 d=1.57312e-36 t=76495
+pai zhao 	拍照	c=1 d=0.398519 t=76495
+pai zhao de 	拍照的	c=1 d=1.15962e-07 t=76495
+pan 	判	c=4 d=0.169483 t=76495
+pan 	潘	c=1 d=3.12348e-17 t=76495
+pan 	盤	c=5 d=0.247139 t=76495
+pan bie 	判別	c=3 d=7.28914e-05 t=76495
+pan ding 	判定	c=2 d=7.44785e-05 t=76495
+pan duan 	判斷	c=41 d=0.00618889 t=76495
+pan duan le 	判斷了	c=1 d=7.00606e-109 t=76495
+pan fu 	盤符	c=7 d=1.43698e-110 t=76495
+pan kong 	判空	c=2 d=2.17824e-19 t=76495
+pang 	胖	c=2 d=1.11396e-05 t=76495
+pang bian 	旁邊	c=4 d=0.187661 t=76495
+pang chou 	嗙臭	c=1 d=1.26857e-34 t=76495
+pang zi 	胖子	c=2 d=0.0303487 t=76495
+pao 	拋	c=0 d=1.00041e-94 t=76495
+pao 	跑	c=24 d=7.5227e-05 t=76495
+pao bu 	跑步	c=2 d=3.48785e-21 t=76495
+pao bu qi lai 	跑不起来	c=1 d=1.47337e-30 t=76495
+pao ce 	跑測	c=1 d=1.93243e-16 t=76495
+pao chu 	拋出	c=3 d=4.35145e-06 t=76495
+pao chu lai 	拋出來	c=4 d=0.000602152 t=76495
+pao chu qu 	拋出去	c=1 d=2.62185e-75 t=76495
+pao cuo 	抛错	c=2 d=2.99844e-07 t=76495
+pao dao 	跑到	c=3 d=9.25633e-33 t=76495
+pao de 	跑得	c=2 d=0.000259956 t=76495
+pao gei 	抛给	c=3 d=2.28258e-33 t=76495
+pao guo 	跑過	c=2 d=3.90815e-36 t=76495
+pao hui 	炮灰	c=1 d=1.2729e-74 t=76495
+pao hui jia 	跑回家	c=1 d=2.68237e-20 t=76495
+pao le 	拋了	c=1 d=2.39138e-22 t=76495
+pao le 	跑了	c=4 d=6.91205e-09 t=76495
+pao le mei 	跑了沒	c=1 d=6.84444e-11 t=76495
+pao lu 	跑路	c=3 d=0.000378488 t=76495
+pao mian 	泡麪	c=1 d=4.44238e-14 t=76495
+pao qi 	拋棄	c=1 d=5.08101e-06 t=76495
+pao qi lai 	跑起來	c=6 d=0.279431 t=76495
+pao tong 	跑通	c=2 d=0.210136 t=76495
+pao tong le 	跑通了	c=1 d=1.19409e-28 t=76495
+pao wan 	跑完	c=3 d=0.285076 t=76495
+pao xu 	跑許	c=1 d=2.29566e-12 t=76495
+pao yi bo 	跑一撥	c=2 d=5.61043e-25 t=76495
+pao yi ci 	跑一次	c=2 d=8.61266e-38 t=76495
+pao yi tiao 	跑一條	c=2 d=1.14592e-33 t=76495
+pao yi xia 	拋一下	c=1 d=1.00543e-93 t=76495
+pao yi xia 	跑一下	c=11 d=1.60413e-05 t=76495
+pao you 	炮友	c=0 d=3.88431e-112 t=76495
+pei 	配	c=4 d=2.51706e-07 t=76495
+pei e 	配額	c=1 d=4.13461e-81 t=76495
+pei fu 	佩服	c=1 d=0.0124007 t=76495
+pei he 	配合	c=5 d=0.000395646 t=76495
+pei tai 	胚胎	c=1 d=2.55025e-14 t=76495
+pei tao 	配套	c=2 d=1.40275e-11 t=76495
+pei yang 	培養	c=1 d=3.98765e-67 t=76495
+pei yi ge 	配一个	c=2 d=7.0163e-38 t=76495
+pei yi xia 	配一下	c=4 d=0.000102055 t=76495
+pei zhi 	配置	c=110 d=0.858496 t=76495
+pei zhi 	配製	c=13 d=5.31669e-10 t=76495
+pei zhi qi 	配置器	c=1 d=6.0548e-10 t=76495
+pei zhi wan 	配置完	c=2 d=0.060205 t=76495
+pei zhi wen jian 	配置文件	c=2 d=0.00486835 t=76495
+pei zhi wen jian hua 	配置文件化	c=1 d=1.54266e-100 t=76495
+pei zhi xiang 	配置项	c=6 d=1.58268e-19 t=76495
+pen 	噴	c=2 d=1.81989e-15 t=76495
+pen jian 	噴濺	c=1 d=2.87237e-31 t=76495
+pen le 	噴了	c=1 d=2.65568e-20 t=76495
+pen she 	噴射	c=2 d=1.51212e-30 t=76495
+pen you 	盆友	c=0 d=0.0231078 t=76495
+pen you quan 	盆友圈	c=1 d=0.232236 t=76495
+peng 	碰	c=1 d=4.91895e-07 t=76495
+peng mian 	碰面	c=1 d=5.63357e-44 t=76495
+peng you 	朋友	c=5 d=0.0431384 t=76495
+peng you hou quan 	朋友猴拳	c=1 d=1.25638e-38 t=76495
+peng you qu a 	朋友去啊	c=1 d=6.03692e-34 t=76495
+peng you quan 	朋友圈	c=72 d=0.988788 t=76495
+pi 	批	c=3 d=0.000175127 t=76495
+pi cao zuo 	批操作	c=2 d=5.03046e-06 t=76495
+pi cha 	批插	c=3 d=0.224249 t=76495
+pi ci 	批次	c=1 d=1.3424e-23 t=76495
+pi fa 	批發	c=1 d=1.06452e-59 t=76495
+pi fu 	皮膚	c=2 d=2.8044e-14 t=76495
+pi fu hei 	皮膚黑	c=1 d=6.86916e-24 t=76495
+pi hao 	癖好	c=1 d=7.89067e-08 t=76495
+pi jiu 	啤酒	c=1 d=9.49389e-37 t=76495
+pi li pa la 	劈里啪啦	c=1 d=8.14872e-63 t=76495
+pi liang 	批量	c=28 d=0.100259 t=76495
+pi liang xie 	批量寫	c=1 d=5.32467e-57 t=76495
+pi pan 	批判	c=1 d=3.37489e-16 t=76495
+pi pei 	匹配	c=40 d=4.73891 t=76495
+pi ping 	批評	c=1 d=2.72737e-98 t=76495
+pi qi 	脾氣	c=3 d=2.48044e-11 t=76495
+pi ru 	譬如	c=1 d=2.17311e-43 t=76495
+pi shi 	屁事	c=2 d=1.70515e-29 t=76495
+pi shi mei you 	屁事沒有	c=1 d=1.02811e-32 t=76495
+pi shi zhen 	皮試針	c=1 d=1.58284e-79 t=76495
+pi xie 	批寫	c=1 d=1.61933e-53 t=76495
+pian 	偏	c=2 d=0.00467746 t=76495
+pian 	片	c=1 d=2.79205e-109 t=76495
+pian 	騙	c=4 d=9.80863e-09 t=76495
+pian jian 	片鍵	c=3 d=0.323033 t=76495
+pian ke 	片刻	c=1 d=2.60717e-09 t=76495
+pian ni 	騙你	c=1 d=1.81291e-58 t=76495
+pian xiang 	偏向	c=1 d=4.25749e-102 t=76495
+pian yi 	便宜	c=1 d=3.33871e-95 t=76495
+pian yi liang 	偏移量	c=2 d=3.5953e-25 t=76495
+pian zhi 	偏執	c=2 d=7.89736e-18 t=76495
+pian zi 	騙子	c=1 d=1.11453e-11 t=76495
+piao 	嫖	c=0 d=2.90983e-08 t=76495
+piao chang 	嫖娼	c=1 d=1.42691e-06 t=76495
+piao liang 	漂亮	c=1 d=0.0117371 t=76495
+piao ling 	嘌呤	c=0 d=0.0289384 t=76495
+piao zheng xi 	朴正熙	c=1 d=9.94303e-22 t=76495
+piao zou le 	嫖走了	c=1 d=2.92442e-07 t=76495
+pin 	品	c=2 d=0.000201444 t=76495
+pin 	拼	c=3 d=0.0214936 t=76495
+pin bo 	拼博	c=1 d=0.752014 t=76495
+pin dao 	頻道	c=35 d=0.0437178 t=76495
+pin fan 	頻繁	c=2 d=4.60861e-05 t=76495
+pin jie 	拼接	c=10 d=1.40758e-22 t=76495
+pin kuai 	品快	c=22 d=0.381125 t=76495
+pin lun 	品論	c=2 d=3.64207e-30 t=76495
+pin lv 	頻率	c=13 d=0.160414 t=76495
+pin pin 	頻頻	c=1 d=1.56252e-74 t=76495
+pin qiong 	貧窮	c=1 d=1.18173e-82 t=76495
+pin yin 	拼音	c=3 d=0.212613 t=76495
+ping 	平	c=1 d=0.301194 t=76495
+ping 	憑	c=1 d=2.94709e-39 t=76495
+ping 	瓶	c=1 d=1.6244e-31 t=76495
+ping bi 	屏蔽	c=28 d=1.12441 t=76495
+ping dao 	評到	c=2 d=4.13137e-13 t=76495
+ping fan 	平凡	c=1 d=4.51735e-05 t=76495
+ping fang 	平方	c=1 d=1.53695e-27 t=76495
+ping fen 	評分	c=1 d=4.79117e-109 t=76495
+ping gu 	評估	c=7 d=0.00568457 t=76495
+ping guo 	蘋果	c=2 d=1.36765e-07 t=76495
+ping heng 	平衡	c=2 d=5.85647e-22 t=76495
+ping jia 	評價	c=1 d=2.42538e-41 t=76495
+ping jie 	憑藉	c=1 d=5.00164e-56 t=76495
+ping jing 	瓶頸	c=1 d=7.04785e-32 t=76495
+ping jun 	平均	c=3 d=0.697676 t=76495
+ping jun zhi 	平均值	c=1 d=2.73089e-25 t=76495
+ping lun 	評論	c=25 d=0.965459 t=76495
+ping mu 	屏幕	c=1 d=9.42536e-40 t=76495
+ping pu 	平鋪	c=1 d=0.000468957 t=76495
+ping shi 	平時	c=6 d=0.677057 t=76495
+ping tai 	平臺	c=22 d=0.447629 t=76495
+ping tai duan 	平臺端	c=1 d=1.31797e-101 t=76495
+ping ti a 	憑提啊	c=1 d=1.12535e-07 t=76495
+ping zheng 	憑證	c=2 d=0.0283225 t=76495
+ping zhuang 	瓶裝	c=1 d=5.1452e-36 t=76495
+po 	破	c=2 d=0.0818731 t=76495
+po fang 	破防	c=1 d=1.51108e-08 t=76495
+po fu 	潑婦	c=1 d=4.66936e-12 t=76495
+po fu wu 	破服務	c=1 d=7.2162e-45 t=76495
+po hai 	迫害	c=2 d=9.41412e-26 t=76495
+po huai 	破壞	c=1 d=6.9723e-111 t=76495
+po huai xing 	破壞性	c=1 d=1.28587e-105 t=76495
+po jie 	破戒	c=3 d=0.157237 t=76495
+po jie 	破解	c=1 d=0.158817 t=76495
+pou fu 	剖腹	c=1 d=0.185444 t=76495
+pu 	譜	c=1 d=1.25677e-71 t=76495
+pu bian 	普遍	c=4 d=1.80583e-12 t=76495
+pu ji 	普及	c=1 d=1.54386e-21 t=76495
+pu ke 	撲克	c=1 d=1.57773e-41 t=76495
+pu tao 	葡萄	c=1 d=1.60468e-05 t=76495
+pu tao tang 	葡萄糖	c=1 d=8.01401e-14 t=76495
+pu ti 	菩提	c=0 d=3.22968e-29 t=76495
+pu ti ou niao 	菩提鷗鳥	c=1 d=3.24587e-28 t=76495
+pu tong 	普通	c=33 d=0.606039 t=76495
+pu tong hua 	普通話	c=2 d=0.472367 t=76495
+pu tong qun 	普通羣	c=1 d=2.31331e-102 t=76495
+pu tuan 	蒲團	c=0 d=3.07635e-45 t=76495
+qi 	企	c=2 d=6.91181e-38 t=76495
+qi 	其	c=11 d=1.71274e-07 t=76495
+qi 	啓	c=0 d=5.38625e-105 t=76495
+qi 	器	c=5 d=0.062914 t=76495
+qi 	奇	c=7 d=4.20466e-77 t=76495
+qi 	期	c=1 d=1.85092e-08 t=76495
+qi 	琪	c=1 d=0.000113922 t=76495
+qi 	起	c=5 d=1.36083e-08 t=76495
+qi 	齊	c=2 d=2.55503e-37 t=76495
+qi an 	奇案	c=0 d=1.47488e-43 t=76495
+qi ba dian 	七八点	c=1 d=2.81157e-44 t=76495
+qi ba ge 	七八个	c=1 d=9.38344e-17 t=76495
+qi bu shi 	豈不是	c=1 d=5.3055e-44 t=76495
+qi che 	汽車	c=1 d=4.16538e-80 t=76495
+qi chuang 	起牀	c=2 d=0.00278085 t=76495
+qi ci 	七次	c=1 d=2.23306e-69 t=76495
+qi ci 	其次	c=5 d=1.48333e-21 t=76495
+qi dao 	騎到	c=1 d=0.00255424 t=76495
+qi de 	氣得	c=2 d=0.0483156 t=76495
+qi de 	起得	c=1 d=6.64781e-21 t=76495
+qi de wo 	气的我	c=1 d=2.46421e-22 t=76495
+qi dian 	七點	c=5 d=0.000314351 t=76495
+qi dian 	起點	c=1 d=0.000319102 t=76495
+qi dong 	啓動	c=10 d=0.00465543 t=76495
+qi dong qi 	起動器	c=1 d=2.49584e-25 t=76495
+qi feng 	奇峯	c=123 d=2.40302 t=76495
+qi feng ne gei 	奇峯呢給	c=2 d=2.69958e-07 t=76495
+qi guai 	奇怪	c=12 d=0.810584 t=76495
+qi guai feng 	奇怪峯	c=2 d=2.15706e-44 t=76495
+qi hou 	氣候	c=1 d=6.85726e-33 t=76495
+qi huai 	氣壞	c=2 d=4.94282e-21 t=76495
+qi jian 	期間	c=2 d=5.25914e-29 t=76495
+qi lai 	起來	c=22 d=0.978444 t=76495
+qi lai le 	起来了	c=1 d=2.10716e-05 t=76495
+qi lv zhao ma 	騎驢找馬	c=3 d=2.11456e-11 t=76495
+qi ma 	起碼	c=4 d=8.10144e-24 t=76495
+qi ma 	騎馬	c=1 d=0.00279479 t=76495
+qi pa 	奇葩	c=1 d=6.77381e-36 t=76495
+qi qi 	七七	c=0 d=0.0995012 t=76495
+qi qi lai 	啓起來	c=1 d=5.41325e-104 t=76495
+qi qi ma ma 	七七媽媽	c=1 d=1 t=76495
+qi qie 	妻妾	c=1 d=0.298197 t=76495
+qi quan 	期權	c=1 d=2.15529e-05 t=76495
+qi quan 	齊全	c=1 d=4.05796e-08 t=76495
+qi shi 	其實	c=15 d=0.433874 t=76495
+qi shi 	騎士	c=0 d=1.50877e-75 t=76495
+qi shi ka 	騎士卡	c=1 d=1.51634e-74 t=76495
+qi shou 	起手	c=1 d=5.8575e-32 t=76495
+qi si 	氣死	c=1 d=3.96181e-20 t=76495
+qi ta 	其他	c=61 d=0.0225378 t=76495
+qi ta bu men 	其他部门	c=1 d=5.01389e-26 t=76495
+qi ta hao 	其他號	c=1 d=1.82256e-91 t=76495
+qi ta ren 	其他人	c=4 d=0.000958636 t=76495
+qi ta zhi 	其他值	c=1 d=1.81064e-102 t=76495
+qi te 	奇特	c=1 d=8.87978e-15 t=76495
+qi wang 	期望	c=4 d=6.67409e-38 t=76495
+qi wei 	企微	c=14 d=0.00086724 t=76495
+qi wei 	氣味	c=1 d=1.66813e-20 t=76495
+qi xi 	氣息	c=1 d=6.04597e-81 t=76495
+qi xie 	器械	c=1 d=0.00293808 t=76495
+qi xin 	起薪	c=1 d=0.0761538 t=76495
+qi ye 	企業	c=78 d=3.73616 t=76495
+qi yong 	啓用	c=1 d=6.88907e-58 t=76495
+qi yuan 	起源	c=1 d=1.34587e-24 t=76495
+qi zai 	騎在	c=1 d=0.489192 t=76495
+qi zhong 	其中	c=5 d=0.0898153 t=76495
+qia dang 	恰當	c=1 d=1.17755e-11 t=76495
+qia hao 	恰好	c=1 d=4.35294e-10 t=76495
+qia qiao 	恰巧	c=1 d=2.01993e-36 t=76495
+qian 	前	c=30 d=0.144129 t=76495
+qian 	千	c=1 d=3.20146e-13 t=76495
+qian 	欠	c=2 d=1.29697e-25 t=76495
+qian 	簽	c=1 d=1.96537e-09 t=76495
+qian 	錢	c=12 d=0.722527 t=76495
+qian bao 	錢包	c=1 d=5.41084e-40 t=76495
+qian bo 	淺薄	c=1 d=9.89344e-22 t=76495
+qian bu gou 	錢不夠	c=1 d=3.24245e-45 t=76495
+qian bu liao 	簽不了	c=1 d=3.17091e-106 t=76495
+qian cang 	潛藏	c=1 d=3.9196e-41 t=76495
+qian dao 	簽到	c=3 d=0.00160441 t=76495
+qian de 	簽得	c=1 d=1.10661e-74 t=76495
+qian duan 	前端	c=169 d=1.42359 t=76495
+qian duan 	淺短	c=1 d=4.47959e-112 t=76495
+qian duan ne 	前端呢	c=1 d=1.17507e-45 t=76495
+qian fei 	欠費	c=2 d=2.867e-09 t=76495
+qian hou 	前後	c=2 d=0.00126207 t=76495
+qian hou duan 	前后端	c=3 d=0.0122161 t=76495
+qian hou zhui 	前後綴	c=1 d=1.05177e-35 t=76495
+qian ji tian 	前幾天	c=1 d=4.255e-07 t=76495
+qian ju 	遷居	c=1 d=4.69756e-24 t=76495
+qian le 	簽了	c=1 d=1.13462e-74 t=76495
+qian lian 	牽連	c=1 d=2.49797e-35 t=76495
+qian mian 	前面	c=15 d=9.49316e-06 t=76495
+qian ming 	簽名	c=14 d=0.0168231 t=76495
+qian que 	欠缺	c=1 d=1.04493e-17 t=76495
+qian ru 	嵌入	c=5 d=2.50895e-18 t=76495
+qian ru shi 	嵌入式	c=1 d=0.00463092 t=76495
+qian tai 	前臺	c=5 d=0.0119742 t=76495
+qian tao 	嵌套	c=3 d=1.85027 t=76495
+qian ti 	前提	c=2 d=3.04911e-17 t=76495
+qian ti 	前體	c=1 d=1.48282e-17 t=76495
+qian wan 	千萬	c=2 d=0.418952 t=76495
+qian wan nian 	千萬年	c=1 d=1.09265e-13 t=76495
+qian wang 	前往	c=4 d=5.54705e-10 t=76495
+qian wang na ge 	前往那個	c=1 d=5.57485e-09 t=76495
+qian xian 	淺顯	c=1 d=1.62302e-21 t=76495
+qian yan 	前言	c=1 d=4.24374e-64 t=76495
+qian yi 	前一	c=0 d=8.9413e-09 t=76495
+qian yi 	遷移	c=5 d=0.017953 t=76495
+qian yi ci 	前一次	c=2 d=0.00096827 t=76495
+qian yi ge 	前一个	c=2 d=4.07748e-35 t=76495
+qian yi miao 	前一秒	c=1 d=8.98612e-08 t=76495
+qian yi mo hua 	潛移默化	c=1 d=1.11491e-15 t=76495
+qian zhe 	前者	c=1 d=9.36498e-82 t=76495
+qian zhi 	前置	c=8 d=0.00179097 t=76495
+qian zhui 	前綴	c=8 d=0.704752 t=76495
+qian zhui shu 	前綴樹	c=1 d=3.0585e-05 t=76495
+qian zou 	欠揍	c=1 d=0.00154923 t=76495
+qiang 	嗆	c=1 d=1.72626e-70 t=76495
+qiang 	強	c=2 d=0.00367942 t=76495
+qiang 	搶	c=1 d=2.98502e-13 t=76495
+qiang 	牆	c=1 d=0.00012909 t=76495
+qiang dao 	強盜	c=1 d=0.0593087 t=76495
+qiang diao 	強調	c=3 d=0.0596059 t=76495
+qiang gan zi 	槍桿子	c=1 d=1.14766e-32 t=76495
+qiang guo 	強國	c=0 d=1.12669e-22 t=76495
+qiang jia 	強加	c=1 d=2.44268e-07 t=76495
+qiang jian 	強姦	c=1 d=6.13565e-19 t=76495
+qiang jie 	搶劫	c=1 d=2.95331e-05 t=76495
+qiang lie 	強烈	c=1 d=1.2389e-79 t=76495
+qiang po zheng 	強迫症	c=1 d=1.57505e-21 t=76495
+qiang shi 	強勢	c=1 d=0.00113627 t=76495
+qiang ti shi 	強提示	c=1 d=2.47464e-101 t=76495
+qiang xing 	強行	c=2 d=5.1863e-12 t=76495
+qiang yi ge 	強一個	c=1 d=2.55642e-13 t=76495
+qiang ying 	強硬	c=1 d=1.16263e-08 t=76495
+qiang zhan 	搶佔	c=1 d=8.36185e-102 t=76495
+qiang zhi 	強制	c=19 d=0.460704 t=76495
+qiang zhi 	槍支	c=3 d=9.2485e-105 t=76495
+qiao 	巧	c=0 d=0.0292293 t=76495
+qiao 	敲	c=7 d=1.47036e-06 t=76495
+qiao 	瞧	c=2 d=0.0316873 t=76495
+qiao cui 	憔悴	c=0 d=2.8404e-18 t=76495
+qiao cui le 	憔悴了	c=1 d=2.85464e-17 t=76495
+qiao dai ma 	敲代码	c=2 d=3.90603e-59 t=76495
+qiao qiao 	瞧瞧	c=1 d=8.69302e-60 t=76495
+qiao qiao kan 	瞧瞧看	c=1 d=8.73659e-59 t=76495
+qiao yi xia 	桥一下	c=1 d=4.0754e-29 t=76495
+qie 	且	c=2 d=1.91021e-26 t=76495
+qie 	切	c=4 d=0.0689068 t=76495
+qie 	竊	c=1 d=0.355226 t=76495
+qie bu 	切不	c=1 d=9.52271e-102 t=76495
+qie dao 	切到	c=1 d=6.37954e-07 t=76495
+qie fen 	切分	c=1 d=3.08704e-26 t=76495
+qie ge 	切割	c=2 d=1.52975e-60 t=76495
+qie guo qu 	切過去	c=1 d=1.21453e-110 t=76495
+qie huan 	切換	c=10 d=4.70251e-07 t=76495
+qie hui 	切回	c=2 d=2.3514e-21 t=76495
+qie pian 	切片	c=8 d=2.84096e-17 t=76495
+qie ru 	切入	c=1 d=1.28599e-18 t=76495
+qie yi 	愜意	c=1 d=0.021068 t=76495
+qie yi xia 	切一下	c=8 d=1.28795e-05 t=76495
+qin 	琴	c=6 d=0.00406639 t=76495
+qin 	親	c=1 d=1.88311e-05 t=76495
+qin liao 	琴聊	c=1 d=7.82413e-26 t=76495
+qin ru xing 	侵入性	c=1 d=6.57542e-98 t=76495
+qing 	清	c=7 d=1.06509e-36 t=76495
+qing 	請	c=52 d=0.00432587 t=76495
+qing 	輕	c=4 d=1.87556e-10 t=76495
+qing chao 	清朝	c=1 d=5.51263e-24 t=76495
+qing che shu lu 	輕車熟路	c=1 d=1.9858e-12 t=76495
+qing chu 	清楚	c=9 d=0.0578443 t=76495
+qing chu 	清除	c=18 d=1.04795 t=76495
+qing chu le 	清楚了	c=1 d=2.52995e-67 t=76495
+qing chun 	青春	c=0 d=4.93672e-21 t=76495
+qing chun ban 	青春版	c=1 d=4.96147e-20 t=76495
+qing cuo le 	清錯了	c=1 d=1.87137e-49 t=76495
+qing dan 	清單	c=1 d=2.82383e-07 t=76495
+qing diao 	清掉	c=1 d=3.86231e-103 t=76495
+qing gong ye 	輕工業	c=1 d=4.06254e-80 t=76495
+qing jiao 	青椒	c=1 d=5.55951e-06 t=76495
+qing jing 	清淨	c=1 d=0.00339653 t=76495
+qing kan 	請看	c=1 d=1.40218e-65 t=76495
+qing kong 	清空	c=9 d=6.01826e-40 t=76495
+qing kuang 	情況	c=79 d=1.69257 t=76495
+qing le 	清了	c=1 d=2.19376e-66 t=76495
+qing li 	清理	c=35 d=0.157528 t=76495
+qing liang 	轻量	c=3 d=0.380983 t=76495
+qing ling 	清零	c=1 d=1.82901e-15 t=76495
+qing qing chu chu 	清清楚楚	c=1 d=9.14398e-07 t=76495
+qing qiu 	請求	c=155 d=0.512663 t=76495
+qing qiu ti 	請求體	c=1 d=1.85742e-108 t=76495
+qing qiu tou 	請求頭	c=1 d=6.92029e-23 t=76495
+qing se 	青澀	c=0 d=1.72103e-06 t=76495
+qing se qing se 	青澀青澀	c=1 d=1.72966e-05 t=76495
+qing sheng 	輕生	c=1 d=4.09025e-13 t=76495
+qing song 	輕鬆	c=5 d=0.00364281 t=76495
+qing wan 	清玩	c=0 d=2.01987e-66 t=76495
+qing wan le 	清玩了	c=1 d=2.02999e-65 t=76495
+qing wen 	請問	c=1 d=0.0368832 t=76495
+qing wu 	請勿	c=1 d=1.27307e-105 t=76495
+qing xiang 	傾向	c=2 d=0.00121867 t=76495
+qing xu 	情緒	c=1 d=3.84276e-14 t=76495
+qing yi 	輕易	c=1 d=6.79503e-14 t=76495
+qing yi dian 	輕一點	c=1 d=9.21988e-16 t=76495
+qing yue 	清越	c=1 d=1.12563e-98 t=76495
+qing zai 	請在	c=1 d=1.43124e-71 t=76495
+qing zhen 	清真	c=3 d=7.5617e-07 t=76495
+qiong 	窮	c=1 d=1.05099e-85 t=76495
+qiu 	瞅	c=0 d=0.0927743 t=76495
+qiu he 	秋河	c=1 d=7.36174e-74 t=76495
+qiu hou suan zhang 	秋後算賬	c=1 d=7.6692e-26 t=76495
+qiu qiu 	求求	c=1 d=2.89532e-07 t=76495
+qiu qiu 	瞅瞅	c=0 d=3.07436e-08 t=76495
+qiu qiu ni le 	求求你了	c=1 d=8.99472e-78 t=76495
+qiu qiu qiu 	瞅瞅瞅	c=1 d=3.08977e-07 t=76495
+qiu tian 	秋天	c=1 d=7.40794e-30 t=76495
+qiu tian 	秋田	c=1 d=7.371e-30 t=76495
+qiu yi yan 	瞅一眼	c=1 d=7.9765e-47 t=76495
+qu 	區	c=1 d=0.000458162 t=76495
+qu 	去	c=102 d=2.62707 t=76495
+qu 	取	c=66 d=1.1861 t=76495
+qu a 	去啊	c=0 d=6.00681e-35 t=76495
+qu bie 	區別	c=5 d=0.000261341 t=76495
+qu bu dao 	取不到	c=1 d=0.637628 t=76495
+qu chong 	去重	c=1 d=9.57238e-75 t=76495
+qu chong 	驅蟲	c=1 d=7.08439e-34 t=76495
+qu chu 	去除	c=2 d=2.53055e-11 t=76495
+qu chu 	取出	c=4 d=2.72013e-08 t=76495
+qu dao 	去到	c=3 d=0.377192 t=76495
+qu dao 	取到	c=2 d=0.380983 t=76495
+qu dao 	渠道	c=1 d=4.00789e-09 t=76495
+qu dao de 	取到的	c=2 d=0.425283 t=76495
+qu de 	取得	c=6 d=0.00406639 t=76495
+qu de 	取的	c=1 d=4.80961e-66 t=76495
+qu diao 	去掉	c=15 d=1.00584 t=76495
+qu diao 	取掉	c=2 d=0.981434 t=76495
+qu diao le 	去掉了	c=1 d=1.04682e-97 t=76495
+qu dong 	驅動	c=14 d=7.08462e-05 t=76495
+qu dui lie 	去隊列	c=1 d=1.18947e-100 t=76495
+qu fen 	區分	c=14 d=0.447745 t=76495
+qu fen le 	區分了	c=1 d=0.000166586 t=76495
+qu guan 	取关	c=1 d=0.00396599 t=76495
+qu jin 	趨近	c=1 d=8.41003e-52 t=76495
+qu jue yu 	取決於	c=2 d=2.24363e-07 t=76495
+qu kuai lian 	区块链	c=4 d=1.84645e-09 t=76495
+qu le 	去了	c=14 d=0.579842 t=76495
+qu na wan 	去哪玩	c=1 d=8.61148e-07 t=76495
+qu nian 	去年	c=3 d=1.10668e-16 t=76495
+qu nian xie 	去年寫	c=1 d=1.74521e-22 t=76495
+qu shi 	去世	c=1 d=1.87372e-05 t=76495
+qu shu ju 	取數據	c=1 d=2.32315e-05 t=76495
+qu xiang 	趨向	c=1 d=0.203926 t=76495
+qu xiao 	取消	c=23 d=0.767206 t=76495
+qu xiao mai bu 	去小賣部	c=1 d=1.00553e-06 t=76495
+qu xie 	去写	c=1 d=5.47954e-12 t=76495
+qu ya 	去呀	c=1 d=7.97514e-45 t=76495
+qu yi xia 	去一下	c=1 d=4.62353e-43 t=76495
+qu yi xia 	取一下	c=5 d=0.00069264 t=76495
+qu yu 	區域	c=1 d=9.44524e-06 t=76495
+qu zhao 	去找	c=1 d=1.33388e-07 t=76495
+qu zheng 	取整	c=3 d=0.0477106 t=76495
+qu zi 	取自	c=1 d=2.74458e-25 t=76495
+quan 	全	c=16 d=0.024234 t=76495
+quan 	圈	c=4 d=0.0537944 t=76495
+quan 	拳	c=2 d=0.790571 t=76495
+quan 	權	c=4 d=8.61188e-97 t=76495
+quan bu 	全不	c=1 d=1.17256e-108 t=76495
+quan bu 	全部	c=33 d=0.00288998 t=76495
+quan bu si liao 	全部私聊	c=1 d=3.197e-26 t=76495
+quan bu you 	全部有	c=1 d=6.13839e-83 t=76495
+quan cheng 	全程	c=2 d=0.00010569 t=76495
+quan dou 	全都	c=1 d=2.20011e-100 t=76495
+quan duan 	全段	c=1 d=2.86846e-15 t=76495
+quan guo 	全國	c=1 d=2.24325e-05 t=76495
+quan ji shou 	拳擊手	c=1 d=5.5796e-19 t=76495
+quan jia tong 	全家桶	c=1 d=4.32933e-93 t=76495
+quan ju 	全劇	c=1 d=1.31959e-86 t=76495
+quan ju 	全局	c=44 d=0.295902 t=76495
+quan kai 	全開	c=1 d=7.73442e-08 t=76495
+quan kao 	全靠	c=1 d=0.955997 t=76495
+quan ke bao 	圈客寶	c=2 d=6.56773e-42 t=76495
+quan li 	權利	c=1 d=2.27514e-24 t=76495
+quan liang 	全量	c=12 d=1.17282e-39 t=76495
+quan liang 	圈量	c=23 d=1.92168 t=76495
+quan lu jing 	全路径	c=1 d=4.86126e-74 t=76495
+quan ni 	劝你	c=1 d=2.60168e-43 t=76495
+quan ping 	全屏	c=1 d=1.36812e-11 t=76495
+quan ping 	全憑	c=1 d=1.38521e-10 t=76495
+quan qiu 	全球	c=1 d=3.58602e-24 t=76495
+quan shi 	全是	c=11 d=0.704394 t=76495
+quan tui 	勸退	c=1 d=5.4565e-80 t=76495
+quan wen 	全文	c=1 d=1.1362e-61 t=76495
+quan wu 	全無	c=0 d=3.27783e-56 t=76495
+quan xian 	全線	c=3 d=4.77772e-05 t=76495
+quan xian 	權限	c=67 d=0.122852 t=76495
+quan xian biao 	权限表	c=1 d=8.09593e-16 t=76495
+quan zhi 	全職	c=1 d=7.55839e-90 t=76495
+quan zi 	圈子	c=2 d=7.63638e-05 t=76495
+quan zi duan 	全字段	c=1 d=3.89184e-75 t=76495
+que 	缺	c=1 d=1.62231e-104 t=76495
+que bao 	確保	c=12 d=0.250324 t=76495
+que ding 	確定	c=25 d=0.102797 t=76495
+que ding le 	確定了	c=0 d=1.50176e-79 t=76495
+que ding le ha 	確定了哈	c=1 d=1.50929e-78 t=76495
+que ding le ma 	確定了嗎	c=1 d=3.09546e-58 t=76495
+que ge 	缺個	c=1 d=6.46452e-45 t=76495
+que le 	瘸了	c=2 d=2.67172e-32 t=76495
+que le 	缺了	c=13 d=0.00312572 t=76495
+que ren 	確認	c=25 d=0.000598433 t=76495
+que ren xia 	確認下	c=2 d=3.20234e-75 t=76495
+que sha 	缺啥	c=1 d=7.20761e-31 t=76495
+que shao 	缺少	c=2 d=4.87664e-23 t=76495
+que sheng 	缺省	c=2 d=1.07911e-63 t=76495
+que shi 	確實	c=19 d=0.70782 t=76495
+que shi 	缺失	c=10 d=0.160414 t=76495
+que shui 	缺水	c=1 d=2.00222e-50 t=76495
+que xian 	缺陷	c=2 d=0.000611253 t=76495
+qun 	羣	c=434 d=0.10385 t=76495
+qun chan 	踆躔	c=1 d=1.98594e-101 t=76495
+qun cheng yuan 	羣成員	c=15 d=8.48615e-11 t=76495
+qun er wei ma 	羣二維碼	c=1 d=2.98035e-24 t=76495
+qun fa 	羣發	c=2 d=2.90321e-39 t=76495
+qun gai 	群改	c=0 d=2.5448e-78 t=76495
+qun gai gong gao 	群改公告	c=1 d=2.55756e-77 t=76495
+qun gong gao 	羣公告	c=9 d=1.03773e-24 t=76495
+qun li 	羣裏	c=13 d=3.38949e-08 t=76495
+qun li mian 	群里面	c=1 d=9.57106e-44 t=76495
+qun liang 	羣量	c=1 d=1.74118e-83 t=76495
+qun liao 	羣聊	c=327 d=0.337714 t=76495
+qun liao fa 	羣聊發	c=1 d=2.0255e-39 t=76495
+qun liao ren wu 	羣聊任務	c=1 d=9.95827e-40 t=76495
+qun liao shu 	羣聊數	c=1 d=2.57607e-103 t=76495
+qun lie biao 	羣列表	c=16 d=1.79621e-08 t=76495
+qun ming 	羣名	c=1 d=9.39722e-93 t=76495
+qun ming cheng 	群名称	c=7 d=1.14586e-43 t=76495
+qun nei 	羣內	c=12 d=1.68289e-06 t=76495
+qun nei o 	羣內哦	c=1 d=2.2447e-42 t=76495
+qun ou 	羣毆	c=0 d=3.28306e-16 t=76495
+qun ou ye 	羣毆也	c=1 d=3.29952e-15 t=76495
+qun ti 	羣體	c=0 d=1.52559e-29 t=76495
+qun ti mian yi 	羣體免疫	c=1 d=1.53324e-28 t=76495
+qun tou xiang 	群头像	c=5 d=4.33556e-67 t=76495
+qun xiang guan 	羣相關	c=3 d=2.28881e-65 t=76495
+qun xiao xi 	群消息	c=3 d=0.104874 t=76495
+qun xin xi 	羣信息	c=3 d=1.42425e-99 t=76495
+qun yao qing 	羣邀請	c=6 d=1.16385e-46 t=76495
+qun ye 	羣也	c=1 d=2.1597e-29 t=76495
+qun yuan 	羣員	c=1 d=4.62919e-28 t=76495
+qun yuan 	羣袁	c=1 d=9.76742e-77 t=76495
+qun zhe yi kuai 	羣这一块	c=2 d=5.98384e-19 t=76495
+qun zhong 	羣中	c=3 d=5.72279e-23 t=76495
+qun zhu 	群主	c=24 d=1.2987e-16 t=76495
+ran 	然	c=1 d=1.97751e-51 t=76495
+ran hou 	然後	c=106 d=0.831374 t=76495
+ran hou le 	然後了	c=1 d=2.14892e-29 t=76495
+ran hou ne 	然后呢	c=1 d=5.48292e-78 t=76495
+ran you 	燃油	c=0 d=0.00330412 t=76495
+ran you bao 	燃油寶	c=1 d=0.0332068 t=76495
+rang 	瓤	c=1 d=1.80025e-05 t=76495
+rang 	讓	c=51 d=0.440432 t=76495
+rang dui fang 	讓對方	c=1 d=3.72249e-81 t=76495
+rang hou duan 	讓後端	c=1 d=5.94723e-05 t=76495
+rang ni 	讓你	c=4 d=0.0702988 t=76495
+rang ni wu 	讓你無	c=2 d=0.000889368 t=76495
+rang qi feng 	讓奇峯	c=1 d=2.6842e-28 t=76495
+rang rang 	嚷嚷	c=1 d=4.04447e-57 t=76495
+rang ta 	讓他	c=46 d=0.819856 t=76495
+rang ta men 	让他们	c=2 d=4.98295e-12 t=76495
+rang wo 	讓我	c=7 d=2.93908e-07 t=76495
+rao 	繞	c=2 d=0.00946646 t=76495
+rao dao 	繞到	c=1 d=1.8024e-19 t=76495
+rao guo 	繞過	c=1 d=0.00771183 t=76495
+rao yun 	繞暈	c=1 d=0.00960953 t=76495
+re 	熱	c=3 d=5.45802e-07 t=76495
+re ai 	熱愛	c=0 d=1.55752e-08 t=76495
+re chong qi 	熱重啓	c=1 d=2.92662e-104 t=76495
+re dian 	熱點	c=1 d=3.59568e-85 t=76495
+re du 	熱度	c=1 d=7.20026e-19 t=76495
+re guo 	熱鍋	c=1 d=2.81549e-31 t=76495
+re men 	熱門	c=1 d=2.1992e-07 t=76495
+re sou 	热搜	c=2 d=1.67793e-18 t=76495
+re tu 	熱土	c=1 d=4.15123e-40 t=76495
+ren 	人	c=63 d=0.821088 t=76495
+ren ang ang ta 	人昂昂他	c=1 d=1.67097e-40 t=76495
+ren bu duo 	人不多	c=1 d=8.24938e-31 t=76495
+ren cai 	人才	c=1 d=0.431711 t=76495
+ren dou 	人都	c=4 d=0.0596059 t=76495
+ren duo 	人多	c=1 d=2.04935e-59 t=76495
+ren fei le 	人廢了	c=1 d=4.49788e-13 t=76495
+ren gong 	人工	c=5 d=5.30131e-14 t=76495
+ren he 	人和	c=1 d=9.90628e-96 t=76495
+ren he 	任何	c=14 d=0.733447 t=76495
+ren jia 	人家	c=1 d=3.51429e-15 t=76495
+ren jun 	人均	c=2 d=1.21991e-15 t=76495
+ren lei 	人類	c=1 d=1.54759e-20 t=76495
+ren li 	人力	c=1 d=3.61701e-37 t=76495
+ren ling 	認領	c=1 d=0.000214973 t=76495
+ren mai 	人脈	c=1 d=3.04377e-07 t=76495
+ren mei shi 	人沒事	c=1 d=2.12004e-105 t=76495
+ren min 	人民	c=1 d=1.99915e-32 t=76495
+ren ming 	人名	c=2 d=1.98918e-32 t=76495
+ren rou 	人肉	c=1 d=1.40998e-42 t=76495
+ren sheng 	人生	c=2 d=0.00152616 t=76495
+ren shi 	人士	c=3 d=1.07065e-09 t=76495
+ren shi 	人是	c=1 d=3.0704e-80 t=76495
+ren shi 	認識	c=2 d=0.000159256 t=76495
+ren shou 	人獸	c=1 d=2.76363e-14 t=76495
+ren shou 	忍受	c=1 d=2.52359e-08 t=76495
+ren shou bu gou 	人手不夠	c=1 d=2.09609e-89 t=76495
+ren shou za jiao 	人獸雜交	c=1 d=3.63712e-14 t=76495
+ren shu 	人數	c=6 d=7.85483e-76 t=76495
+ren ti 	人體	c=1 d=0.980199 t=76495
+ren tou 	人頭	c=1 d=8.80133e-87 t=76495
+ren wei 	人爲	c=2 d=0.008291 t=76495
+ren wei 	認爲	c=10 d=1.93078e-05 t=76495
+ren wei cuan gai 	人爲竄改	c=1 d=0.0833256 t=76495
+ren wo 	认我	c=1 d=0.197899 t=76495
+ren wu 	人物	c=1 d=0.348192 t=76495
+ren wu 	任務	c=282 d=1.42988 t=76495
+ren wu ji hua 	任务计划	c=1 d=1.95771e-109 t=76495
+ren wu lei 	任務類	c=1 d=1.99501e-37 t=76495
+ren wu liang 	任务量	c=1 d=1.67472e-37 t=76495
+ren xing hua 	人性化	c=2 d=0.000982903 t=76495
+ren yi 	任意	c=1 d=1.27562e-11 t=76495
+ren ying 	人影	c=1 d=1.03186e-16 t=76495
+ren yuan 	人員	c=5 d=0.511709 t=76495
+ren yuan 	人緣	c=1 d=2.68703e-11 t=76495
+ren zheng 	認證	c=3 d=3.41414e-05 t=76495
+ren zhu 	忍住	c=2 d=0.00179213 t=76495
+reng diao 	扔掉	c=1 d=9.23588e-07 t=76495
+reng le 	扔了	c=1 d=1.58871e-05 t=76495
+ri 	日	c=1 d=0.0393602 t=76495
+ri ben 	日本	c=2 d=1.15086e-06 t=76495
+ri chang 	日場	c=4 d=1.58003e-21 t=76495
+ri chang 	日常	c=1 d=6.21548e-24 t=76495
+ri guai 	日怪	c=2 d=0.00670434 t=76495
+ri le 	日了	c=1 d=4.27083e-80 t=76495
+ri li 	日曆	c=1 d=2.51836e-13 t=76495
+ri qi 	日期	c=4 d=2.01061e-11 t=76495
+ri qi 	日起	c=1 d=2.00058e-11 t=76495
+ri zhi 	日誌	c=92 d=1.41103 t=76495
+ri zhuan 	日賺	c=1 d=4.82073e-05 t=76495
+rong 	榮	c=5 d=9.32711e-05 t=76495
+rong duan 	熔斷	c=27 d=2.94108e-15 t=76495
+rong ge 	榮哥	c=24 d=0.0327963 t=76495
+rong ge 	榮格	c=1 d=1.14342e-106 t=76495
+rong qi 	容器	c=2 d=0.00190171 t=76495
+rong ren 	容忍	c=3 d=5.67743e-47 t=76495
+rong ren du 	容忍度	c=1 d=0.00711891 t=76495
+rong wo 	容我	c=1 d=3.31324e-05 t=76495
+rong yi 	容易	c=1 d=3.71249e-20 t=76495
+rong yi 	絨衣	c=1 d=3.69397e-20 t=76495
+rong yu 	冗餘	c=3 d=5.93523e-06 t=76495
+rong yuan 	蠑螈	c=5 d=1.24197e-10 t=76495
+rong zi 	融資	c=1 d=5.59005e-41 t=76495
+rou ma 	肉麻	c=1 d=4.02267e-111 t=76495
+rou shen 	肉身	c=1 d=2.82693e-108 t=76495
+rou song 	肉鬆	c=1 d=3.56388e-10 t=76495
+rou yan 	肉眼	c=1 d=1.52786e-09 t=76495
+rou yan ke jian 	肉眼可見	c=1 d=9.21674e-12 t=76495
+ru 	入	c=15 d=7.26397e-05 t=76495
+ru 	如	c=5 d=0.313486 t=76495
+ru can 	入參	c=4 d=1.30405e-35 t=76495
+ru cha 	乳茶	c=1 d=3.26071e-111 t=76495
+ru ci 	如此	c=3 d=3.52362e-45 t=76495
+ru dao 	入到	c=1 d=1.90651e-62 t=76495
+ru dui 	入隊	c=0 d=3.73073e-108 t=76495
+ru dui lie 	入隊列	c=1 d=3.74943e-107 t=76495
+ru gu 	入股	c=0 d=2.08116e-06 t=76495
+ru guo 	如果	c=78 d=0.145898 t=76495
+ru guo 	辱國	c=1 d=5.08361e-12 t=76495
+ru hao 	入號	c=2 d=4.34283e-62 t=76495
+ru he 	如何	c=33 d=0.726149 t=76495
+ru keng 	入坑	c=1 d=9.73454e-08 t=76495
+ru kou 	入口	c=9 d=2.14714e-17 t=76495
+ru ku 	入庫	c=17 d=0.965605 t=76495
+ru le 	入了	c=1 d=4.95625e-37 t=76495
+ru qun 	入群	c=33 d=1.95657e-14 t=76495
+ru ruo 	如若	c=1 d=4.29443e-86 t=76495
+ru shi 	入室	c=1 d=2.93858e-05 t=76495
+ru shou 	入手	c=2 d=3.08162e-26 t=76495
+ru shui 	入睡	c=2 d=0.970446 t=76495
+ru xia 	如下	c=14 d=1.73863e-07 t=76495
+ru yao 	入藥	c=1 d=6.86193e-41 t=76495
+ru yi xia 	入一下	c=6 d=0.0468969 t=76495
+ru yu 	入獄	c=1 d=2.00024e-09 t=76495
+ru yu 	如遇	c=1 d=8.09731e-18 t=76495
+ru zhi 	入職	c=7 d=4.3361e-06 t=76495
+ru zhu 	入駐	c=0 d=2.7283e-103 t=76495
+ru zuo 	如左	c=1 d=3.39054e-41 t=76495
+ruan 	軟	c=1 d=4.12477e-53 t=76495
+ruan jian 	軟件	c=9 d=0.909373 t=76495
+ruan jian yuan 	軟件園	c=1 d=0.247833 t=76495
+ruan mo ying pao 	軟磨硬泡	c=1 d=1.11556e-110 t=76495
+ruan shan 	軟善	c=1 d=8.19096e-65 t=76495
+ruan shan chu 	軟刪除	c=4 d=1.63421e-43 t=76495
+rui long 	锐龙	c=1 d=0.527292 t=76495
+ruo 	若	c=19 d=2.65346e-10 t=76495
+ruo xiao 	弱小	c=1 d=2.2899e-100 t=76495
+sa 	撒	c=0 d=5.18757e-104 t=76495
+sa 	颯	c=2 d=1.62611e-15 t=76495
+sa chu 	灑出	c=0 d=1.82082e-22 t=76495
+sa dan 	撒旦	c=0 d=3.44904e-08 t=76495
+sa fei 	薩菲	c=0 d=3.49213e-07 t=76495
+sa huang 	撒謊	c=0 d=7.69142e-61 t=76495
+sa huang nian chu 	撒謊年初	c=1 d=7.72997e-60 t=76495
+sa ke 	薩克	c=0 d=6.80892e-39 t=76495
+sai 	賽	c=0 d=3.0098e-23 t=76495
+sai dao 	賽道	c=1 d=1.21689e-74 t=76495
+sai ya feng 	塞牙縫	c=1 d=6.13715e-110 t=76495
+san 	三	c=0 d=3.14586e-37 t=76495
+san bai kuai 	三百塊	c=0 d=1.88877e-100 t=76495
+san bian 	三遍	c=1 d=1.71123e-26 t=76495
+san bo 	三波	c=1 d=2.54973e-41 t=76495
+san bu fen 	三部分	c=1 d=4.52567e-56 t=76495
+san ci 	三次	c=7 d=0.11626 t=76495
+san dian 	三點	c=2 d=0.0780817 t=76495
+san dian qian 	三點前	c=1 d=1.07138e-17 t=76495
+san dian shui de 	三点睡的	c=0 d=5.74897e-107 t=76495
+san fang 	三方	c=1 d=3.54818e-105 t=76495
+san fen zhong 	三分鐘	c=2 d=0.0130791 t=76495
+san ge 	三個	c=19 d=5.14546e-07 t=76495
+san ge ren 	三個人	c=1 d=5.85869e-05 t=76495
+san ge yue 	三個月	c=2 d=3.00826e-16 t=76495
+san guo 	三國	c=1 d=0.394554 t=76495
+san guo zhi 	三國志	c=2 d=0.241199 t=76495
+san ju tou 	三巨頭	c=1 d=0.292293 t=76495
+san lian 	三連	c=0 d=8.0679e-35 t=76495
+san lun 	三輪	c=1 d=6.05274e-06 t=76495
+san mian 	三面	c=1 d=3.76399e-35 t=76495
+san miao 	三秒	c=2 d=2.4416e-19 t=76495
+san miao hou 	三秒後	c=1 d=1.60245e-18 t=76495
+san nian 	三年	c=1 d=0.0523397 t=76495
+san pai 	三排	c=1 d=3.117e-22 t=76495
+san qian 	三千	c=0 d=1.66241e-10 t=76495
+san qian zhang 	三千丈	c=1 d=1.67074e-09 t=76495
+san shi 	三是	c=2 d=0.236928 t=76495
+san shi duo kuai 	三十多塊	c=1 d=9.5431e-39 t=76495
+san shi fen 	三十分	c=0 d=0.0180866 t=76495
+san shi fen zhong 	三十分鍾	c=2 d=0.419888 t=76495
+san shi miao 	三十秒	c=1 d=3.26269e-30 t=76495
+san si 	三四	c=0 d=3.20811e-09 t=76495
+san si miao 	三四秒	c=1 d=8.40376e-102 t=76495
+san si tiao 	三四條	c=1 d=3.15208e-36 t=76495
+san si ye 	三四頁	c=1 d=3.22419e-08 t=76495
+san tian 	三天	c=5 d=9.54017e-06 t=76495
+san tian qian 	三天前	c=1 d=1.91548e-29 t=76495
+san tiao 	三條	c=2 d=3.94767e-07 t=76495
+san wu 	三五	c=1 d=0.00143728 t=76495
+san wu ge 	三五个	c=1 d=2.01369e-29 t=76495
+san wu shi 	三五十	c=1 d=3.98235e-22 t=76495
+san xiao shi 	三小時	c=1 d=3.01749e-52 t=76495
+san yue 	三月	c=1 d=0.285076 t=76495
+san zhang 	三張	c=1 d=4.38072e-26 t=76495
+san zhong 	三種	c=2 d=0.582748 t=76495
+sang chong 	桑蟲	c=0 d=3.5953e-26 t=76495
+sang xin 	丧心	c=1 d=2.94819e-14 t=76495
+sang zi 	嗓子	c=1 d=5.5954e-111 t=76495
+sao 	掃	c=3 d=3.19211e-09 t=76495
+sao ji 	繅機	c=2 d=1.4601e-33 t=76495
+sao ma 	扫码	c=0 d=3.37259e-09 t=76495
+sao ma hao 	扫码號	c=2 d=3.38949e-08 t=76495
+sao ma hao 	掃馬號	c=1 d=3.20811e-08 t=76495
+sao miao 	掃描	c=1 d=4.17217e-11 t=76495
+sao miao qi 	掃描器	c=1 d=4.08955e-11 t=76495
+sao rao 	騷擾	c=1 d=8.95498e-26 t=76495
+sao rao wo 	騷擾我	c=1 d=1.48277e-46 t=76495
+sao wei 	臊味	c=0 d=1.80019e-35 t=76495
+sao yi bo 	掃一撥	c=1 d=7.5335e-110 t=76495
+sao zi 	嫂子	c=0 d=1.51118e-35 t=76495
+se 	色	c=2 d=5.75577e-24 t=76495
+se pi 	色批	c=2 d=1.30752e-58 t=76495
+se se 	色色	c=1 d=0.0769192 t=76495
+se se fa dou 	瑟瑟發抖	c=1 d=6.46342e-43 t=76495
+sha 	啥	c=107 d=0.701287 t=76495
+sha 	殺	c=2 d=0.538294 t=76495
+sha 	紗	c=1 d=2.06291e-19 t=76495
+sha a 	傻啊	c=1 d=3.47201e-85 t=76495
+sha bi 	啥比	c=1 d=0.557106 t=76495
+sha bi 	煞筆	c=2 d=0.137381 t=76495
+sha diao 	傻掉	c=1 d=5.26468e-12 t=76495
+sha diao 	殺掉	c=1 d=2.52256e-62 t=76495
+sha dou 	啥都	c=2 d=1.72813e-24 t=76495
+sha fa dian 	沙發墊	c=0 d=3.81724e-05 t=76495
+sha fa dian sa fei 	沙發墊薩菲	c=1 d=3.50963e-06 t=76495
+sha he 	沙盒	c=1 d=4.1941e-102 t=76495
+sha le 	傻了	c=6 d=0.0156076 t=76495
+sha le 	殺了	c=3 d=3.51609e-57 t=76495
+sha ren 	啥人	c=1 d=9.85216e-61 t=76495
+sha shi 	啥事	c=1 d=2.10788e-08 t=76495
+sha shi hou 	啥時候	c=8 d=0.146607 t=76495
+sha shi qing 	啥事情	c=1 d=9.94642e-26 t=76495
+sha si 	殺死	c=1 d=6.31478e-34 t=76495
+sha wen ti 	啥问题	c=1 d=0.0135686 t=76495
+sha xun 	沙噀	c=1 d=2.43629e-35 t=76495
+sha ya 	啥呀	c=2 d=4.23307e-05 t=76495
+sha yang 	啥樣	c=6 d=2.4305e-07 t=76495
+sha yang zi 	啥樣子	c=1 d=5.13191e-35 t=76495
+sha ye 	啥也	c=7 d=0.19205 t=76495
+sha ye mei you 	啥也沒有	c=1 d=8.50667e-10 t=76495
+sha yi si 	啥意思	c=4 d=0.291844 t=76495
+sha yu yan 	啥語言	c=1 d=9.43277e-108 t=76495
+sha zhu 	殺豬	c=1 d=3.08651e-24 t=76495
+sha zi 	傻子	c=1 d=0.00708341 t=76495
+shai 	曬	c=2 d=2.62332e-34 t=76495
+shai 	篩	c=1 d=2.05402e-27 t=76495
+shai chu lai 	曬出來	c=1 d=4.51552e-59 t=76495
+shai xuan 	篩選	c=13 d=0.0289148 t=76495
+shai xuan qi 	筛选器	c=3 d=0.0096165 t=76495
+shan 	刪	c=5 d=0.000341356 t=76495
+shan chang 	擅長	c=1 d=1.47362e-32 t=76495
+shan chu 	刪除	c=142 d=0.488938 t=76495
+shan chu ju 	刪出具	c=1 d=5.1124e-49 t=76495
+shan chu wan 	刪除玩	c=1 d=3.12082e-07 t=76495
+shan cuo le 	刪錯了	c=1 d=2.46371e-49 t=76495
+shan diao 	刪掉	c=3 d=6.51285e-15 t=76495
+shan dong 	山東	c=1 d=2.4916e-05 t=76495
+shan guo 	刪過	c=1 d=3.87124e-42 t=76495
+shan le 	刪了	c=1 d=5.04503e-41 t=76495
+shan lu 	山路	c=1 d=2.91687e-06 t=76495
+shan shu ju 	刪數據	c=1 d=0.00343067 t=76495
+shan xi 	山西	c=1 d=2.38196e-05 t=76495
+shang 	上	c=165 d=1.31796 t=76495
+shang 	商	c=2 d=0.336247 t=76495
+shang an 	上岸	c=2 d=0.0010333 t=76495
+shang ban 	上班	c=4 d=1.04945e-09 t=76495
+shang bao 	上報	c=16 d=4.4621e-06 t=76495
+shang bao le 	上報了	c=1 d=2.48028e-69 t=76495
+shang ce shi 	上測試	c=1 d=1.51006e-84 t=76495
+shang ce suo 	上廁所	c=1 d=1.56981e-70 t=76495
+shang ceng 	上層	c=4 d=1.69898e-17 t=76495
+shang chuan 	上傳	c=20 d=0.246597 t=76495
+shang ci 	上次	c=32 d=1.13941e-06 t=76495
+shang ci 	賞賜	c=1 d=2.27492e-111 t=76495
+shang dan 	上单	c=2 d=2.51141e-21 t=76495
+shang dao 	上到	c=1 d=7.05288e-11 t=76495
+shang dian 	商店	c=1 d=0.715338 t=76495
+shang gan 	傷感	c=1 d=0.481909 t=76495
+shang ge 	上個	c=2 d=1.22881e-29 t=76495
+shang ge yue 	上個月	c=4 d=4.26529e-06 t=76495
+shang hai 	上海	c=4 d=0.348192 t=76495
+shang hai 	傷害	c=2 d=0.418952 t=76495
+shang hai shi 	上海市	c=1 d=2.30004e-05 t=76495
+shang hao 	上号	c=2 d=0.0687289 t=76495
+shang hao le 	上号了	c=1 d=2.28896e-07 t=76495
+shang hu 	商戶	c=61 d=0.251363 t=76495
+shang hu ming 	商戶名	c=1 d=4.52427e-23 t=76495
+shang hu xia 	商戶下	c=2 d=2.97782e-14 t=76495
+shang huo 	上火	c=0 d=8.19707e-16 t=76495
+shang huo le 	上火了	c=1 d=8.23815e-15 t=76495
+shang ji 	上級	c=1 d=1.58975e-42 t=76495
+shang jia 	商家	c=8 d=6.70876e-05 t=76495
+shang jin 	上進	c=1 d=2.46933e-17 t=76495
+shang lai 	上來	c=10 d=0.0322264 t=76495
+shang lai le 	上来了	c=1 d=1.10086e-101 t=76495
+shang le 	上了	c=21 d=0.0106734 t=76495
+shang le 	傷了	c=2 d=1.60846e-62 t=76495
+shang le ma 	上了吗	c=1 d=1.1758e-111 t=76495
+shang le ya 	上了呀	c=1 d=2.80966e-36 t=76495
+shang liang 	商量	c=1 d=5.74738e-44 t=76495
+shang men 	上門	c=1 d=4.24533e-39 t=76495
+shang mian 	上面	c=36 d=0.260124 t=76495
+shang qie 	尚且	c=1 d=4.04185e-20 t=76495
+shang qu 	上區	c=1 d=2.19593e-107 t=76495
+shang qu 	上去	c=14 d=0.159865 t=76495
+shang qu le 	上去了	c=2 d=0.0713654 t=76495
+shang shang qu 	上上去	c=1 d=3.84669e-26 t=76495
+shang shi 	上市	c=1 d=3.65473e-12 t=76495
+shang si 	上司	c=1 d=1.27771e-89 t=76495
+shang tou 	上頭	c=1 d=1.51273e-46 t=76495
+shang wan 	上完	c=2 d=6.36848e-16 t=76495
+shang wang 	上網	c=1 d=3.3138e-07 t=76495
+shang wei 	尚爲	c=1 d=1.06509e-36 t=76495
+shang wen 	上文	c=1 d=6.68297e-83 t=76495
+shang wu 	上午	c=10 d=5.88586e-30 t=76495
+shang wu 	商務	c=1 d=1.15173e-103 t=76495
+shang xia 	上下	c=1 d=1.06825e-12 t=76495
+shang xia ban 	上下班	c=1 d=1.92391e-110 t=76495
+shang xia wen 	上下文	c=15 d=0.683861 t=76495
+shang xia you 	上下游	c=1 d=6.22288e-38 t=76495
+shang xian 	上線	c=34 d=0.199324 t=76495
+shang xian 	上限	c=3 d=1.79158e-07 t=76495
+shang xian le 	上线了	c=1 d=1.94205e-44 t=76495
+shang xin 	傷心	c=1 d=0.486752 t=76495
+shang xin yue mu 	賞心悅目	c=1 d=9.87734e-91 t=76495
+shang yi 	上一	c=0 d=1.51505e-65 t=76495
+shang yi bo 	上一波	c=2 d=0.00506703 t=76495
+shang yi ci 	上一次	c=9 d=0.0185292 t=76495
+shang yi ge 	上一個	c=3 d=3.09882e-12 t=76495
+shang yi ji 	上一级	c=1 d=4.37671e-74 t=76495
+shang yi jia 	上一家	c=1 d=8.45533e-27 t=76495
+shang yi xia 	上一下	c=7 d=1.98033e-09 t=76495
+shang yi xia xian 	上一下線	c=1 d=1.52264e-64 t=76495
+shang zhou mo 	上週末	c=1 d=5.07394e-19 t=76495
+shang zhou yi 	上週一	c=1 d=1.72931e-32 t=76495
+shao 	少	c=6 d=1.00361e-13 t=76495
+shao chi 	少喫	c=1 d=8.58477e-16 t=76495
+shao chi dian 	少喫點	c=1 d=8.4467e-15 t=76495
+shao chuan 	少傳	c=1 d=2.31346e-44 t=76495
+shao deng 	稍等	c=27 d=0.340331 t=76495
+shao deng ne ge 	稍等呢個	c=7 d=0.0441572 t=76495
+shao deng xia 	稍等下	c=3 d=0.0492917 t=76495
+shao fa 	少發	c=1 d=1.49178e-29 t=76495
+shao le 	少了	c=5 d=1.08946e-08 t=76495
+shao le dian 	少了点	c=2 d=2.24807e-89 t=76495
+shao liang 	少量	c=1 d=5.83226e-40 t=76495
+shao nian fan 	少年犯	c=0 d=9.29166e-20 t=76495
+shao nv 	少女	c=1 d=1.46428e-16 t=76495
+shao pan duan 	少判斷	c=1 d=7.08077e-28 t=76495
+shao qian 	燒錢	c=1 d=9.49551e-39 t=76495
+shao shuo 	少說	c=1 d=1.68862e-46 t=76495
+shao wei 	少尉	c=1 d=8.19933e-77 t=76495
+shao wei 	稍爲	c=4 d=2.52445e-12 t=76495
+shao xie 	少寫	c=1 d=1.59549e-55 t=76495
+shao ya 	燒鴨	c=1 d=9.9123e-15 t=76495
+shao yong 	少用	c=1 d=6.63113e-109 t=76495
+she 	設	c=2 d=1.23599e-22 t=76495
+she 	賒	c=0 d=8.35839e-10 t=76495
+she bei 	設備	c=27 d=0.255381 t=76495
+she dao ren 	賒刀人	c=1 d=8.40029e-09 t=76495
+she ge 	设个	c=1 d=4.57972e-78 t=76495
+she geng 	蛇羹	c=1 d=4.77276e-05 t=76495
+she huang 	涉黄	c=1 d=2.90816e-59 t=76495
+she hui 	社會	c=2 d=1.56969e-10 t=76495
+she hui zi 	社會子	c=1 d=2.33179e-78 t=76495
+she ji 	涉及	c=1 d=7.40518e-55 t=76495
+she ji 	設計	c=6 d=0.100761 t=76495
+she ji dao 	涉及到	c=1 d=0.00494193 t=76495
+she ji hao 	设计好	c=1 d=3.26714e-46 t=76495
+she jiao 	社交	c=1 d=4.27619e-36 t=76495
+she le 	設了	c=1 d=8.18121e-51 t=76495
+she me 	什麼	c=5 d=8.3712e-27 t=76495
+she qu 	社區	c=3 d=9.24219e-15 t=76495
+she shi 	設施	c=4 d=2.51613e-32 t=76495
+she shou 	射手	c=1 d=3.71312e-22 t=76495
+she si 	射死	c=1 d=7.1359e-31 t=76495
+she si 	社死	c=1 d=7.20761e-31 t=76495
+she tang 	蛇湯	c=1 d=4.67826e-05 t=76495
+she tou 	舌頭	c=1 d=2.38554e-52 t=76495
+she wei 	設爲	c=2 d=2.11867e-68 t=76495
+she zhao 	社招	c=2 d=7.61797e-06 t=76495
+she zhi 	設罝	c=4 d=4.58e-86 t=76495
+she zhi 	設置	c=91 d=0.680689 t=76495
+she zhi yi xia 	設置一下	c=1 d=0.458406 t=76495
+shen 	深	c=2 d=3.70632e-09 t=76495
+shen 	神	c=1 d=1.45094e-26 t=76495
+shen cai 	身材	c=2 d=2.30733e-34 t=76495
+shen ceng 	深層	c=1 d=1.6641e-21 t=76495
+shen cha 	審查	c=1 d=1.70432e-96 t=76495
+shen du 	深度	c=2 d=1.46423e-45 t=76495
+shen er 	甚而	c=0 d=8.88251e-49 t=76495
+shen er ma 	甚而嗎	c=1 d=8.92704e-48 t=76495
+shen fen 	身份	c=5 d=1.30073e-05 t=76495
+shen fen zheng 	身份證	c=5 d=3.11262e-22 t=76495
+shen hou 	身後	c=1 d=8.35697e-07 t=76495
+shen ji 	審計	c=2 d=2.19883e-05 t=76495
+shen jing 	神經	c=1 d=9.60758e-30 t=76495
+shen me 	什麼	c=245 d=1.11744 t=76495
+shen me shen me 	什麼什麼	c=1 d=2.8856e-85 t=76495
+shen me shi 	什麼事	c=1 d=2.42208e-25 t=76495
+shen me shi hou 	什麼時候	c=1 d=4.77358e-07 t=76495
+shen ming 	申明	c=1 d=0.00146632 t=76495
+shen qing 	申請	c=5 d=0.0655462 t=76495
+shen ri kuai 	沈日快	c=0 d=9.78167e-07 t=76495
+shen ri kuai le 	沈日快了	c=1 d=9.8307e-06 t=76495
+shen ru 	深入	c=1 d=5.34243e-08 t=76495
+shen shang 	身上	c=2 d=3.44424e-20 t=76495
+shen shang xian su 	腎上腺素	c=1 d=1.18406e-17 t=76495
+shen sheng 	神聖	c=2 d=6.14416e-24 t=76495
+shen ti 	身體	c=2 d=9.73289e-06 t=76495
+shen you 	深有	c=1 d=0.00115345 t=76495
+shen zhen 	深圳	c=10 d=7.48517e-05 t=76495
+shen zheng 	深證	c=1 d=3.40695e-39 t=76495
+shen zhi 	甚至	c=4 d=0.818731 t=76495
+sheng 	昇	c=3 d=3.682e-09 t=76495
+sheng 	生	c=2 d=3.98994e-15 t=76495
+sheng 	省	c=11 d=0.310073 t=76495
+sheng 	聲	c=2 d=7.99987e-52 t=76495
+sheng chan 	生產	c=5 d=1.86273e-24 t=76495
+sheng chan zhe 	生產者	c=8 d=1.33711e-06 t=76495
+sheng cheng 	生成	c=143 d=2.63538 t=76495
+sheng chong 	生蟲	c=1 d=6.73888e-34 t=76495
+sheng cun 	生存	c=2 d=5.6391e-103 t=76495
+sheng de 	省得	c=5 d=2.01504e-08 t=76495
+sheng dui 	省隊	c=1 d=1.83482e-111 t=76495
+sheng ge 	升格	c=0 d=3.71553e-60 t=76495
+sheng ge ji 	升格級	c=1 d=3.73415e-59 t=76495
+sheng ge ji 	昇個級	c=1 d=0.0125881 t=76495

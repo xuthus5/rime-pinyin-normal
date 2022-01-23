@@ -7,8 +7,10 @@ import (
 	"io/fs"
 	"io/ioutil"
 	"os"
+	"path/filepath"
 	"strconv"
 	"strings"
+	"time"
 
 	"github.com/elliotchance/pie/pie"
 	"github.com/spf13/cobra"
@@ -18,15 +20,23 @@ var mergeUserDB *cobra.Command
 
 func init() {
 	var output string
+	var export string
 	var inputs []string
 	var weights []int64
+	var example = fmt.Sprintf("merge_userdb -o custom_pinyin.userdb.txt -i \"linux.userdb.txt,android.userdb.txt,windows.userdb.txt\" -w 4,3,1" +
+		"\nmerge_userdb -e universal.dict.yaml -i \"linux.user.db.txt,android.userdb.txt\" -w 4,2,1")
 	mergeUserDB = &cobra.Command{
 		Use:     "merge_userdb",
 		Short:   "一个用来合并 rime 词典 userdb.txt 的程序",
-		Example: "merge_userdb -o custom_pinyin.userdb.txt -i \"linux.userdb.txt,android.userdb.txt,windows.userdb.txt\" -w 4,3,1",
+		Example: example,
 		Run: func(cmd *cobra.Command, args []string) {
 			if len(inputs) == 0 {
 				fmt.Println("please input userdb.txt")
+				return
+			}
+
+			if output == "" && export == "" {
+				fmt.Println("[output|export] need one")
 				return
 			}
 
@@ -59,31 +69,61 @@ func init() {
 						}
 					}
 				}
-
 			}
 
 			// 重新排序写入
 			var buffer []byte
 			var sorts []string
+
+			var dictBuffer []byte
+			var dictSorts []string
 			for words, info := range dictM {
-				line := fmt.Sprintf("%s	%s	c=%d d=%.4f t=%d\n", info.Pinyin, words, info.C, info.D, info.T)
-				sorts = append(sorts, line)
+				if output != "" {
+					line := fmt.Sprintf("%s	%s	c=%d d=%.4f t=%d\n", info.Pinyin, words, info.C, info.D, info.T)
+					sorts = append(sorts, line)
+				}
+
+				if export != "" {
+					line := fmt.Sprintf("%s	%s	%d\n", info.Pinyin, words, info.C*1000)
+					dictSorts = append(dictSorts, line)
+				}
 			}
 
-			sorts = pie.Strings(sorts).Unique().Sort()
-
-			for _, line := range sorts {
-				buffer = append(buffer, []byte(line)...)
+			// 重新排序一下
+			if output != "" {
+				sorts = pie.Strings(sorts).Unique().Sort()
+			}
+			if export != "" {
+				dictSorts = pie.Strings(dictSorts).Unique().Sort()
 			}
 
-			ioutil.WriteFile(output, buffer, fs.ModePerm)
+			if output != "" {
+				for _, line := range sorts {
+					buffer = append(buffer, []byte(line)...)
+				}
+			}
+			if export != "" {
+				// 先写一下词典配置
+				dictConfig := fmt.Sprintf("---\nname: %s\nversion: \"%s\"\nsort: by_weight\nuse_preset_vocabulary: false\n...\n", getBaseName(export), getToday())
+				dictBuffer = append(dictBuffer, []byte(dictConfig)...)
+				for _, line := range dictSorts {
+					dictBuffer = append(dictBuffer, []byte(line)...)
+				}
+			}
 
+			if output != "" {
+				ioutil.WriteFile(output, buffer, fs.ModePerm)
+			}
+			if export != "" {
+				ioutil.WriteFile(export, dictBuffer, fs.ModePerm)
+			}
 		},
 	}
 
-	mergeUserDB.Flags().StringVarP(&output, "output", "o", "custom.userdb.txt", "合并后的字典输出位置")
-	mergeUserDB.Flags().StringSliceVarP(&inputs, "input", "i", []string{}, "合并字典来源")
-	mergeUserDB.Flags().Int64SliceVarP(&weights, "weight", "w", []int64{}, "字典合并计算权重, 默认1")
+	mergeUserDB.Flags().StringVarP(&output, "output", "o", "", "合并后的字典快照输出位置(建议输出文件格式: a.userdb.txt)")
+	mergeUserDB.Flags().StringSliceVarP(&inputs, "input", "i", []string{}, "合并字典快照来源")
+	mergeUserDB.Flags().Int64SliceVarP(&weights, "weight", "w", []int64{}, "字典快照合并计算权重, 默认1")
+	mergeUserDB.Flags().StringVarP(&export, "export", "e", "", "词典导出位置.合并后依据数据导出一份真实的词典(建议输出文件格式: a.dict.yaml)")
 }
 
 func main() {
@@ -179,4 +219,21 @@ func string2Float64(s string) float64 {
 		return 0
 	}
 	return f
+}
+
+func getToday() string {
+	tm := time.Now()
+	return tm.Format("2006.01.02")
+}
+
+func getBaseName(src string) string {
+	p := filepath.Base(src)
+	if p == "." {
+		return "universal"
+	}
+	if strings.HasSuffix(p, ".dict.yaml") {
+		s := strings.Split(p, ".")
+		return s[0]
+	}
+	return p
 }
