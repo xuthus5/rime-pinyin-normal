@@ -84,7 +84,7 @@ func init() {
 				}
 
 				if export != "" {
-					line := fmt.Sprintf("%s	%s	%d\n", info.Pinyin, words, info.C*1000)
+					line := fmt.Sprintf("%s	%s	%d\n", words, info.Pinyin, info.C*1000)
 					dictSorts = append(dictSorts, line)
 				}
 			}
