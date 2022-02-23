@@ -25,6 +25,7 @@ var pinyinFix *cobra.Command
 var pyArgs = pinyin.NewArgs()
 
 func init() {
+	var name string
 	var output string
 	var input string
 	var example = ""
@@ -37,42 +38,69 @@ func init() {
 				fmt.Println("[input|output] missing arguments")
 				return
 			}
-			var dictM = make(map[string]*WordsInfo)
+			var multiDict = make(map[string]*WordsInfo)
+			var singleDict = make(map[string]*WordsInfo)
 			m := readInputFile(input)
-			for words, woroInfo := range m {
-				dictM[words] = new(WordsInfo)
-				dictM[words].Hans = woroInfo.Hans
-				dictM[words].Weight = woroInfo.Weight
+			for words, info := range m {
 				if len([]rune(words)) != 1 {
-					dictM[words].Pinyin = woroInfo.Pinyin
+					multiDict[words] = &WordsInfo{
+						Pinyin: info.Pinyin,
+						Hans:   info.Hans,
+						Weight: info.Weight,
+					}
 					continue
 				}
 				p := getPinyin(words)
-				dictM[words].Pinyin = p
-			}
-
-			// 重新排序写入
-			var buffer []byte
-			var sorts []string
-
-			for words, info := range dictM {
-				for _, p := range info.Pinyin {
-					line := fmt.Sprintf("%s	%s	%d\n", words, p, info.Weight)
-					sorts = append(sorts, line)
+				singleDict[words] = &WordsInfo{
+					Hans:   info.Hans,
+					Weight: info.Weight,
+					Pinyin: p,
 				}
 			}
 
-			// 重新排序一下
-			sorts = pie.Strings(sorts).Unique().Sort()
-			for _, line := range sorts {
-				buffer = append(buffer, []byte(line)...)
+			// 重新排序写入词组字典
+			{
+				var buffer []byte
+				var sorts []string
+				for words, info := range multiDict {
+					for _, p := range info.Pinyin {
+						line := fmt.Sprintf("%s	%s	%d\n", words, p, info.Weight)
+						sorts = append(sorts, line)
+					}
+				}
+				buffer = append(buffer, getDictNameDecls(name)...)
+				// 重新排序一下
+				sorts = pie.Strings(sorts).Unique().Sort()
+				for _, line := range sorts {
+					buffer = append(buffer, []byte(line)...)
+				}
+				ioutil.WriteFile(fmt.Sprintf("%s/%s.dict.yaml", output, name), buffer, fs.ModePerm)
 			}
 
-			ioutil.WriteFile(output, buffer, fs.ModePerm)
+			// 重新排序写入汉字
+			{
+				var buffer []byte
+				var sorts []string
+				for words, info := range singleDict {
+					for _, p := range info.Pinyin {
+						line := fmt.Sprintf("%s	%s	%d\n", words, p, info.Weight)
+						sorts = append(sorts, line)
+					}
+				}
+				buffer = append(buffer, getDictNameDecls(fmt.Sprintf("%s.single", name))...)
+				// 重新排序一下
+				sorts = pie.Strings(sorts).Unique().Sort()
+				for _, line := range sorts {
+					buffer = append(buffer, []byte(line)...)
+				}
+				ioutil.WriteFile(fmt.Sprintf("%s/%s.single.dict.yaml", output, name), buffer, fs.ModePerm)
+			}
 		},
 	}
+
 	pinyinFix.Flags().StringVarP(&output, "output", "o", "", "字典拼音修复后的输出位置")
 	pinyinFix.Flags().StringVarP(&input, "input", "i", "", "需要修复的字典位置")
+	pinyinFix.Flags().StringVarP(&name, "name", "n", "base", "字典名(默认生成base.dict.yaml)")
 }
 
 func main() {
@@ -126,4 +154,14 @@ func string2Int64(s string) int64 {
 		return 0
 	}
 	return i
+}
+
+func getDictNameDecls(name string) []byte {
+	var lines []byte
+	lines = append(lines, []byte("---\n")...)
+	lines = append(lines, []byte(fmt.Sprintf("name: %s\n", name))...)
+	lines = append(lines, []byte("version: \"0.1\"\n")...)
+	lines = append(lines, []byte("sort: by_weight\n")...)
+	lines = append(lines, []byte("...\n")...)
+	return lines
 }
