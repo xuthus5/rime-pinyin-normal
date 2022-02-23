@@ -22,7 +22,7 @@ func init() {
 	var output string
 	var export string
 	var inputs []string
-	var weights []int64
+	var weights []float64
 	var example = fmt.Sprintf("merge_userdb -o custom_pinyin.userdb.txt -i \"linux.userdb.txt,android.userdb.txt,windows.userdb.txt\" -w 4,3,1" +
 		"\nmerge_userdb -e universal.dict.yaml -i \"linux.user.db.txt,android.userdb.txt\" -w 4,2,1")
 	mergeUserDB = &cobra.Command{
@@ -44,7 +44,7 @@ func init() {
 
 			sub := len(inputs) - len(weights)
 			if sub > 0 {
-				weights = append(weights, makeInt64OneSlice(sub)...)
+				weights = append(weights, makeFloat64OneSlice(sub)...)
 			}
 
 			for idx, input := range inputs {
@@ -122,7 +122,7 @@ func init() {
 
 	mergeUserDB.Flags().StringVarP(&output, "output", "o", "", "合并后的字典快照输出位置(建议输出文件格式: a.userdb.txt)")
 	mergeUserDB.Flags().StringSliceVarP(&inputs, "input", "i", []string{}, "合并字典快照来源")
-	mergeUserDB.Flags().Int64SliceVarP(&weights, "weight", "w", []int64{}, "字典快照合并计算权重, 默认1")
+	mergeUserDB.Flags().Float64SliceVarP(&weights, "weight", "w", []float64{}, "字典快照合并计算权重, 默认1")
 	mergeUserDB.Flags().StringVarP(&export, "export", "e", "", "词典导出位置.合并后依据数据导出一份真实的词典(建议输出文件格式: a.dict.yaml)")
 }
 
@@ -204,8 +204,8 @@ func string2Int64(s string) int64 {
 	return i
 }
 
-func makeInt64OneSlice(l int) []int64 {
-	var res []int64
+func makeFloat64OneSlice(l int) []float64 {
+	var res []float64
 	for i := 0; i < l; i++ {
 		res = append(res, 1)
 	}
