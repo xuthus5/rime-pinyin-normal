@@ -138,7 +138,7 @@ func readInputFile(src string) map[string]WordsInfo {
 
 		var wi = WordsInfo{
 			Pinyin: []string{stab[1]},
-			Hans:   stab[0],
+			Hans:   strings.Trim(stab[0], " "),
 			Weight: string2Int64(stab[2]),
 		}
 
